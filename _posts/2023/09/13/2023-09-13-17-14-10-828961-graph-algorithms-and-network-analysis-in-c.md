@@ -17,6 +17,7 @@ Breadth-First Search is a graph traversal algorithm that explores all the vertic
 Here's an example of how BFS can be implemented in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <queue>
 using namespace std;
@@ -53,6 +54,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## 2. Dijkstra's Algorithm
@@ -62,6 +64,7 @@ Dijkstra's algorithm is a popular algorithm for finding the shortest paths betwe
 Here's an example of how Dijkstra's algorithm can be implemented in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -114,6 +117,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## Conclusion
