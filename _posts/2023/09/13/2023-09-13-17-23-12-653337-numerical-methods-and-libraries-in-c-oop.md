@@ -45,6 +45,7 @@ int main()
 Armadillo is another powerful C++ library for linear algebra computations. It offers a simple and intuitive interface for performing matrix operations, solving linear systems, calculating eigenvalues, and much more. Armadillo is versatile and can handle large-scale problems efficiently.
 
 ```cpp
+{% raw %}
 #include <armadillo>
 
 int main()
@@ -60,6 +61,7 @@ int main()
 
     return 0;
 }
+{% endraw %}
 ```
 
 ### 2. Optimization Libraries:

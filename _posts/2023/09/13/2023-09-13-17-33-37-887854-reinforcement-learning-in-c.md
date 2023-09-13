@@ -23,6 +23,7 @@ To implement reinforcement learning in C++, you can use libraries such as OpenAI
 Here is an example code snippet that demonstrates how to implement a basic reinforcement learning algorithm in C++ using OpenAI Gym and Tensorflow:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <gym/gym.h>
 #include <tensorflow/tensorflow.h>
@@ -86,6 +87,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this code snippet, we create an instance of the "CartPole-v0" environment from OpenAI Gym. We then define a policy network using Tensorflow, load the pre-trained network, and set up a session to run the network. Finally, we iterate over multiple episodes and update the policy network based on the observed rewards.
