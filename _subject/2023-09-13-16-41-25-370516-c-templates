@@ -1,0 +1,100 @@
+Understanding the basics of C++ templates
+Advanced use cases of C++ templates in real-world applications
+Exploring the benefits of template metaprogramming in C++
+Implementing generic algorithms using C++ templates
+Creating custom container classes with C++ templates
+Best practices for utilizing template specialization in C++
+Optimizing code performance with specialized templates in C++
+Template argument deduction in C++ and its intricacies
+Implementing type traits and type manipulation with C++ templates
+Building a type-safe variant class with C++ templates
+Exploring the Standard Template Library (STL) in C++
+Understanding function templates in C++ and their usage
+Developing a policy-based design pattern using C++ templates
+Creating compile-time mathematical computations with constexpr templates in C++
+Using default template arguments to enhance code reusability in C++
+Exploring template aliases and their applications in C++
+Designing a type-safe printf function with C++ templates
+Implementing a simplified dependency injection framework using C++ templates
+Debugging and troubleshooting common issues with C++ templates
+Implementing efficient compile-time string manipulation with C++ templates
+Exploring variadic templates and their applications in C++
+Utilizing traits classes to enhance code readability and maintainability in C++
+Implementing a type-safe serialization framework with C++ templates
+Creating compile-time validation and verification with static_assert and template metafunctions in C++
+Exploring template template parameters and their uses in C++
+Understanding SFINAE (Substitution Failure Is Not An Error) and its role in C++ templates
+Implementing Policy-based design patterns with Modern C++ templates
+Exploring the concept of compile-time reflection using C++ templates
+Creating domain-specific languages (DSLs) with C++ templates
+Utilizing template specialization for performance optimization in C++
+Implementing compile-time type checking with C++ templates
+Extending the functionality of the STL with custom C++ templates
+Implementing compile-time sorting algorithms with C++ templates
+Exploring template metaprogramming libraries such as Boost.MPL and Boost.Hana
+Implementing a type-safe visitor pattern using C++ templates
+Developing a type-safe event system with C++ templates
+Exploring the capabilities of variadic template parameter packs in C++
+Implementing compile-time regular expressions with C++ templates
+Understanding template argument packs and their applications in C++
+Creating a type-safe configuration framework using C++ templates
+Exploring template constexpr functions and their uses in C++
+Implementing a compile-time finite state machine with C++ templates
+Utilizing CRTP (Curiously Recurring Template Pattern) for compile-time polymorphism in C++
+Creating a type-safe object pool with C++ templates
+Implementing compile-time memoization with C++ templates
+Exploring the concept of expression templates in C++
+Developing a lightweight dependency injection framework with C++ templates
+Understanding the concept of variadic template template arguments in C++
+Implementing efficient compile-time algorithms with C++ templates
+Exploring the role of template metaprogramming in modern C++ libraries
+Creating a type-safe command pattern implementation with C++ templates
+Utilizing template specialization to handle different data layouts in C++
+Implementing compile-time function composition with C++ templates
+Exploring the concept of stateful template parameters in C++
+Developing a compile-time utility library with C++ templates
+Understanding how to prevent code bloat and duplication in template-based code
+Implementing a type-safe string formatting library with C++ templates
+Exploring template argument deduction and its limitations in C++
+Utilizing template aliases to simplify complex type names in C++
+Implementing compile-time parsing and string manipulation with C++ templates
+Understanding the role of type traits in template metaprogramming
+Creating a type-safe callback system with C++ templates
+Implementing compile-time memory management with C++ templates
+Exploring template specialization for error handling and recovery in C++
+Developing a compile-time regular expression library with C++ templates
+Understanding the performance implications of using C++ templates
+Implementing a compile-time finite element analysis framework with C++ templates
+Creating a type-safe logging framework with C++ templates
+Utilizing template specialization to handle different hardware architectures in C++
+Implementing compile-time recursion with C++ templates
+Exploring the concept of expression templates for efficient mathematical computations
+Developing a type-safe configuration parser with C++ templates
+Understanding the limitations and considerations of using C++ templates in large codebases
+Implementing a compile-time dependency resolution mechanism with C++ templates
+Exploring template constexpr variables and their applications in C++
+Utilizing template specialization to handle different data serialization formats in C++
+Implementing compile-time dimensional analysis with C++ templates
+Creating a type-safe memory pool with C++ templates
+Understanding the role of static polymorphism with CRTP and C++ templates
+Implementing compile-time resource allocation with C++ templates
+Exploring template arguments with non-type parameters in C++
+Developing a type-safe event bus with C++ templates
+Understanding the role of constexpr in template metaprogramming
+Implementing a compile-time unit testing framework with C++ templates
+Creating a type-safe object serialization framework with C++ templates
+Utilizing template specialization to handle different file formats in C++
+Implementing compile-time type reflection with C++ templates
+Exploring template template non-type parameters in C++
+Developing a compile-time database query builder with C++ templates
+Understanding the role of template argument deduction with C++ concepts
+Implementing a type-safe command line argument parser with C++ templates
+Creating a compile-time HTML generation library with C++ templates
+Utilizing template specialization to handle different network protocols in C++
+Implementing compile-time validation of configuration files with C++ templates
+Exploring the concept of template aliases for type composition in C++
+Developing a type-safe caching system with C++ templates
+Understanding the role of expression templates in high-performance computing
+Implementing compile-time memory safety with C++ templates
+Creating a type-safe message passing framework with C++ templates
+Utilizing template specialization to handle different operating systems in C++

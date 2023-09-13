@@ -1,0 +1,100 @@
+Introduction to C++ lists and their advantages
+Implementing a singly linked list in C++
+Doubly linked lists in C++
+Circular linked lists and their applications in C++
+Creating a generic linked list class in C++
+Merging two sorted linked lists in C++
+Reversing a linked list in C++
+Finding the middle node of a linked list in C++
+Detecting and removing a loop in a linked list in C++
+Inserting a node at a specific position in a linked list in C++
+Deleting a node from a linked list in C++
+Counting the occurrences of a specific element in a linked list in C++
+Sorting a linked list using merge sort in C++
+Swapping nodes in a linked list in C++
+Implementing a stack using a linked list in C++
+Implementing a queue using a linked list in C++
+Creating a doubly linked list class in C++
+Reversing a doubly linked list in C++
+Implementing a circular linked list class in C++
+Inserting a node at the beginning of a linked list in C++
+Deleting the last node of a linked list in C++
+Counting the number of nodes in a linked list in C++
+Finding the nth node from the end of a linked list in C++
+Finding the intersection point of two linked lists in C++
+Checking if a linked list is palindrome in C++
+Implementing a priority queue using a linked list in C++
+Converting a linked list to a binary tree in C++
+Converting a binary tree to a linked list in C++
+Serializing and deserializing a linked list in C++
+Implementing a hash table using a linked list in C++
+Implementing a graph using adjacency list representation in C++
+Implementing a skip list in C++
+Implementing a self-adjusting list (splay tree) in C++
+Implementing a stack using an array in C++
+Implementing a queue using an array in C++
+Creating a circular queue using an array in C++
+Implementing a priority queue using an array in C++
+Implementing a binary search tree in C++
+Traversing a binary tree in C++ (preorder, inorder, postorder)
+Finding the height of a binary tree in C++
+Finding the diameter of a binary tree in C++
+Checking if a binary tree is a BST in C++
+Finding the lowest common ancestor of two nodes in a binary tree in C++
+Serializing and deserializing a binary tree in C++
+Implementing a heap data structure in C++
+Implementing a trie (prefix tree) in C++
+Implementing a hash table using an array in C++
+Implementing a hash table using a binary search tree in C++
+Implementing a hash table using a trie in C++
+Implementing a graph using adjacency matrix representation in C++
+Finding the shortest path between two nodes in a graph in C++
+Detecting a cycle in a directed graph in C++
+Implementing graph traversal algorithms (BFS, DFS) in C++
+Implementing topological sorting in a graph in C++
+Implementing Dijkstra's algorithm in a graph in C++
+Implementing Prim's algorithm in a graph in C++
+Implementing Kruskal's algorithm in a graph in C++
+Implementing Ford-Fulkerson algorithm in a graph in C++
+Implementing Bellman-Ford algorithm in a graph in C++
+Implementing Floyd-Warshall algorithm in a graph in C++
+Implementing a maximum flow algorithm in a graph in C++
+Implementing a minimum spanning tree (MST) algorithm in C++
+Implementing an AVL tree in C++
+Implementing a red-black tree in C++
+Implementing a B-tree in C++
+Implementing a skip list in C++
+Implementing a self-adjusting list (splay tree) in C++
+Implementing a hash table using open addressing in C++
+Implementing a hash table using separate chaining in C++
+Implementing a hash table using linear probing in C++
+Implementing a hash table using quadratic probing in C++
+Implementing a hash table using double hashing in C++
+Implementing a bloom filter in C++
+Implementing a radix tree (compact trie) in C++
+Implementing a suffix tree in C++
+Implementing a quadtree in C++
+Implementing a k-d tree in C++
+Implementing a segment tree in C++
+Implementing a disjoint-set data structure in C++
+Implementing a Fenwick tree (binary indexed tree) in C++
+Implementing a weighted union-find data structure in C++
+Implementing a bit manipulation library in C++
+Implementing a random number generator in C++
+Implementing a matrix library in C++
+Implementing a math library in C++
+Implementing a string manipulation library in C++
+Implementing a file manipulation library in C++
+Implementing a networking library in C++
+Implementing a database interface in C++
+Implementing a web scraping library in C++
+Implementing a concurrent programming library in C++
+Implementing a machine learning library in C++
+Implementing a computer vision library in C++
+Implementing a natural language processing library in C++
+Implementing a game development library in C++
+Implementing a GUI library in C++
+Implementing a web development framework in C++
+Implementing a mobile app development framework in C++
+Implementing a cloud computing library in C++
+Implementing a distributed systems library in C++

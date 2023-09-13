@@ -1,0 +1,100 @@
+C++ implementation of Dijkstra's algorithm
+Binary search algorithm in C++
+C++ implementation of breadth-first search (BFS)
+Implementing a linked list in C++
+Quick sort algorithm in C++
+C++ implementation of depth-first search (DFS)
+Implementing a stack using C++
+Merge sort algorithm in C++
+C++ implementation of Bellman-Ford algorithm
+Implementing a queue in C++
+Radix sort algorithm in C++
+C++ implementation of Prim's algorithm for minimum spanning tree
+Implementing a binary tree in C++
+Selection sort algorithm in C++
+C++ implementation of Floyd-Warshall algorithm
+Implementing a hash table in C++
+Insertion sort algorithm in C++
+C++ implementation of the A* search algorithm
+Implementing a heap data structure in C++
+Shell sort algorithm in C++
+C++ implementation of the Knapsack problem using dynamic programming
+Implementing a trie data structure in C++
+Counting sort algorithm in C++
+C++ implementation of the traveling salesman problem using brute force
+Implementing a graph data structure in C++
+Bubble sort algorithm in C++
+C++ implementation of the Kadane's algorithm for maximum subarray sum
+Implementing a red-black tree in C++
+Topological sort algorithm in C++
+C++ implementation of the Floyd-Rivest algorithm for selection
+Implementing a bloom filter in C++
+Cocktail sort algorithm in C++
+C++ implementation of the Ford-Fulkerson algorithm for maximum flow
+Implementing a skip list data structure in C++
+Bucket sort algorithm in C++
+C++ implementation of the Rabin-Karp algorithm for string matching
+Implementing a disjoint set data structure in C++
+Stooge sort algorithm in C++
+C++ implementation of the Tarjan's algorithm for strongly connected components
+Implementing a self-balancing AVL tree in C++
+Timsort algorithm in C++
+C++ implementation of the Edmonds-Karp algorithm for maximum flow
+Implementing a trie with compressed tries in C++
+Gnome sort algorithm in C++
+C++ implementation of the Hopcroft-Karp algorithm for maximum bipartite matching
+Implementing a van Emde Boas tree in C++
+Bead sort algorithm in C++
+C++ implementation of the Boyer-Moore algorithm for string searching
+Implementing a B-tree data structure in C++
+Bitonic sort algorithm in C++
+C++ implementation of the Aho-Corasick algorithm for multiple string matching
+Implementing a Fenwick tree (binary indexed tree) in C++
+Counting inversions algorithm in C++
+C++ implementation of the Hungarian algorithm for assignment problems
+Implementing a sparse matrix data structure in C++
+Pancake sort algorithm in C++
+C++ implementation of the Maximum subarray problem using divide and conquer
+Implementing a suffix array data structure in C++
+Gossip sort algorithm in C++
+C++ implementation of the Cooley-Tukey algorithm for fast Fourier transform (FFT)
+Implementing a quadtree data structure in C++
+Bezier curve algorithm in C++
+C++ implementation of the Gale-Shapley algorithm for stable matching
+Implementing a skip graph data structure in C++
+Batcher's odd-even merge sort algorithm in C++
+C++ implementation of the Longest increasing subsequence problem using dynamic programming
+Implementing a bloomier filter data structure in C++
+Binary tree sort algorithm in C++
+C++ implementation of the Kosaraju's algorithm for strongly connected components
+Implementing a trie with path compression in C++
+Stooge sort algorithm in C++
+C++ implementation of the Kruskal's algorithm for minimum spanning tree
+Implementing a fusion tree data structure in C++
+Cycle sort algorithm in C++
+C++ implementation of the Hopcroft's algorithm for maximum cardinality matching
+Implementing a treap data structure in C++
+Cocktail sort algorithm in C++
+C++ implementation of the Genetic algorithm for optimization problems
+Implementing a skip list data structure with probabilistic counting in C++
+Pigeonhole sort algorithm in C++
+C++ implementation of the Manacher's algorithm for finding all palindromes in a string
+Implementing a disjoint set forests data structure in C++
+Bogo sort algorithm in C++
+C++ implementation of the K-means clustering algorithm
+Implementing a trie-based predictive text input system in C++
+Pancake sort algorithm in C++
+C++ implementation of the Red-Black tree algorithm for dictionary operations
+Implementing an interval tree data structure in C++
+Patience sort algorithm in C++
+C++ implementation of the Ford-Fulkerson algorithm for maximum flow with capacity scaling
+Implementing a binary indexed tree (Fenwick tree) with range updates in C++
+Iterative Merge sort algorithm in C++
+C++ implementation of the Maximum bipartite matching problem using Hopcroft-Karp algorithm
+Implementing a packed interval tree data structure in C++
+Shell sort algorithm in C++
+C++ implementation of the Maximum flow problem using Push Relabel algorithm
+Implementing a precedence list data structure in C++
+Radix exchange sort algorithm in C++
+C++ implementation of the Interval scheduling problem using greedy algorithm
+Implementing a Huffman coding data structure in C++

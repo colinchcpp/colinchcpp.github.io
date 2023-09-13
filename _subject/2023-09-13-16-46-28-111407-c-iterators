@@ -1,0 +1,100 @@
+Understanding the basics of C++ iterators
+Using iterators to traverse container elements in C++
+Different types of iterators in C++ (input, output, forward)
+Implementing custom iterators in C++
+Advantages of using iterators in C++
+Iterating over a vector using iterators in C++
+Comparing iterators in C++
+Resizing a container while using iterators in C++
+Reverse iterating over a container using iterators in C++
+Iterating over a map using iterators in C++
+Iterators vs. range-based loops in C++
+Using const iterators in C++
+Inserting elements at specific positions using iterators in C++
+Erasing elements from a container using iterators in C++
+Advantages of using iterator algorithms in C++
+Implementing a custom iterator for a linked list in C++
+Iterator invalidation in C++
+Using iterator adapters in C++
+Implementing a bidirectional iterator in C++
+Creating a random access iterator in C++
+Using reverse iterators in C++
+Implementing a forward iterator in C++
+Iterator traits in C++
+Using move iterators in C++
+Implementing a stream iterator in C++
+Using distance and advance with iterators in C++
+C++20 ranges library and iterators
+Iterating over a set using iterators in C++
+Applying algorithms to containers using iterators in C++
+Comparing performance of iterators in different container types in C++
+Using constexpr iterators in C++
+Iterating over a multi-dimensional array using iterators in C++
+Customizing iterator behavior using iterator tags in C++
+Using reverse iterators with std algorithms in C++
+Implementing a custom iterator for a tree structure in C++
+Using custom iterator categories in C++
+Iterating over a deque using iterators in C++
+Implementing a filtering iterator in C++
+Using iterators with std algorithms in C++
+Slicing a vector using iterators in C++
+Implementing a circular buffer using iterators in C++
+Combining multiple iterators using std::zip in C++
+Implementing a skipping iterator in C++
+Using multiple iterators to traverse containers in C++
+Implementing a merge iterator in C++
+Using transform iterators in C++
+Implementing an iterator that skips duplicates in C++
+Using reverse iterators with STL containers in C++
+Implementing a random sampling iterator in C++
+Using iterators with std find_if in C++
+Implementing an iterator for a graph traversal in C++
+Using move semantics with iterators in C++
+Implementing a custom random access iterator in C++
+Using insert iterators in C++
+Implementing a lazy filtering iterator in C++
+Using iterator ranges with boost C++
+Implementing a cyclic iterator in C++
+Using iterators with std sort in C++
+Implementing a bidirectional stream iterator in C++
+Using boost iterator facade in C++
+Implementing an iterator for matrix multiplication in C++
+Using custom predicate with std find_if using iterators in C++
+Implementing a count iterator in C++
+Using adapters with std algorithms and iterators in C++
+Implementing a sliding window iterator in C++
+Using const_reverse_iterators in C++
+Implementing an iterator for detecting cycles in a graph in C++
+Using custom equality comparator with std find_if using iterators in C++
+Implementing an iterator for a binary search trees in C++
+Using reverse_iterators with std algorithms and iterators in C++
+Implementing an iterator for depth-first search in a graph in C++
+Using std accumulate with iterators in C++
+Implementing a custom sparse iterator in C++
+Using move_iterators with std algorithms in C++
+Implementing an iterator for breadth-first search in a graph in C++
+Using boost multi_pass iterator in C++
+Implementing a custom contiguous iterator in C++
+Using custom hash function with std find_if using iterators in C++
+Implementing an iterator for a directed acyclic graph in C++
+Using split iterators with std algorithms and iterators in C++
+Implementing a custom reverse iterator in C++
+Using custom comparator with std sort using iterators in C++
+Implementing an iterator for topological sort in a graph in C++
+Using boost transform_iterator in C++
+Implementing a custom bidirectional iterator in C++
+Using boost filtered_iterator in C++
+Implementing an iterator for shortest path in a graph in C++
+Using customless comparator with std sort using iterators in C++
+Implementing an iterator for an AVL tree in C++
+Using boost indirect_iterator in C++
+Implementing a custom forward iterator in C++
+Using custom transformation function with std transform using iterators in C++
+Implementing an iterator for in-order traversal in a binary search tree in C++
+Using boost zip_iterator in C++
+Implementing a custom input iterator in C++
+Using boost permutation_iterator in C++
+Implementing an iterator for a trie data structure in C++
+Using custom predicate with std remove_if using iterators in C++
+Implementing a custom output iterator in C++
+Using boost iterator_range in C++

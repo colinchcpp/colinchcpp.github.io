@@ -1,0 +1,100 @@
+Introduction to object-oriented programming with C++
+Encapsulation in C++: Understanding classes and objects
+Inheritance and polymorphism in C++ classes
+Constructors and destructors in C++ classes
+Access specifiers in C++ classes: Public, private, and protected
+Static and dynamic binding in C++
+Operator overloading in C++ classes
+Function overloading and method overriding in C++
+Abstract classes and pure virtual functions in C++
+The concept of friend classes in C++
+C++ class templates: Creating generic classes
+Exception handling in C++ classes
+Copy constructors and assignment operators in C++
+Memory management in C++ classes: Handling dynamic memory allocation
+Template specialization in C++ classes
+The concept of const correctness in C++ classes
+Virtual functions and virtual destructors in C++
+The use of namespaces in C++ classes
+Multiple inheritance in C++: Pros and cons
+Smart pointers in C++: Unique_ptr, shared_ptr, and weak_ptr
+Type casting in C++ classes: static_cast, dynamic_cast, etc.
+Design patterns in C++ classes: Singleton, factory, observer, etc.
+The concept of shallow copy and deep copy in C++ classes
+The role of inline functions in C++ classes
+The use of friend functions in C++ classes
+Function pointers and callbacks in C++ classes
+Memory alignment in C++ classes: Padding and packing
+The role of const member functions in C++ classes
+The use of operator new and delete in C++ classes
+Working with templates and variadic templates in C++ classes
+Dependency injection in C++ classes: Using constructors or setters
+The RAII (Resource Acquisition Is Initialization) idiom in C++
+Exception safety in C++ classes: Strong exception guarantee, no-throw guarantee, etc.
+The role of virtual base classes in C++ multiple inheritance
+Implementing copy assignment operators in C++ classes
+Type traits in C++: std::is_class, std::is_pointer, etc.
+The role of const pointers and const member pointers in C++ classes
+The use of forward declaration in C++ classes
+Function objects and lambda expressions in C++ classes
+The CRTP (Curiously Recurring Template Pattern) in C++ classes
+The PIMPL (Pointer to Implementation) idiom in C++
+Metaprogramming in C++ classes: Using templates and constexpr
+The role of default arguments in C++ constructors and member functions
+The use of move constructors and move assignment operators in C++ classes
+Memory management strategies in C++ classes: Smart pointers vs. raw pointers
+Working with multidimensional arrays in C++ classes
+The role of consteval and constinit in C++ classes (C++20 feature)
+The use of inheritance vs. composition in C++ classes
+The implementation of copy/move constructors and copy/move assignment operators in derived classes
+The concept of vtables and vpointers in C++ classes
+The role of the noexcept specifier in C++ functions and constructors
+The use of constexpr functions and constexpr variables in C++ classes
+The implementation of operator overloading for user-defined types in C++ classes
+The role of C++ class decorators: final, override, and explicit
+The concept of shallow copy and deep copy in C++ classes with dynamically allocated memory
+Implementing custom type conversions in C++ classes: Conversion constructors vs. conversion operators
+The use of specialized function objects (functors) in C++ classes
+Working with multidimensional arrays as class members in C++
+The role of constructors with default arguments and default member initializers in C++ classes
+The implementation of copy/move constructors and copy/move assignment operators in polymorphic classes
+The concept of CRTP (Curiously Recurring Template Pattern) in implementing interfaces in C++ classes
+The use of conditional compilation (macros) in C++ classes
+Working with mutable data members in const member functions of C++ classes
+The role of mutable lambda captures in C++ classes
+The implementation of proxy classes in C++ to control access to class members
+The concept of static_assert in C++ classes: Compile-time assertions
+Working with variadic template arguments in C++ class templates
+The role of enable_if in C++ class templates: Conditional template specialization
+The use of variadic base class templates in C++ classes
+Working with ranges in C++ classes: std::begin, std::end, range-based for loops
+The role of type erasure in C++ classes: std::any, std::variant, std::function
+The implementation of custom allocators for managing memory in C++ classes
+Working with member function pointers in C++ classes
+The role of reflection in C++ classes (C++23 feature)
+The use of coroutines in C++ classes (C++20 feature)
+Working with C++ attributes in classes: [[nodiscard]], [[fallthrough]], etc.
+The role of structured bindings in C++ classes (C++17 feature)
+Implementing operator<< and operator>> for custom output/input with C++ classes
+The use of noexcept specifier and exception specifications in C++ class member functions
+Working with ranges-v3 library in C++ classes: Transformations, filters, actions
+The role of synchronization and thread safety in C++ classes: std::mutex, std::atomic, etc.
+Using C++ attributes for code generation: [[nodiscard]], [[deprecated]], [[likely]], [[unlikely]]
+The concept of named constructors in C++ classes: Improving object creation flexibility
+Working with function traits and type traits to introspect C++ class member functions and types
+The role of standard layout and trivial types in C++ classes
+Implementing serialization and deserialization for C++ classes
+Working with ranges in C++ classes: custom iterators and range adaptors
+The role of constexpr if in C++ class templates: Compile-time branching
+Using C++ concepts to constrain template arguments in class templates (C++20 feature)
+The concept of scoped enums in C++ classes: Strongly-typed enumerators
+Working with std::any and std::variant as class members in C++
+The role of user-defined literals in C++ classes: Creating custom numeric types
+Implementing custom hash functions for C++ class template arguments
+Working with std::optional as an alternative to nullable class members in C++
+The concept of fold expressions in C++ classes (C++17 feature): Expanding parameter packs
+Implementing custom allocators for class templates in C++
+Working with C++20 ranges adaptors: views::filter, views::transform, views::all
+The role of concepts in C++20 class templates: Constraining template arguments
+Using C++20 coroutines to implement asynchronous operations in classes
+Best practices for designing and organizing C++ classes: SOLID principles, design patterns
