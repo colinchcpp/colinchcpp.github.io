@@ -3,7 +3,7 @@ layout: post
 title: "Image processing and computer vision in C++"
 description: " "
 date: 2023-09-13
-tags: [include, include, include, include, include, ImageProcessing, ComputerVision]
+tags: [include, ImageProcessing, ComputerVision]
 comments: true
 share: true
 ---

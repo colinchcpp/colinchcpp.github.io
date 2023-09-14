@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading and financial systems in C++"
 description: " "
 date: 2023-09-13
-tags: [include, include, include, finance]
+tags: [include, finance]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Database connectivity with C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, include, include, include, include, include, database]
+tags: [include, database]
 comments: true
 share: true
 ---

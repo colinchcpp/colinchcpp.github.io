@@ -3,7 +3,7 @@ layout: post
 title: "Molecular dynamics simulations in C++"
 description: " "
 date: 2023-09-13
-tags: [include, include, MolecularDynamicsSimulations]
+tags: [include, MolecularDynamicsSimulations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Augmented reality (AR) and virtual reality (VR) in C++"
 description: " "
 date: 2023-09-13
-tags: [include, include, include, Tech]
+tags: [include, Tech]
 comments: true
 share: true
 ---

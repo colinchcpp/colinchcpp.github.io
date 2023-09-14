@@ -3,7 +3,7 @@ layout: post
 title: "GUI development with C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, include, include, GUIDevelopment]
+tags: [include, GUIDevelopment]
 comments: true
 share: true
 ---

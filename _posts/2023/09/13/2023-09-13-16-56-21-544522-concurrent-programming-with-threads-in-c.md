@@ -3,7 +3,7 @@ layout: post
 title: "Concurrent programming with threads in C++"
 description: " "
 date: 2023-09-13
-tags: [include, include, concurrency]
+tags: [include, concurrency]
 comments: true
 share: true
 ---
