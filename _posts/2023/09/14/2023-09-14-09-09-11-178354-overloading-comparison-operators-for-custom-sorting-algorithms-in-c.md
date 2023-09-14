@@ -56,6 +56,7 @@ In this example, we compare `Person` objects based on their ages. We define the 
 Now, we can use the overloaded comparison operator to sort a collection of `Person` objects using a standard sorting algorithm like `std::sort`:
 
 ```cpp
+{% raw %}
 std::vector<Person> people = {{"Alice", 25}, {"Bob", 20}, {"Charlie", 30}};
 
 std::sort(people.begin(), people.end());
@@ -63,6 +64,7 @@ std::sort(people.begin(), people.end());
 for (const auto& person : people) {
     std::cout << person.name << " (" << person.age << ")" << std::endl;
 }
+{% endraw %}
 ```
 
 In this example, the `people` vector is sorted based on the custom comparison operator defined in the `Person` class. The output will be:

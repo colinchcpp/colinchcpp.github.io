@@ -72,6 +72,7 @@ public:
 We can now use the overloaded `+` operator to add two matrices together:
 
 ```cpp
+{% raw %}
 Matrix m1(2, 2);
 m1.elements = {{1, 2}, {3, 4}};
 
@@ -79,6 +80,7 @@ Matrix m2(2, 2);
 m2.elements = {{5, 6}, {7, 8}};
 
 Matrix result = m1 + m2;
+{% endraw %}
 ```
 
 ## Conclusion
