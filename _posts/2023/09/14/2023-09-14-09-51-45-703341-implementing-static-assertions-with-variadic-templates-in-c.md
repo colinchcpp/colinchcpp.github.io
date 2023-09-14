@@ -3,7 +3,7 @@ layout: post
 title: "Implementing static assertions with variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [define, define, #message, #_static_assert_test, tech]
+tags: [define, define, tech]
 comments: true
 share: true
 ---
