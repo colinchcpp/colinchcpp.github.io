@@ -35,6 +35,7 @@ In the above code, we have a vector of integers named `numbers`. By using `auto`
 ## Map
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <map>
 #include <string>
@@ -49,6 +50,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In the above code, we have a map containing student IDs as keys and their corresponding grades as values. By using `auto` with the range-based for loop, the compiler automatically deduces the type of each element in the map (`std::pair<const int, std::string>` in this case). This allows us to access the key-value pairs without explicitly specifying the types.
