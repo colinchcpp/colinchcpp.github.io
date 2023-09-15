@@ -3,7 +3,7 @@ layout: post
 title: "Advanced techniques for composition and chaining of functors in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, FunctorComposition, FunctorChaining]
+tags: [include, FunctorComposition, FunctorChaining]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging functors for thread synchronization in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, threads, synchronization]
+tags: [include, threads, synchronization]
 comments: true
 share: true
 ---

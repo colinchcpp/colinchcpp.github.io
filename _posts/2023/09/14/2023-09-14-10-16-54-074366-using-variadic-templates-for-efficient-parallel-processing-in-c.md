@@ -3,7 +3,7 @@ layout: post
 title: "Using variadic templates for efficient parallel processing in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, programming]
+tags: [include, programming]
 comments: true
 share: true
 ---

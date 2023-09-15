@@ -3,7 +3,7 @@ layout: post
 title: "How to use functors for custom sorting algorithms in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, include, cplusplus, sortingalgorithms]
+tags: [include, cplusplus, sortingalgorithms]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the limitations and best practices of using functors in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, Conclusion, tech, functors]
+tags: [include, Conclusion, tech, functors]
 comments: true
 share: true
 ---

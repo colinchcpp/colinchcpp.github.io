@@ -3,7 +3,7 @@ layout: post
 title: "How to use variadic templates in C++?"
 description: " "
 date: 2023-09-14
-tags: [include, include, VariadicTemplates]
+tags: [include, VariadicTemplates]
 comments: true
 share: true
 ---

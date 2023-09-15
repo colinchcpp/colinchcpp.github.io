@@ -3,7 +3,7 @@ layout: post
 title: "Extending the capabilities of functors with lambda functions in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, include, lambdafunctions]
+tags: [include, lambdafunctions]
 comments: true
 share: true
 ---

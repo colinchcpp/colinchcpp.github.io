@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying multithreading with variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, Multithreading]
+tags: [include, Multithreading]
 comments: true
 share: true
 ---

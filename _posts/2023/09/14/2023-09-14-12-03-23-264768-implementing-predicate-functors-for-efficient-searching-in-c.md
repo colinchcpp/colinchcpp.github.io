@@ -3,7 +3,7 @@ layout: post
 title: "Implementing predicate functors for efficient searching in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, include, programming]
+tags: [include, programming]
 comments: true
 share: true
 ---

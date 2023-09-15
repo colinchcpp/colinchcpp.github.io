@@ -3,7 +3,7 @@ layout: post
 title: "Implementing functors for efficient task scheduling in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, include, TaskScheduling]
+tags: [include, TaskScheduling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging functors for efficient network packet handling in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, networking]
+tags: [include, networking]
 comments: true
 share: true
 ---

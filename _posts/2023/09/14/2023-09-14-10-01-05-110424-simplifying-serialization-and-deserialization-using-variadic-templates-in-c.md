@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying serialization and deserialization using variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, include, include, templates]
+tags: [include, templates]
 comments: true
 share: true
 ---

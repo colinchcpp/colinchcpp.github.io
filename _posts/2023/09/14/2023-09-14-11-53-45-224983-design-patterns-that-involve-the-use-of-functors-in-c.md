@@ -3,7 +3,7 @@ layout: post
 title: "Design patterns that involve the use of functors in C++"
 description: " "
 date: 2023-09-14
-tags: [include, include, include, DesignPatterns]
+tags: [include, DesignPatterns]
 comments: true
 share: true
 ---

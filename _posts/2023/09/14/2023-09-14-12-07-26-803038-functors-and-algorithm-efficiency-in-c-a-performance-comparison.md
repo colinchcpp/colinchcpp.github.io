@@ -3,7 +3,7 @@ layout: post
 title: "Functors and algorithm efficiency in C++: a performance comparison"
 description: " "
 date: 2023-09-14
-tags: [include, include, include, Functors, AlgorithmEfficiency]
+tags: [include, Functors, AlgorithmEfficiency]
 comments: true
 share: true
 ---
