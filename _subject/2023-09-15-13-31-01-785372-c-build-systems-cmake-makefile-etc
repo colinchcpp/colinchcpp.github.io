@@ -1,0 +1,100 @@
+Introduction to C++ build systems
+Advantages and disadvantages of using CMake
+Exploring the basics of Makefile in C++
+Understanding the role of build systems in C++ development
+Comparison of different C++ build systems
+Best practices for configuring CMake projects
+Advanced features of CMake for C++ development
+Building multi-platform C++ applications with CMake
+Automating the build process in C++ with Makefile
+Debugging techniques for C++ build systems
+Exploring CMake generators for cross-compiling C++ code
+Using Makefile for managing dependencies in C++
+Introduction to Ninja build system for C++
+Building large-scale C++ projects using CMake
+Exploring the structure of a CMakeLists.txt file in C++
+Customizing the build process with CMake macros and functions
+Understanding the concept of out-of-source builds in C++
+Best practices for managing third-party libraries with CMake
+Configuring C++ project settings with CMake cache variables
+Integrating CMake with Continuous Integration (CI) pipelines
+Using Makefile recipes for advanced C++ compilation techniques
+Exploring CTest and CDash for C++ unit testing and code coverage
+Introduction to build system generators in C++
+Building C++ projects with Meson build system
+Exploring the concept of incremental builds in C++
+Cross-compiling C++ code with Makefile for embedded systems
+Advanced techniques for parallel builds with CMake
+Using Makefile conditionals for platform-specific compilation in C++
+Integrating CMake with package managers for C++ dependencies
+Understanding the role of build systems in static analysis for C++
+Exploring the concept of build targets in CMake for C++ projects
+Dependency management for C++ projects with CMake and Conan
+Automated documentation generation for C++ projects using CMake
+Customizing the build process with Makefile functions in C++
+Best practices for configuring compiler flags in C++ build systems
+Debugging build system errors in CMake for C++ projects
+Generating IDE project files with CMake for C++ development
+Continuous Integration and Deployment (CI/CD) with CMake in C++
+Enhancing the build process with Makefile phony targets in C++
+Speeding up C++ builds with incremental compilation techniques
+Using CMake for cross-platform development of C++ libraries
+Managing build configurations for C++ projects with CMake
+Exploring the concept of build scripts in Makefile for C++
+Advanced static analysis with CMake for C++ code quality
+Customizing the C++ build process with Makefile variables
+Integrating code formatters and linters with CMake in C++ projects
+Best practices for organizing C++ source code in CMake projects
+Dependency tracking and build caching in CMake for faster builds
+Exploring the concept of build pipelines in Makefile for C++
+Portable software deployment with CMake for C++ applications
+Optimizing C++ build times with distributed build systems
+Using CMake for building C++ extensions for scripting languages
+Advanced debugging techniques for C++ build systems
+Configuring preprocessor directives with CMake for C++ projects
+Exploring Makefile generators for different operating systems in C++
+Handling versioning and release management with CMake in C++
+Best practices for managing project dependencies with Makefile
+Multi-configuration builds with CMake for C++ projects
+Integrating code coverage tools with CMake in C++ development
+Error handling and reporting in C++ build systems
+Exploring the concept of build targets in Makefile for C++ projects
+Packaging C++ libraries with CMake for different platforms
+Customizing the build process with Makefile functions for C++ projects
+CMake and Makefile integration for seamless C++ development
+Best practices for using CMake install command in C++ projects
+Building C++ projects with Bazel build system
+Exploring the concept of build graphs in CMake for C++ development
+Runtime configuration of C++ projects with CMake and environment variables
+Using Makefile for incremental builds in C++ development
+Fine-tuning C++ build system performance with CMake flags
+Debugging Makefile issues in C++ development
+Integration testing with CMake and testing frameworks in C++
+Customizing the C++ build process with Makefile rules and patterns
+Exploring the concept of out-of-source Makefile builds in C++
+Best practices for setting up C++ build directories with CMake
+Using Makefile for code generation in C++ projects
+Configuring IDE project files with CMake for C++ development
+Developing plugins and extensions with CMake in C++ projects
+Exploring the concept of build configuration files in Makefile for C++
+Dependency management with CMake's ExternalProject in C++ projects
+Automated release pipelines for C++ software using CMake
+Customizing the C++ build process with Makefile dependencies
+Exploring the concept of parallel builds in CMake for faster compilation
+Best practices for managing build artifacts with CMake in C++ projects
+Using Makefile for conditional compilation in C++ development
+Cross-compiling C++ libraries with CMake for different architectures
+Static analysis integration with Makefile in C++ projects
+Configuring code coverage reports with CMake in C++ development
+Exploring the concept of build profiles in CMake for C++ projects
+Optimizing C++ build times with Makefile parallelization techniques
+Continuous benchmarking of C++ code using CMake
+Customizing the C++ build process with Makefile variables and flags
+Exploring the concept of target-specific variables in CMake for C++
+Best practices for managing dependencies with Makefile in C++ projects
+Using CMake for code generation in C++ projects
+Incremental builds with Makefile for faster C++ compilation
+Efficient utilization of hardware resources with CMake in C++ builds
+Integrating code coverage analysis with Makefile in C++ development
+Exploring the concept of build configurations in CMake for C++ projects
+Best practices for writing clean and maintainable CMake and Makefile files in C++ projects.

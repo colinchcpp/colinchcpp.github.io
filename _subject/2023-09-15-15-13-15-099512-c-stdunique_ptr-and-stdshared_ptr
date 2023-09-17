@@ -1,0 +1,100 @@
+Differences between `std::unique_ptr` and `std::shared_ptr` in C++
+Memory management with `std::unique_ptr` and `std::shared_ptr` in C++
+Benefits of using `std::unique_ptr` over raw pointers in C++
+Advantages of `std::shared_ptr` over `std::unique_ptr` in C++
+Common use cases for `std::unique_ptr` in C++
+Practical examples of using `std::shared_ptr` in C++
+Comparing performance of `std::unique_ptr` and `std::shared_ptr` in C++
+Handling circular dependencies with `std::shared_ptr` in C++
+Pros and cons of using `std::unique_ptr` for custom types in C++
+Best practices for using `std::shared_ptr` in multithreaded applications
+Memory leaks and resource ownership with `std::unique_ptr` and `std::shared_ptr`
+Implementing custom deleters with `std::unique_ptr` and `std::shared_ptr` in C++
+Using `std::unique_ptr` with arrays in C++
+Managing dynamic memory with `std::shared_ptr` and custom allocators in C++
+Mixing `std::unique_ptr` and `std::shared_ptr` in C++ codebase
+Advanced features and tricks with `std::unique_ptr` and `std::shared_ptr` in C++
+Performance trade-offs of using `std::unique_ptr` and `std::shared_ptr` in C++
+Memory safety and protection with `std::unique_ptr` and `std::shared_ptr` in C++
+Handling null and empty states with `std::unique_ptr` and `std::shared_ptr` in C++
+Debugging techniques for `std::unique_ptr` and `std::shared_ptr` in C++
+Strategies for minimizing overhead when using `std::shared_ptr` in C++
+Usage patterns for `std::unique_ptr` and `std::shared_ptr` in C++ projects
+Converting raw pointers to `std::unique_ptr` and `std::shared_ptr`
+Implicit conversions and copying with `std::unique_ptr` and `std::shared_ptr` in C++
+Error handling and exceptions with `std::unique_ptr` and `std::shared_ptr` in C++
+Using `std::unique_ptr` and `std::shared_ptr` with custom allocators in C++
+Smart pointer memory management in modern C++
+Avoiding memory leaks and dangling pointers with `std::unique_ptr` and `std::shared_ptr`
+Using `std::unique_ptr` and `std::shared_ptr` with polymorphism in C++
+Debugging common issues with `std::unique_ptr` and `std::shared_ptr`
+Copy constructors and assignment operators for `std::unique_ptr` and `std::shared_ptr` in C++
+Controlling ownership and lifetime with `std::unique_ptr` and `std::shared_ptr`
+How to safely use `std::unique_ptr` and `std::shared_ptr` in multithreaded code
+Converting between `std::unique_ptr` and `std::shared_ptr` in C++
+Using `std::unique_ptr` and `std::shared_ptr` with custom memory allocation strategies
+Memory management best practices with `std::unique_ptr` and `std::shared_ptr`
+Handling exceptions and error conditions with `std::unique_ptr` and `std::shared_ptr` in C++
+Smart pointer pitfalls and common mistakes in C++
+Implementing custom reference counting with `std::shared_ptr` in C++
+Using `std::unique_ptr` and `std::shared_ptr` with STL containers in C++
+Migrating code from raw pointers to `std::unique_ptr` and `std::shared_ptr`
+C++11 and beyond: Smart pointer enhancements and improvements
+Using `std::unique_ptr` and `std::shared_ptr` with factory methods in C++
+Managing object lifetimes with `std::unique_ptr` and `std::shared_ptr` in C++
+Garbage collection strategies and smart pointers in C++
+Ownership transfer and move semantics with `std::unique_ptr` and `std::shared_ptr`
+Implementing custom smart pointers in C++
+Lock-free programming and shared pointers in C++
+Using custom deleter functions with `std::unique_ptr` and `std::shared_ptr`
+Implementing reference counting with `std::unique_ptr` and `std::shared_ptr`
+Controlling object destruction with `std::unique_ptr` and `std::shared_ptr` in C++
+Advanced techniques for resource management with smart pointers in C++
+Circular references and weak pointers with `std::shared_ptr` in C++
+`std::unique_ptr` and `std::shared_ptr` as class members in C++
+Exploiting RAII and smart pointers for exception-safe code in C++
+Choosing the right smart pointer for your project in C++
+Custom memory allocators and `std::unique_ptr`/`std::shared_ptr` interplay in C++
+Using `std::unique_ptr` and `std::shared_ptr` with legacy C APIs in C++
+Performance analysis and memory profiling with `std::unique_ptr` and `std::shared_ptr`
+Dangling references and ownership bugs with smart pointers in C++
+Type erasure and `std::unique_ptr`/`std::shared_ptr` in generic programming
+Dynamic library loading and smart pointers in C++
+Managing resource lifetime with `std::unique_ptr` and `std::shared_ptr` in game development
+Weak pointers and object caching with `std::shared_ptr` in C++
+Atomic reference counting and `std::shared_ptr` in concurrent programming
+Using `std::unique_ptr` and `std::shared_ptr` with move semantics in C++11 and beyond
+`std::unique_ptr` and `std::shared_ptr` in memory-constrained environments
+Managing dependencies and dependency injection with smart pointers in C++
+Reference counting and thread safety with `std::shared_ptr` in C++
+Custom memory management and smart pointers in embedded systems development
+Converting smart pointers to raw pointers and vice versa in C++
+Custom allocators and memory pools with `std::unique_ptr` and `std::shared_ptr`
+Using `std::unique_ptr` and `std::shared_ptr` for exception-safe code in C++
+Controlling deallocation strategies with custom deleters in `std::unique_ptr` and `std::shared_ptr`
+Exploring memory allocators and overhead in `std::unique_ptr` and `std::shared_ptr`
+Statistics and profiling for smart pointer usage in C++
+Object pooling and memory reuse with `std::unique_ptr` and `std::shared_ptr`
+Fine-grained locking and thread safety with `std::shared_ptr` in concurrent programming
+Wrapping legacy code with `std::unique_ptr` and `std::shared_ptr` in C++
+Safe resource acquisition and release with `std::unique_ptr` and `std::shared_ptr`
+`std::unique_ptr` and `std::shared_ptr` in real-time and safety-critical systems development
+Custom memory management strategies with `std::unique_ptr` and `std::shared_ptr`
+Using `std::unique_ptr` and `std::shared_ptr` in performance-critical applications
+Managing complex object hierarchies with smart pointers in C++
+Atomic reference counting and lock-free algorithms with `std::shared_ptr`
+`std::unique_ptr` and `std::shared_ptr` as function parameters and return types in C++
+Debugging memory leaks and circular references with smart pointers
+Managing dynamic memory in multithreaded applications with `std::unique_ptr` and `std::shared_ptr`
+Garbage collection vs. smart pointers: trade-offs and best practices in C++
+Concurrent resource access control with `std::unique_ptr` and `std::shared_ptr`
+Smart pointers and exception safety in template programming
+Effective use of `std::unique_ptr` and `std::shared_ptr` in large-scale projects
+Advanced techniques for handle management with smart pointers in C++
+Combining smart pointers and modern C++ features for cleaner code
+Debugging and profiling techniques for smart pointer usage in C++
+Defensive programming with `std::unique_ptr` and `std::shared_ptr`
+`std::unique_ptr` and `std::shared_ptr` in performance-sensitive embedded systems development
+Debugging dangling references and null pointer dereferences with smart pointers
+Eliminating memory leaks and dangling pointers with smart pointers in C++
+Memory allocation strategies and performance analysis for smart pointers in C++

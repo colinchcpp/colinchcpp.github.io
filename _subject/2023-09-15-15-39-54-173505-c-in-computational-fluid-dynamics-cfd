@@ -1,0 +1,100 @@
+Understanding the fundamentals of CFD with C++
+Implementing finite volume methods in C++ for CFD simulations
+Parallel computing techniques for CFD simulations in C++
+Optimizing CFD codes using modern C++ features
+Developing a C++ library for CFD solvers
+CFD simulations of fluid flow using C++ and OpenFOAM
+GPU-accelerated CFD simulations using CUDA and C++
+High-performance C++ code for CFD applications
+Advanced data structures and algorithms for C++ CFD solvers
+Using C++ templates for code reuse in CFD simulations
+Implicit and explicit numerical methods in C++ for CFD
+Multigrid methods for solving CFD equations in C++
+Implementing turbulence models in C++ for CFD simulations
+Adaptive mesh refinement in C++ for CFD applications
+Object-oriented design patterns for C++ CFD solvers
+Mesh generation techniques for C++-based CFD simulations
+Visualization and post-processing of CFD data using C++
+CFD simulations of heat transfer in C++ using finite element methods
+Developing a parallel CFD solver from scratch using C++
+C++ libraries for input/output and file handling in CFD simulations
+Verification and validation of C++ CFD codes
+Aerodynamic simulations with C++ and CFD
+C++ implementation of lattice Boltzmann methods for CFD
+Fluid-structure interaction simulations in C++ for CFD applications
+C++ optimization techniques for speeding up CFD simulations
+Implicit time integration schemes in C++ for CFD solvers
+Implementing overset grid methods in C++ for CFD simulations
+Unstructured grid methods in C++ for CFD applications
+Solver coupling techniques for multi-physics CFD simulations using C++
+Developing a C++ framework for high-fidelity CFD simulations
+Immersed boundary methods in C++ for CFD applications
+Solving complex flow problems with C++ and CFD
+C++ implementation of multiphase flow models for CFD simulations
+Computational acoustics simulations in C++ for CFD applications
+C++ implementation of discrete element method (DEM) for CFD simulations
+Fluid-solid interaction simulations using C++ and CFD
+Developing a C++ GUI for CFD pre-processing and post-processing
+C++ implementation of boundary element methods for CFD simulations
+C++ framework for uncertainty quantification in CFD simulations
+Developing a web-based CFD platform using C++ backend
+C++ implementation of smoothed particle hydrodynamics (SPH) for CFD
+Machine learning techniques for C++-based CFD simulations
+C++ implementation of lattice gas methods for CFD applications
+C++ optimization strategies for memory management in CFD solvers
+Developing a C++ library for multiphysics coupling in CFD simulations
+Sensitivity analysis and design optimization in C++ CFD codes
+C++ implementation of immersed interface methods for CFD simulations
+C++ techniques for handling complex geometries in CFD simulations
+Developing a GUI-based C++ framework for interactive CFD simulations
+C++ implementation of level set methods for CFD applications
+C++ implementation of compressible flow models for CFD simulations
+Uncertainty quantification in C++ CFD codes using stochastic methods
+High-performance computing techniques in C++ for large-scale CFD simulations
+Developing a C++ library for GPU-based CFD calculations
+C++ implementation of adjoint methods for optimization in CFD
+C++ optimization techniques for reducing numerical diffusion in CFD solvers
+Developing a C++ framework for multi-objective optimization in CFD simulations
+C++ implementation of lattice Boltzmann methods on heterogeneous architectures
+C++ techniques for parallel data visualization of CFD results
+Implementing heat transfer models in C++ for CFD simulations
+Multi-grid acceleration techniques in C++ for CFD solvers
+Developing a C++ library for turbulence modeling in CFD applications
+C++ implementation of interface-capturing methods for multiphase CFD simulations
+C++ optimization strategies for efficient convergence in CFD solvers
+Developing a C++ framework for real-time CFD simulations
+C++ implementation of hybrid Eulerian-Lagrangian methods for CFD applications
+C++ techniques for parallel mesh generation in CFD simulations
+Developing a C++ library for sensitivity analysis in CFD codes
+Advanced techniques for error estimation and mesh adaptation in C++ CFD solvers
+C++ implementation of moving mesh methods for CFD simulations
+C++ optimization strategies for reducing memory footprint in CFD codes
+Developing a C++ framework for uncertainty quantification in CFD simulations
+C++ implementation of wall modeling techniques in CFD applications
+C++ techniques for parallel post-processing of CFD results
+Developing a C++ library for low Mach number flows in CFD simulations
+C++ implementation of phase-field methods for multiphase CFD simulations
+C++ optimization strategies for efficient linear solver performance in CFD codes
+Developing a C++ framework for real-fluid simulations in CFD
+C++ implementation of adaptive remeshing techniques for CFD applications
+C++ techniques for automatic code generation in CFD solvers
+Developing a C++ library for numerical optimization in CFD simulations
+C++ implementation of porous media models for CFD simulations
+C++ optimization strategies for load balancing in parallel CFD codes
+Developing a C++ framework for uncertainty quantification in CFD simulations
+C++ techniques for high-order discretization methods in CFD solvers
+C++ implementation of flamelet models for combustion simulations in CFD
+Developing a C++ library for multiphase flow and heat transfer in CFD simulations
+C++ optimization strategies for efficient parallel IO in CFD codes
+Developing a C++ framework for inverse problems in CFD simulations
+C++ implementation of electromagnetic models for plasma simulations in CFD
+C++ techniques for efficient interpolation and reconstruction in CFD solvers
+C++ implementation of fluid-structure interaction models for CFD applications
+Developing a C++ library for compressible flow calculations in CFD simulations
+C++ optimization strategies for optimizing subdomain data communication in parallel CFD codes
+Developing a C++ framework for CFD simulations in heterogeneous computing environments
+C++ implementation of immersed boundary methods with contact detection for CFD
+C++ techniques for efficient mesh reordering and load balancing in CFD solvers
+Developing a C++ library for radiative heat transfer calculations in CFD simulations
+C++ optimization strategies for efficient parallel time-stepping in CFD codes
+Developing a C++ framework for multi-objective optimization in CFD simulations.

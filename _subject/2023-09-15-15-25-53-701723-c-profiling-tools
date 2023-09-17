@@ -1,0 +1,100 @@
+Introduction to C++ profiling and performance optimization
+Comparing popular profiling tools for C++ developers
+Profiling memory usage in C++ applications
+Using profiling tools to identify and optimize CPU bottlenecks in C++
+Introduction to Gprof: a profiler for C++
+Profiling multithreaded C++ applications
+How to use Valgrind: a popular memory profiling tool for C++
+Profiling C++ code for embedded systems
+Best practices for profiling C++ code in production environments
+Profiling real-time C++ applications
+Introduction to CodeXL: a comprehensive profiling tool for C++
+Profiling C++ code on Windows operating systems
+Using perf: a powerful Linux profiler for C++
+Profiling C++ code on macOS using Instruments
+Profiling CUDA applications in C++
+Comparing performance analysis and profiling tools for C++
+Profiling C++ code in Visual Studio
+Introduction to OProfile: a system-wide profiler for C++ developers
+Profiling network performance in C++ applications
+Profiling C++ code on Android devices
+Using Intel VTune Amplifier: a performance profiling tool for C++
+Profiling OpenGL applications in C++
+Techniques for profiling C++ code compilation times
+Profiling C++ code on Linux using perf_events
+Profiling lock contention in multithreaded C++ applications
+Profiling C++ code using DTrace
+Profiling C++ code on iOS devices using Xcode Instruments
+Profiling C++ code compiled with different optimization flags
+Introduction to Zoom: a lightweight profiler for C++
+Profiling low-level system interactions in C++ applications
+Profiling CPU cache behavior in C++ code
+Profiling C++ code on ARM architecture
+Using gperftools: a performance profiling library for C++
+Profiling C++ code in Eclipse IDE
+Profiling vectorization in C++ code using SIMD instructions
+Profiling performance hotspots in Qt applications written in C++
+Using Perfetto: a tracing and profiling tool for C++
+Profiling C++ code on embedded Linux systems
+Techniques for profiling C++ code startup times
+Profiling I/O performance in C++ applications
+Profiling memory allocation patterns in C++ code
+Profiling C++ code with AddressSanitizer
+Introduction to Tracealyzer: a visualization tool for profiling C++ applications
+Profiling exception handling in C++ code
+Profiling C++ code written using the Boost library
+Profiling C++ code using LLVM Sanitizers
+Profiling GPU performance in C++ applications
+Profiling C++ code with Chrome DevTools
+Introduction to clamyscript: a code profiler for C++
+Profiling virtual function call overhead in C++ code
+Profiling C++ code using embedded system debuggers
+Techniques for profiling C++ code in resource-constrained environments
+Profiling C++ code on remote systems using SSH and performance analysis tools
+Profiling lock-free data structures in multithreaded C++ applications
+Profiling power consumption in C++ applications
+Using nvprof: a GPU profiling tool for C++ developers
+Introduction to cpp-profiler: a lightweight profiler for C++ code
+Profiling C++ code compiled with different compilers
+Profiling OpenMP parallelized C++ code
+Tips for effective profiling of C++ code in distributed systems
+Profiling memory fragmentation in C++ applications
+Profiling C++ code on embedded systems using JTAG interfaces
+Profiling C++ code for compatibility with different platforms and architectures
+Profiling C++ code during software testing and QA processes
+Profiling lock contention in C++ code using Intel Thread Profiler
+Profiling network latency in C++ applications
+Profiling C++ code on Windows using ETW (Event Tracing for Windows)
+Profiling C++ code using hardware performance counters
+Profiling stack usage in C++ applications
+Introduction to HPCToolkit: a performance profiling tool for C++
+Profiling C++ code using Apache JMeter for load testing
+Profiling C++ code in real-time embedded systems
+Profiling C++ code on AIX operating systems
+Profiling data structures and algorithms in C++ code
+Profiling C++ code using OpenGL Profiler
+Profiling cache misses in C++ code using Intel Performance Counter Monitor
+Profiling distributed C++ applications using message queues and log analysis
+Profiling C++ code for energy efficiency on mobile devices
+Profiling C++ code using DTrace on FreeBSD systems
+Profiling machine learning algorithms implemented in C++
+Profiling parallel algorithms in C++ code
+Techniques for profiling C++ code in real-time systems with strict deadlines
+Profiling C++ code written using the POCO C++ libraries
+Profiling SIMD instructions and vectorization in C++ code using Intel VTune Amplifier
+Profiling dynamic memory allocation and deallocation in C++ code
+Profiling C++ code on Solaris operating systems using DTrace
+Profiling C++ code for scalability in high-performance computing environments
+Profiling lock contention in C++ code using Intel Parallel Studio
+Introduction to dotTrace: a performance profiler for C++ applications
+Profiling C++ code with GuardMalloc to detect memory errors
+Profiling tree and graph traversal algorithms in C++ code
+Profiling C++ code for parallel execution on GPU clusters
+Profiling synchronization primitives in multithreaded C++ code
+Profiling C++ code on Windows CE devices
+Profiling error handling code in C++ applications
+Profiling C++ code using OpenMP tools
+Techniques for optimizing C++ code based on profiling results
+Profiling C++ code with high-level profiling tools like EasyProfiler and Very Sleepy
+Profiling C++ code in serverless architectures using AWS Lambda or Google Cloud Functions
+Profiling C++ code in safety-critical systems with strict reliability requirements

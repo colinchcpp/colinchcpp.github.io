@@ -1,0 +1,100 @@
+Comparing different C++ dependency managers: Conan vs vcpkg.
+Tips and tricks for using Conan in your C++ project.
+Exploring the features of vcpkg for managing C++ dependencies.
+How to integrate Conan into your CMake-based C++ project.
+A step-by-step guide for setting up vcpkg for your C++ development environment.
+Best practices for managing C++ dependencies with Conan and vcpkg.
+Extending the functionality of Conan with custom build systems.
+Resolving conflicts in C++ dependencies with Conan and vcpkg.
+Practical examples of using Conan and vcpkg in real-world C++ projects.
+Exploring the Conan package repository: a treasure trove of C++ libraries.
+Optimizing your C++ build process with Conan and vcpkg.
+How to create custom Conan packages for your C++ libraries.
+Troubleshooting common issues with Conan and vcpkg.
+Integrating vcpkg with popular C++ IDEs (Visual Studio, CLion, etc.).
+Exploring the Conan virtual package concept: a flexible approach to dependency management.
+CI/CD integration with Conan and vcpkg for automated dependency management.
+Enhancing your C++ development workflow with Conan and vcpkg.
+The future of C++ dependency management: trends and advancements.
+Exploring the Conan package graph: understanding dependencies at a glance.
+Advanced features of vcpkg: custom package manifests, triplet selection, and more.
+How Conan and vcpkg streamline the process of distributing C++ libraries.
+Building a cross-platform C++ project with Conan and vcpkg.
+Onboarding new developers to Conan and vcpkg: best practices.
+Implementing version control for your C++ dependencies with Conan and vcpkg.
+Exploring alternatives to Conan and vcpkg for C++ dependency management.
+Adding custom Conan generators to meet specific project requirements.
+How to contribute to the Conan or vcpkg community: guidelines and best practices.
+Caching strategies for speeding up Conan and vcpkg builds.
+Debugging dependency resolution issues with Conan and vcpkg.
+Using Conan profiles for managing multiple build configurations.
+Understanding package recipes in Conan: creating and modifying them.
+Boosting C++ productivity with Conan and vcpkg.
+Navigating the Conan CLI: essential commands for managing dependencies.
+Vcpkg integration with CMake projects: utilizing the "find_package" mechanism.
+Overcoming challenges in large-scale C++ projects with Conan and vcpkg.
+Compatibility and interoperability considerations when using Conan and vcpkg together.
+Benchmarking Conan and vcpkg: performance evaluation and optimization.
+Analyzing the impact of dependency updates with Conan and vcpkg.
+Best practices for resolving transitive dependencies in Conan and vcpkg.
+Creating Conan packages for proprietary C++ libraries: guidelines and considerations.
+Exploring the Conan and vcpkg package manifests: understanding the metadata.
+Continuous integration workflows with Conan and vcpkg: automating dependency updates.
+Debugging Conan and vcpkg installations on different operating systems.
+Simplifying DLL management in C++ projects with Conan and vcpkg.
+Optimizing Conan and vcpkg configurations for minimal build times.
+Leveraging Conan profiles for targeted C++ library versions.
+Establishing a resilient dependency management strategy with Conan and vcpkg.
+Optimizing C++ library search paths with vcpkg and the CMake toolchain file.
+Investigating the impact of different Conan and vcpkg package managers on build times.
+Integrating third-party build systems with Conan and vcpkg.
+Best practices for reproducing C++ builds using Conan and vcpkg lockfiles.
+Using Conan and vcpkg in multi-language projects (C++ with Python, etc.).
+Debugging and profiling C++ dependencies with Conan and vcpkg.
+Managing C++ binary compatibility with Conan and vcpkg: pitfalls to avoid.
+Exploring advanced Conan generators: Visual Studio solutions, Xcode projects, etc.
+Utilizing the Conan-required system feature in your C++ project.
+Migrating from one C++ dependency manager to another: challenges and considerations.
+Analyzing the dependency graph in vcpkg: understanding the impact of changes.
+Streamlining C++ continuous integration pipelines with Conan and vcpkg.
+Managing Conan and vcpkg configurations with environment variables.
+The role of package licenses in Conan and vcpkg: considerations for open-source projects.
+Best practices for defining C++ package versions in Conan and vcpkg.
+Exploring the user-defined triplet concept in vcpkg: targeting specific platforms.
+Resolving conflicting package versions with Conan and vcpkg: strategies and trade-offs.
+Debugging and optimizing C++ compilation times with Conan and vcpkg.
+Exploring Conan's package recipe generators: from Visual Studio to Android.
+Leveraging the Conan CMake generator for seamless integration.
+Overcoming compatibility issues between Conan and vcpkg in mixed C++ toolchains.
+Using Conan and vcpkg with different C++ build systems (Makefile, Bazel, etc.).
+Best practices for organizing and sharing custom Conan and vcpkg packages.
+Implementing security measures when using Conan and vcpkg in production environments.
+Managing C++ dependencies in monorepos with Conan and vcpkg.
+Optimizing Conan and vcpkg installations on resource-constrained systems.
+Creating custom Conan package channels for controlled dependency access.
+Exploring the Conan generator ecosystem: third-party solutions and integrations.
+Migrating from manual dependency management to Conan or vcpkg: a step-by-step guide.
+Investigating the impact of Conan and vcpkg cache sizes on build times.
+Overcoming challenges when packaging C++ libraries with Conan or vcpkg.
+Using Conan and vcpkg in embedded C++ projects: considerations and techniques.
+Strategies for minimizing duplicated C++ dependencies between Conan and vcpkg.
+Tuning Conan and vcpkg to optimize disk space usage in your C++ projects.
+Integration of conan-center-index and vcpkg library catalogs: possibilities and benefits.
+Exploring Conan and vcpkg package metadata: understanding and utilizing the fields.
+Analyzing the performance impact of Conan and vcpkg on C++ project builds.
+Creating Conan binary packages for faster C++ dependency retrieval.
+Exploring the Conan and vcpkg package discovery process in depth.
+Testing and verifying C++ dependencies with Conan and vcpkg.
+Creating custom Conan resource packages for non-code assets (config files, etc.).
+Optimizing the Conan profile for faster iterative development cycles.
+Automating the creation and publication of Conan packages with CI/CD tools.
+Efficiently managing C++ dependency versions with Conan and vcpkg.
+Utilizing Conan's build_requires feature for custom build system integration.
+Best practices for handling package updates in Conan and vcpkg.
+Debugging Conan and vcpkg package conflicts in complex dependency graphs.
+Exploring alternative Conan remote repositories for greater package availability.
+Tips for managing both open-source and proprietary C++ dependencies with Conan or vcpkg.
+Understanding the Conan lockfile: ensuring reproducibility in your C++ builds.
+Optimizing C++ package discovery with Conan and vcpkg for faster builds.
+Collaborative C++ development with Conan and vcpkg: guidelines for teamwork.
+Exploring the integration of Conan and vcpkg with package managers like Chocolatey or Homebrew.

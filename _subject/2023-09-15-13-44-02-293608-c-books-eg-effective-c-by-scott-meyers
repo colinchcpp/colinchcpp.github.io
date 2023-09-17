@@ -1,0 +1,100 @@
+"The C++ Programming Language" by Bjarne Stroustrup
+"Modern Effective C++" by Scott Meyers
+"C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
+"Effective Modern C++" by Scott Meyers
+"C++ Concurrency in Action" by Anthony Williams
+"Large-Scale C++ Software Design" by John Lakos
+"C++ Templates: The Complete Guide" by David Vandevoorde and Nicolai M. Josuttis
+"Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions" by Herb Sutter
+"Pattern-Oriented Software Architecture: A System of Patterns" by Frank Buschmann, et al.
+"Expert C++ Programming: Mastering Complexity with Advanced Features" by Peter Van Weert and Marc Gregoire
+"More Effective C++: 35 New Ways to Improve Your Programs and Designs" by Scott Meyers
+"C++17 - The Complete Guide" by Nicolai M. Josuttis
+"C++ Crash Course: A Fast-Paced Introduction" by Josh Lospinoso
+"Mastering Unreal Engine 4.x" by Simon Goodwin
+"Accelerated C++" by Andrew Koenig and Barbara E. Moo
+"Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library" by Scott Meyers
+"Modern C++ Design: Generic Programming and Design Patterns Applied" by Andrei Alexandrescu
+"C++ Templates: From the Ground Up" by James A. Cline
+"Effective C++ Digital Collection" by Scott Meyers
+"Game Programming Patterns" by Robert Nystrom
+"C++ for Dummies" by Stephen R. Davis
+"C++17 in Detail: Covers the Details of the New C++17 Standard" by Bart?ók Gy?rgy
+"C++ GUI Programming with Qt 4" by Jasmin Blanchette and Mark Summerfield
+"C++ Crash Course" by Paul J. Deitel and Harvey M. Deitel
+"Programming Principles and Practice Using C++" by Bjarne Stroustrup
+"Introduction to the Boost C++ Libraries: Volume II: Advanced Librari" by Robert Demming
+"Think Like a Programmer: An Introduction to Creative Problem Solving" by V. Anton Spraul
+"C++ Cookbook" by Jeff Cogswell, et al.
+"The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
+"C++ for Engineers and Scientists" by Gary J. Bronson
+"Financial Instrument Pricing Using C++" by Daniel J. Duffy
+"Thinking in C++, Volume 1" by Bruce Eckel
+"Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C" by Yifeng Zhu
+"An Introduction to Design Patterns in C++ with Qt" by Alan Ezust and Paul Ezust
+"OpenGL SuperBible: Comprehensive Tutorial and Reference" by Graham Sellers, Richard S. Wright Jr., and Nicholas Haemel
+"The C++ Standard Library: A Tutorial and Reference" by Nicolai M. Josuttis
+"Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+"C++17 Quick Syntax Reference" by Mikael Olsson
+"The C Programming Language" by Brian W. Kernighan and Dennis Ritchie
+"Game Engine Architecture" by Jason Gregory
+"C++ Without Fear: A Beginner's Guide That Makes You Feel Smart" by Brian Overland
+"Programming: Principles and Practice Using C++ (2nd Edition)" by Bjarne Stroustrup
+"C++ Programming for the Absolute Beginner" by Mark Lee
+"The Art of Computer Programming" by Donald E. Knuth
+"Secure Coding in C and C++" by Robert C. Seacord
+"Game Programming All in One" by Jonathan S. Harbour
+"Effective Java" by Joshua Bloch
+"C++: The Core Language" by Gregory Satir and Doug Brown
+"Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+"Pro C++ Programming: From Beginner to Beyond" by Marc Gregoire
+"C++ Game Development Cookbook" by Druhin Mukherjee
+"Introduction to 3D Game Programming with DirectX 9.0c: A Shader Approach" by Frank D. Luna
+"The C++ Programming Language for the IBM-PC" by Robert Lafore
+"C++ Primer Plus" by Stephen Prata
+"Programming: Principles and Practice Using C++ (2nd Edition)" by Bjarne Stroustrup
+"Effective Python: 90 Specific Ways to Write Better Python" by Brett Slatkin
+"Engineering a Compiler" by Keith Cooper and Linda Torczon
+"Code Complete: A Practical Handbook of Software Construction" by Steve McConnell
+"Functional Programming in C++: How to improve your C++ programs using functional techniques" by Ivan Cukic
+"Game Coding Complete" by Mike McShaffry
+"More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions" by Herb Sutter
+"Head First Design Patterns" by Eric Freeman and Elisabeth Robson
+"Professional C++" by Nicholas A. Solter, Scott J. Kleper, and John C. Maloney
+"C++ Templates: Metaprogramming and Container Classes" by David Vandevoorde
+"Problems and Solutions in Introductory Mechanics" by David J. Morin
+"Financial Modeling - 3rd Edition" by Simon Benninga
+"Effective Integers to C++" by Donovan Myers
+"C++: The Ultimate Beginner's Guide to Learn C++ Programming Step by Step (Computer Programming)" by Ryan Turner
+"Introduction to 64 Bit Intel Assembly Language Programming for Linux: Second Edition" by Ray Seyfarth
+"Introduction to the Boost C++ Libraries Volume I: Foundations" by Robert Demming
+"C++ for Engineers and Scientists" by Bronson
+"Hacker's Delight" by Henry S. Warren Jr.
+"Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers" by Peter Gottschling
+"Xbox 360 Game Development" by Jonathan S. Harbour
+"The Linux Programming Interface: A Linux and UNIX System Programming Handbook" by Michael Kerrisk
+"Game Engine Architecture - Second Edition" by Jason Gregory
+"Software Engineering: A Practitioner's Approach" by Roger S. Pressman
+"Test Driven Development: By Example" by Kent Beck
+"Introduction to Computing Systems: From Bits and Gates to C and Beyond" by Yale N. Patt and Sanjay J. Patel
+"Understanding C++ Programming" by Sumanth Rao
+"Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale" by Jennifer Davis and Katherine Daniels
+"Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" by Martin Kleppmann
+"C++ Crash Course: A Fast-Paced Introduction" by Lospinoso and Paul J. Deitel
+"Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" by Gregor Hohpe and Bobby Woolf
+"Pro Git" by Scott Chacon and Ben Straub
+"C++ GUI Programming with Qt 5" by Jasmin Blanchette and Mark Summerfield
+"Hacking: The Art of Exploitation" by Jon Erickson
+"The C++ Language Tutorial" by Juan Soulie
+"C++ Gotchas: Avoiding Common Problems in Coding and Design" by Stephen C. Dewhurst
+"Big Data: A Revolution That Will Transform How We Live, Work, and Think" by Viktor Mayer-Schönberger and Kenneth Cukier
+"Programming: Principles and Practice Using C++ (2nd Edition)" by Bjarne Stroustrup
+"C++ All-in-One For Dummies" by John Paul Mueller and Jeff Cogswell
+"Working Effectively with Legacy Code" by Michael Feathers
+"C++ Network Programming: Systematic Reuse with ACE and Frameworks" by Douglas C. Schmidt, Stephen D. Huston, and James D. Schmidt
+"Systems Performance: Enterprise and the Cloud" by Brendan Gregg
+"Head First Java" by Kathy Sierra and Bert Bates
+"The Art of UNIX Programming" by Eric S. Raymond
+"Essential C++" by Stanley B. Lippman
+"Seven Concurrency Models in Seven Weeks: When Threads Unravel" by Paul Butcher
+"Accelerated C++: Practical Programming by Example" by Andrew Koenig and Barbara E. Moo
