@@ -35,12 +35,14 @@ The collaboration between the C++ Standard Committee and the Jupyter Notebook co
 To get a better understanding of how C++ can be used in Jupyter Notebook, here's a simple code example:
 
 ```cpp
+{% raw %}
 #include <iostream>
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
+{% endraw %}
 ```
 
 In this example, we are using C++ to print "Hello, World!" to the console. This code can be executed directly within a Jupyter Notebook cell, providing immediate feedback to the developer.
