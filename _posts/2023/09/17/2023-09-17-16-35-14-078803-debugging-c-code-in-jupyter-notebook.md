@@ -3,7 +3,7 @@ layout: post
 title: "Debugging C++ code in Jupyter Notebook"
 description: " "
 date: 2023-09-17
-tags: [include, debugging]
+tags: [debugging]
 comments: true
 share: true
 ---

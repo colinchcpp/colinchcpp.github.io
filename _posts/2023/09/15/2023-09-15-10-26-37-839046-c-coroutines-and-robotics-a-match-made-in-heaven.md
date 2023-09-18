@@ -3,7 +3,7 @@ layout: post
 title: "C++ Coroutines and Robotics: A Match Made in Heaven"
 description: " "
 date: 2023-09-15
-tags: [include, include, tech, robotics]
+tags: [tech, robotics]
 comments: true
 share: true
 ---

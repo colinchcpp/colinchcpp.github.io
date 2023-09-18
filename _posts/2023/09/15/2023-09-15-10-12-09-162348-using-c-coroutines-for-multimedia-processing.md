@@ -3,7 +3,7 @@ layout: post
 title: "Using C++ Coroutines for Multimedia Processing"
 description: " "
 date: 2023-09-15
-tags: [include, CPlusPlus, Coroutines]
+tags: [CPlusPlus, Coroutines]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using variadic templates for dynamic polymorphism in C++"
 description: " "
 date: 2023-09-14
-tags: [include, VariadicTemplates]
+tags: [VariadicTemplates]
 comments: true
 share: true
 ---

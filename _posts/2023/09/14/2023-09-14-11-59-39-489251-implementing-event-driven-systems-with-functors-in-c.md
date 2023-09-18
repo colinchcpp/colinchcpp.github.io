@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event-driven systems with functors in C++"
 description: " "
 date: 2023-09-14
-tags: [include, programming, events]
+tags: [programming, events]
 comments: true
 share: true
 ---

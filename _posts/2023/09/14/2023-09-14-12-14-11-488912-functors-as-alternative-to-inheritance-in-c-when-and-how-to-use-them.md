@@ -3,7 +3,7 @@ layout: post
 title: "Functors as alternative to inheritance in C++: when and how to use them"
 description: " "
 date: 2023-09-14
-tags: [include, Functors]
+tags: [Functors]
 comments: true
 share: true
 ---

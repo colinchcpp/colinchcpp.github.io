@@ -3,7 +3,7 @@ layout: post
 title: "C++ and computer vision applications"
 description: " "
 date: 2023-09-13
-tags: [include, computerVision]
+tags: [computerVision]
 comments: true
 share: true
 ---

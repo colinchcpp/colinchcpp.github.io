@@ -3,7 +3,7 @@ layout: post
 title: "Improving code readability with variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, VariadicTemplates]
+tags: [VariadicTemplates]
 comments: true
 share: true
 ---

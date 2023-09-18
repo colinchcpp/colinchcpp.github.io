@@ -3,7 +3,7 @@ layout: post
 title: "Integrating graphics and animation with Qt"
 description: " "
 date: 2023-09-18
-tags: [include, Graphics]
+tags: [Graphics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging C++ Coroutines for Deep Learning Applications"
 description: " "
 date: 2023-09-15
-tags: [include, include, deeplearning, cppcoroutines]
+tags: [deeplearning, cppcoroutines]
 comments: true
 share: true
 ---

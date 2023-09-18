@@ -3,7 +3,7 @@ layout: post
 title: "Expanding the functionality of functors with type erasure in C++"
 description: " "
 date: 2023-09-14
-tags: [include, Functors, TypeErasure]
+tags: [Functors, TypeErasure]
 comments: true
 share: true
 ---

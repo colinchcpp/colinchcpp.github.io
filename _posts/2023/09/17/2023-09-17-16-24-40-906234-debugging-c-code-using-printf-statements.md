@@ -3,7 +3,7 @@ layout: post
 title: "Debugging C++ code using printf statements"
 description: " "
 date: 2023-09-17
-tags: [include, Debugging]
+tags: [Debugging]
 comments: true
 share: true
 ---

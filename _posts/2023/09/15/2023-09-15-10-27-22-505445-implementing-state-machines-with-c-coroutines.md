@@ -3,7 +3,7 @@ layout: post
 title: "Implementing State Machines with C++ Coroutines"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, include, include, programming, cppcoroutines]
+tags: [programming, cppcoroutines]
 comments: true
 share: true
 ---

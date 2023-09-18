@@ -3,7 +3,7 @@ layout: post
 title: "C++ and scientific computing"
 description: " "
 date: 2023-09-13
-tags: [include, scientificcomputing]
+tags: [scientificcomputing]
 comments: true
 share: true
 ---

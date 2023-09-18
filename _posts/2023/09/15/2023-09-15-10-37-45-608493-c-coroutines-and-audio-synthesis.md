@@ -3,7 +3,7 @@ layout: post
 title: "C++ Coroutines and Audio Synthesis"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, include, include, programming, cppcoroutines, audiosynthesis]
+tags: [programming, cppcoroutines, audiosynthesis]
 comments: true
 share: true
 ---

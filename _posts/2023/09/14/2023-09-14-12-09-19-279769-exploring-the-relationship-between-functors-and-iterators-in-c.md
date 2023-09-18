@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the relationship between functors and iterators in C++"
 description: " "
 date: 2023-09-14
-tags: [include, Functors, Iterators]
+tags: [Functors, Iterators]
 comments: true
 share: true
 ---

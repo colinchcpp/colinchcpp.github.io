@@ -3,7 +3,7 @@ layout: post
 title: "Mobile app development with C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, mobileappdevelopment]
+tags: [mobileappdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Design patterns and C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, designpatterns]
+tags: [designpatterns]
 comments: true
 share: true
 ---

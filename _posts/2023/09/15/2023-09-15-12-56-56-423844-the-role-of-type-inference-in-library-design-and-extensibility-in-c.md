@@ -3,7 +3,7 @@ layout: post
 title: "The role of type inference in library design and extensibility in C++"
 description: " "
 date: 2023-09-15
-tags: [include, include]
+tags: [include]
 comments: true
 share: true
 ---

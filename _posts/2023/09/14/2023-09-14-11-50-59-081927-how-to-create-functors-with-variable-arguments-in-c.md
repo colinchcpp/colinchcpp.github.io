@@ -3,7 +3,7 @@ layout: post
 title: "How to create functors with variable arguments in C++"
 description: " "
 date: 2023-09-14
-tags: [include, Functors]
+tags: [Functors]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "C++ Coroutines and Internet of Things (IoT) Device Control"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, Coroutines, DeviceControl]
+tags: [Coroutines, DeviceControl]
 comments: true
 share: true
 ---

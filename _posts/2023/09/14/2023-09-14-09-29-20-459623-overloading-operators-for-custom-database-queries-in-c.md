@@ -3,7 +3,7 @@ layout: post
 title: "Overloading operators for custom database queries in C++"
 description: " "
 date: 2023-09-14
-tags: [include, database, operatoroverloading]
+tags: [database, operatoroverloading]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building Mobile Applications with C++ Coroutines"
 description: " "
 date: 2023-09-15
-tags: [include, MobileAppDevelopment]
+tags: [MobileAppDevelopment]
 comments: true
 share: true
 ---

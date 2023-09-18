@@ -3,7 +3,7 @@ layout: post
 title: "Using C++ Coroutines for Internet of Things (IoT) Analytics"
 description: " "
 date: 2023-09-15
-tags: [include, include, Conclusion, Coroutines]
+tags: [Conclusion, Coroutines]
 comments: true
 share: true
 ---

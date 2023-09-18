@@ -3,7 +3,7 @@ layout: post
 title: "Implementing forward declarations in C++ Modules"
 description: " "
 date: 2023-09-15
-tags: [include, Modules]
+tags: [Modules]
 comments: true
 share: true
 ---

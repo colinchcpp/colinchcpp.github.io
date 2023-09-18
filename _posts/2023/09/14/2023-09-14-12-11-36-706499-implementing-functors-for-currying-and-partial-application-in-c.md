@@ -3,7 +3,7 @@ layout: post
 title: "Implementing functors for currying and partial application in C++"
 description: " "
 date: 2023-09-14
-tags: [include, CurryingInC, PartialApplicationInC]
+tags: [CurryingInC, PartialApplicationInC]
 comments: true
 share: true
 ---

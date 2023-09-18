@@ -3,7 +3,7 @@ layout: post
 title: "Artificial intelligence and machine learning in C++"
 description: " "
 date: 2023-09-13
-tags: [include, MachineLearning]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

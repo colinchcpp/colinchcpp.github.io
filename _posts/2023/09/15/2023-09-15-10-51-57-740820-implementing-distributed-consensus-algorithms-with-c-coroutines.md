@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Distributed Consensus Algorithms with C++ Coroutines"
 description: " "
 date: 2023-09-15
-tags: [include, include, distributedconsensus, cppcoroutines]
+tags: [distributedconsensus, cppcoroutines]
 comments: true
 share: true
 ---

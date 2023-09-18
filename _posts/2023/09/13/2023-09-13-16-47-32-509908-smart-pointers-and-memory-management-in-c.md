@@ -3,7 +3,7 @@ layout: post
 title: "Smart pointers and memory management in C++"
 description: " "
 date: 2023-09-13
-tags: [include, smartpointers, memorymanagement]
+tags: [smartpointers, memorymanagement]
 comments: true
 share: true
 ---

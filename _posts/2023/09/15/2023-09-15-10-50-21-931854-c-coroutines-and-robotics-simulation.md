@@ -3,7 +3,7 @@ layout: post
 title: "C++ Coroutines and Robotics Simulation"
 description: " "
 date: 2023-09-15
-tags: [include, include, CPlusPlus, Coroutines, RoboticsSimulation]
+tags: [CPlusPlus, Coroutines, RoboticsSimulation]
 comments: true
 share: true
 ---

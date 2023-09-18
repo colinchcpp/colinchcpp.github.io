@@ -3,7 +3,7 @@ layout: post
 title: "Exploring advanced GUI features in wxWidgets"
 description: " "
 date: 2023-09-18
-tags: [wxWidgets, include]
+tags: [wxWidgets]
 comments: true
 share: true
 ---

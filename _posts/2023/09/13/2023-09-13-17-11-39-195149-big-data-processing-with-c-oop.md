@@ -3,7 +3,7 @@ layout: post
 title: "Big data processing with C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, bigdata]
+tags: [bigdata]
 comments: true
 share: true
 ---

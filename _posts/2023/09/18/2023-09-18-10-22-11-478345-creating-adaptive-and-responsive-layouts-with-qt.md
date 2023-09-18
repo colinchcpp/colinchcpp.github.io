@@ -3,7 +3,7 @@ layout: post
 title: "Creating adaptive and responsive layouts with Qt"
 description: " "
 date: 2023-09-18
-tags: [include, ResponsiveLayouts]
+tags: [ResponsiveLayouts]
 comments: true
 share: true
 ---

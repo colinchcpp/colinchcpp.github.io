@@ -3,7 +3,7 @@ layout: post
 title: "Building custom visualizations with Qt Charts"
 description: " "
 date: 2023-09-18
-tags: [include, QtCharts]
+tags: [QtCharts]
 comments: true
 share: true
 ---

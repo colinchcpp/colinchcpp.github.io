@@ -3,7 +3,7 @@ layout: post
 title: "Data serialization and storage in C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, programming, Cplusplus, serialization, storage]
+tags: [programming, Cplusplus, serialization, storage]
 comments: true
 share: true
 ---

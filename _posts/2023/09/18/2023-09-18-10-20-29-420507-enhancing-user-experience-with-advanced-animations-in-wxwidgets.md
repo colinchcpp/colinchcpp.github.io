@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing user experience with advanced animations in wxWidgets"
 description: " "
 date: 2023-09-18
-tags: [include, wxWidgets]
+tags: [wxWidgets]
 comments: true
 share: true
 ---

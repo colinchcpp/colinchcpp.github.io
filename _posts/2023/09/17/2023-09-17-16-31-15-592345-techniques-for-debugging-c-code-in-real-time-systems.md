@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for debugging C++ code in real-time systems"
 description: " "
 date: 2023-09-17
-tags: [include, debugging]
+tags: [debugging]
 comments: true
 share: true
 ---

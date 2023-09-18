@@ -3,7 +3,7 @@ layout: post
 title: "How to create functors that participate in overload resolution in C++"
 description: " "
 date: 2023-09-14
-tags: [include, functors, overloadresolution]
+tags: [functors, overloadresolution]
 comments: true
 share: true
 ---

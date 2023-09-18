@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the collaboration between the C++ Standard Committee and the Jupyter Notebook community"
 description: " "
 date: 2023-09-17
-tags: [include, JupyterNotebook]
+tags: [JupyterNotebook]
 comments: true
 share: true
 ---

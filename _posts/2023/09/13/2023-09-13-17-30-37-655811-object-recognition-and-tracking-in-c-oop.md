@@ -3,7 +3,7 @@ layout: post
 title: "Object recognition and tracking in C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, ComputerVision, ObjectRecognition, Cplusplus]
+tags: [ComputerVision, ObjectRecognition, Cplusplus]
 comments: true
 share: true
 ---

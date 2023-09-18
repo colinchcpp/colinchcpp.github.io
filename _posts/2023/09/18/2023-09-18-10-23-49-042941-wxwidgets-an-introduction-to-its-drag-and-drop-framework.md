@@ -3,7 +3,7 @@ layout: post
 title: "wxWidgets: An introduction to its drag-and-drop framework"
 description: " "
 date: 2023-09-18
-tags: [include, include]
+tags: [include]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Numerical methods and libraries in C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [numericalmethods, include, numericalmethods, include, numericalmethods, include]
+tags: [numericalmethods, numericalmethods, numericalmethods]
 comments: true
 share: true
 ---

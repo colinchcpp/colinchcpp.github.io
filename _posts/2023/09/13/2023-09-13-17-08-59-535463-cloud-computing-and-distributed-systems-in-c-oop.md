@@ -3,7 +3,7 @@ layout: post
 title: "Cloud computing and distributed systems in C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, cloudcomputing, distributedsystems]
+tags: [cloudcomputing, distributedsystems]
 comments: true
 share: true
 ---

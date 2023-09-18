@@ -3,7 +3,7 @@ layout: post
 title: "Using valgrind for detecting memory errors in C++"
 description: " "
 date: 2023-09-17
-tags: [include, programming, CPlusPlus, development, memoryerrors, Valgrind]
+tags: [programming, CPlusPlus, development, memoryerrors, Valgrind]
 comments: true
 share: true
 ---

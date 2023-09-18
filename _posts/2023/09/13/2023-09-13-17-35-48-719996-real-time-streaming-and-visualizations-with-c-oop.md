@@ -3,7 +3,7 @@ layout: post
 title: "Real-time streaming and visualizations with C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, RealTimeStreaming]
+tags: [RealTimeStreaming]
 comments: true
 share: true
 ---

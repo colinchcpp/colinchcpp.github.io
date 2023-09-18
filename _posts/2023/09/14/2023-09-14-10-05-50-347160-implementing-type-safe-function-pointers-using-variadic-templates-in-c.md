@@ -3,7 +3,7 @@ layout: post
 title: "Implementing type-safe function pointers using variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, VariadicTemplates]
+tags: [VariadicTemplates]
 comments: true
 share: true
 ---

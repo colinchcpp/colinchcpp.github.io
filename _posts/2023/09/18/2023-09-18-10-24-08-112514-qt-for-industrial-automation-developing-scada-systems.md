@@ -3,7 +3,7 @@ layout: post
 title: "Qt for industrial automation: Developing SCADA systems"
 description: " "
 date: 2023-09-18
-tags: [include, automation]
+tags: [automation]
 comments: true
 share: true
 ---

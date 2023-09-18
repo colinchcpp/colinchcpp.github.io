@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the impact of C++ Modules on cross-language interoperability and bindings"
 description: " "
 date: 2023-09-15
-tags: [include, cplusplusmodules, crosslanguageinteroperability]
+tags: [cplusplusmodules, crosslanguageinteroperability]
 comments: true
 share: true
 ---

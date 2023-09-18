@@ -3,7 +3,7 @@ layout: post
 title: "C++ Coroutines and Game Physics Simulation"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, programming, cppcoroutines, gamephysics]
+tags: [programming, cppcoroutines, gamephysics]
 comments: true
 share: true
 ---

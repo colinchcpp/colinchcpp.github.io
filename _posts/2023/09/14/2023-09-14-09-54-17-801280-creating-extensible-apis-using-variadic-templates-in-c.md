@@ -3,7 +3,7 @@ layout: post
 title: "Creating extensible APIs using variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, VariadicTemplates, ExtensibleAPI, Coding]
+tags: [VariadicTemplates, ExtensibleAPI, Coding]
 comments: true
 share: true
 ---

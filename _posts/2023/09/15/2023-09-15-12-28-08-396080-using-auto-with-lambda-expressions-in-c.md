@@ -3,7 +3,7 @@ layout: post
 title: "Using `auto` with lambda expressions in C++"
 description: " "
 date: 2023-09-15
-tags: [include, LambdaExpressions]
+tags: [LambdaExpressions]
 comments: true
 share: true
 ---

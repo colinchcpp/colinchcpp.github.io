@@ -3,7 +3,7 @@ layout: post
 title: "An introduction to the Boost.Function library for working with functors in C++"
 description: " "
 date: 2023-09-14
-tags: [include, boost, functors]
+tags: [boost, functors]
 comments: true
 share: true
 ---

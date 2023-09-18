@@ -3,7 +3,7 @@ layout: post
 title: "Using C++ Coroutines for Financial Applications"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, coroutines]
+tags: [coroutines]
 comments: true
 share: true
 ---

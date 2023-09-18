@@ -3,7 +3,7 @@ layout: post
 title: "High-performance computing with C++ OOP"
 description: " "
 date: 2023-09-13
-tags: [include, HighPerformanceComputing]
+tags: [HighPerformanceComputing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging C++ Coroutines for Scientific Computing"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, include, scientificcomputing, cppcoroutines]
+tags: [scientificcomputing, cppcoroutines]
 comments: true
 share: true
 ---

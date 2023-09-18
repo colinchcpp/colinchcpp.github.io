@@ -3,7 +3,7 @@ layout: post
 title: "Threading and multi-threading in C++"
 description: " "
 date: 2023-09-13
-tags: [include, Threading]
+tags: [Threading]
 comments: true
 share: true
 ---

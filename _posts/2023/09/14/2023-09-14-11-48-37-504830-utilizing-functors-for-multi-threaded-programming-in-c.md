@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing functors for multi-threaded programming in C++"
 description: " "
 date: 2023-09-14
-tags: [include, MultiThreading]
+tags: [MultiThreading]
 comments: true
 share: true
 ---

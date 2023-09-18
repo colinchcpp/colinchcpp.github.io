@@ -3,7 +3,7 @@ layout: post
 title: "3D reconstruction and augmented reality in C++"
 description: " "
 date: 2023-09-13
-tags: [include, 3DReconstruction, AugmentedReality]
+tags: [3DReconstruction, AugmentedReality]
 comments: true
 share: true
 ---

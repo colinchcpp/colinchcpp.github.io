@@ -3,7 +3,7 @@ layout: post
 title: "Building a desktop application with Qt Creator"
 description: " "
 date: 2023-09-18
-tags: [include, include]
+tags: [include]
 comments: true
 share: true
 ---

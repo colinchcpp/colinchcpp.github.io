@@ -3,7 +3,7 @@ layout: post
 title: "Functors in modern C++: leveraging the features of C++17 and beyond"
 description: " "
 date: 2023-09-14
-tags: [include, functors]
+tags: [functors]
 comments: true
 share: true
 ---

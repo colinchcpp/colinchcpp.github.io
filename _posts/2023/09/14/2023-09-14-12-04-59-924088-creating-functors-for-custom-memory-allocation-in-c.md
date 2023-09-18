@@ -3,7 +3,7 @@ layout: post
 title: "Creating functors for custom memory allocation in C++"
 description: " "
 date: 2023-09-14
-tags: [include, MemoryAllocation]
+tags: [MemoryAllocation]
 comments: true
 share: true
 ---

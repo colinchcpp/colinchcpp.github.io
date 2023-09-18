@@ -3,7 +3,7 @@ layout: post
 title: "Lambda expressions and functional programming in C++"
 description: " "
 date: 2023-09-13
-tags: [include, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

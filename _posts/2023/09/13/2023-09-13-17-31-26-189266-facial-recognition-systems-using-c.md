@@ -3,7 +3,7 @@ layout: post
 title: "Facial recognition systems using C++"
 description: " "
 date: 2023-09-13
-tags: [include, facialrecognition]
+tags: [facialrecognition]
 comments: true
 share: true
 ---

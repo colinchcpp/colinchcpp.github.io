@@ -3,7 +3,7 @@ layout: post
 title: "Dynamic dispatch with variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, programming]
+tags: [programming]
 comments: true
 share: true
 ---

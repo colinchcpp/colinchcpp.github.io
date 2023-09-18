@@ -3,7 +3,7 @@ layout: post
 title: "Scaling C++ Coroutines for High-Concurrency Applications"
 description: " "
 date: 2023-09-15
-tags: [include, coroutines, scaling, concurrency]
+tags: [coroutines, scaling, concurrency]
 comments: true
 share: true
 ---

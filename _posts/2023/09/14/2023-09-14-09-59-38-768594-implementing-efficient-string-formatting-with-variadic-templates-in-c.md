@@ -3,7 +3,7 @@ layout: post
 title: "Implementing efficient string formatting with variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, stringformatting]
+tags: [stringformatting]
 comments: true
 share: true
 ---

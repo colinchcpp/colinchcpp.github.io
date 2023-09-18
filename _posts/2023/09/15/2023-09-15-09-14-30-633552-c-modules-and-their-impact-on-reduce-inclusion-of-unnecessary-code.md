@@ -3,7 +3,7 @@ layout: post
 title: "C++ Modules and their impact on reduce inclusion of unnecessary code"
 description: " "
 date: 2023-09-15
-tags: [include, ifndef, define, endif, include, ReducingCodeInclusion]
+tags: [ifndef, define, endif, ReducingCodeInclusion]
 comments: true
 share: true
 ---

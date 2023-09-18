@@ -3,7 +3,7 @@ layout: post
 title: "Building Robotics Control Systems with C++ Coroutines"
 description: " "
 date: 2023-09-15
-tags: [include, include, robotics, cplusplus, coroutines]
+tags: [robotics, cplusplus, coroutines]
 comments: true
 share: true
 ---

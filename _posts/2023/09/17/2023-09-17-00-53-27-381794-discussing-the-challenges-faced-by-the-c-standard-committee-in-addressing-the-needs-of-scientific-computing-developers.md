@@ -3,7 +3,7 @@ layout: post
 title: "Discussing the challenges faced by the C++ Standard Committee in addressing the needs of scientific computing developers"
 description: " "
 date: 2023-09-17
-tags: [PerformanceOptimization, Standardization, include]
+tags: [PerformanceOptimization, Standardization]
 comments: true
 share: true
 ---

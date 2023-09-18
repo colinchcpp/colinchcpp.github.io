@@ -3,7 +3,7 @@ layout: post
 title: "Troubleshooting parsing errors in C++ code"
 description: " "
 date: 2023-09-17
-tags: [include, define, ifdef, Troubleshooting]
+tags: [define, ifdef, Troubleshooting]
 comments: true
 share: true
 ---

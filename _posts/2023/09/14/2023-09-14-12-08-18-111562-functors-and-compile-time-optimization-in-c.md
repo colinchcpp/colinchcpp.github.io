@@ -3,7 +3,7 @@ layout: post
 title: "Functors and compile-time optimization in C++"
 description: " "
 date: 2023-09-14
-tags: [include, CompileTimeOptimization]
+tags: [CompileTimeOptimization]
 comments: true
 share: true
 ---

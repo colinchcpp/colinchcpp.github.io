@@ -3,7 +3,7 @@ layout: post
 title: "Discussing the challenges faced by the C++ Standard Committee in standardizing libraries and frameworks"
 description: " "
 date: 2023-09-17
-tags: [include, include, Conclusion, Standardization]
+tags: [Conclusion, Standardization]
 comments: true
 share: true
 ---

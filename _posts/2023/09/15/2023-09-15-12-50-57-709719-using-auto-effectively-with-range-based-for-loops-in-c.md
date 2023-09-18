@@ -3,7 +3,7 @@ layout: post
 title: "Using `auto` effectively with range-based for loops in C++"
 description: " "
 date: 2023-09-15
-tags: [include, include]
+tags: [include]
 comments: true
 share: true
 ---

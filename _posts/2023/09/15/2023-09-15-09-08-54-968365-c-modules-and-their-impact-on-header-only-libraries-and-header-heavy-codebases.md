@@ -3,7 +3,7 @@ layout: post
 title: "C++ Modules and their impact on header-only libraries and header-heavy codebases"
 description: " "
 date: 2023-09-15
-tags: [include, Conclusion, HeaderHeavyCodebases]
+tags: [Conclusion, HeaderHeavyCodebases]
 comments: true
 share: true
 ---

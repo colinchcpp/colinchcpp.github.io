@@ -3,7 +3,7 @@ layout: post
 title: "Type inference and runtime polymorphism in C++"
 description: " "
 date: 2023-09-15
-tags: [include, cplusplus]
+tags: [cplusplus]
 comments: true
 share: true
 ---

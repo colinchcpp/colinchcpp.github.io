@@ -3,7 +3,7 @@ layout: post
 title: "Using C++ Coroutines for GUI Applications"
 description: " "
 date: 2023-09-15
-tags: [include, Coroutines, AsynchronousProgramming]
+tags: [Coroutines, AsynchronousProgramming]
 comments: true
 share: true
 ---

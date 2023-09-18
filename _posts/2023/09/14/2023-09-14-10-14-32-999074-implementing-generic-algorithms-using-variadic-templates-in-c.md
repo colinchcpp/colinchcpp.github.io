@@ -3,7 +3,7 @@ layout: post
 title: "Implementing generic algorithms using variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, programming, Cplusplus]
+tags: [programming, Cplusplus]
 comments: true
 share: true
 ---

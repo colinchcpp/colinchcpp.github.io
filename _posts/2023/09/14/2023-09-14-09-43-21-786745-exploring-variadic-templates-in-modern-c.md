@@ -3,7 +3,7 @@ layout: post
 title: "Exploring variadic templates in modern C++"
 description: " "
 date: 2023-09-14
-tags: [include, variadictemplates]
+tags: [variadictemplates]
 comments: true
 share: true
 ---

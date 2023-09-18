@@ -3,7 +3,7 @@ layout: post
 title: "wxWidgets: A guide to building scalable UIs"
 description: " "
 date: 2023-09-18
-tags: [include, programming]
+tags: [programming]
 comments: true
 share: true
 ---

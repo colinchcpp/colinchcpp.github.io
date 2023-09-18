@@ -3,7 +3,7 @@ layout: post
 title: "C++ Coroutines and Virtual Reality Development"
 description: " "
 date: 2023-09-15
-tags: [include, CPlusPlus, VirtualReality]
+tags: [CPlusPlus, VirtualReality]
 comments: true
 share: true
 ---

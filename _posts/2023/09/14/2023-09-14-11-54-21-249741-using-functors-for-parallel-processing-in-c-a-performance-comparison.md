@@ -3,7 +3,7 @@ layout: post
 title: "Using functors for parallel processing in C++: a performance comparison"
 description: " "
 date: 2023-09-14
-tags: [include, ParallelProcessing, Functors]
+tags: [ParallelProcessing, Functors]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Parallel Algorithms with C++ Coroutines"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, programming, coroutines, parallel]
+tags: [programming, coroutines, parallel]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Distributed Image Recognition with C++ Coroutines"
 description: " "
 date: 2023-09-15
-tags: [include, include, ImageRecognition]
+tags: [ImageRecognition]
 comments: true
 share: true
 ---

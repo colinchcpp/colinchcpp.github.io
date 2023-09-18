@@ -3,7 +3,7 @@ layout: post
 title: "Functors vs. function pointers in C++: a comparison"
 description: " "
 date: 2023-09-14
-tags: [include, FunctionPointers, Functors]
+tags: [FunctionPointers, Functors]
 comments: true
 share: true
 ---

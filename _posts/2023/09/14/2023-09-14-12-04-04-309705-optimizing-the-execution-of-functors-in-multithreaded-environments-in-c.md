@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing the execution of functors in multithreaded environments in C++"
 description: " "
 date: 2023-09-14
-tags: [include, Multithreading, Functors]
+tags: [Multithreading, Functors]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "C++ Coroutines and Real-time Graphical User Interfaces (GUI)"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, include, include, Coroutines, RealTime, Asynchronous]
+tags: [Coroutines, RealTime, Asynchronous]
 comments: true
 share: true
 ---

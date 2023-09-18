@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying type checking with variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, techblogs, CPPprogramming]
+tags: [techblogs, CPPprogramming]
 comments: true
 share: true
 ---

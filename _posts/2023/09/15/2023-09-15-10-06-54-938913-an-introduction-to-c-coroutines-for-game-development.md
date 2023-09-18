@@ -3,7 +3,7 @@ layout: post
 title: "An Introduction to C++ Coroutines for Game Development"
 description: " "
 date: 2023-09-15
-tags: [include, GameDevelopment, CppCoroutines]
+tags: [GameDevelopment, CppCoroutines]
 comments: true
 share: true
 ---

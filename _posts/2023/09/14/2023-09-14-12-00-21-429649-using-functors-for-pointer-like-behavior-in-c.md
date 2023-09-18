@@ -3,7 +3,7 @@ layout: post
 title: "Using functors for pointer-like behavior in C++"
 description: " "
 date: 2023-09-14
-tags: [include, functors, pointers]
+tags: [functors, pointers]
 comments: true
 share: true
 ---

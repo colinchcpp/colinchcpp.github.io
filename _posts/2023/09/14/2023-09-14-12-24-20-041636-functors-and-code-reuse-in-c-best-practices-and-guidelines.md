@@ -3,7 +3,7 @@ layout: post
 title: "Functors and code reuse in C++: best practices and guidelines"
 description: " "
 date: 2023-09-14
-tags: [include, Functors, CodeReuse]
+tags: [Functors, CodeReuse]
 comments: true
 share: true
 ---

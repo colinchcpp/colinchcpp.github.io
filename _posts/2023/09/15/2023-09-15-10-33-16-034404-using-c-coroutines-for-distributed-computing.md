@@ -3,7 +3,7 @@ layout: post
 title: "Using C++ Coroutines for Distributed Computing"
 description: " "
 date: 2023-09-15
-tags: [include, include, include, include, distributedcomputing, coroutines]
+tags: [distributedcomputing, coroutines]
 comments: true
 share: true
 ---

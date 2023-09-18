@@ -3,7 +3,7 @@ layout: post
 title: "Functors and memory management in C++: avoiding leaks and performance issues"
 description: " "
 date: 2023-09-14
-tags: [include, MemoryManagement]
+tags: [MemoryManagement]
 comments: true
 share: true
 ---

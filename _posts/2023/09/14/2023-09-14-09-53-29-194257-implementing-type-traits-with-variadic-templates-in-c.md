@@ -3,7 +3,7 @@ layout: post
 title: "Implementing type traits with variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, programming, cplusplus]
+tags: [programming, cplusplus]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Bioinformatics algorithms and tools in C++"
 description: " "
 date: 2023-09-13
-tags: [include, bioinformatics]
+tags: [bioinformatics]
 comments: true
 share: true
 ---

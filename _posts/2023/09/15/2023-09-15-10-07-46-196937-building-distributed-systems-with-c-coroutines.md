@@ -3,7 +3,7 @@ layout: post
 title: "Building Distributed Systems with C++ Coroutines"
 description: " "
 date: 2023-09-15
-tags: [include, distributedsystems, cppcoroutines]
+tags: [distributedsystems, cppcoroutines]
 comments: true
 share: true
 ---

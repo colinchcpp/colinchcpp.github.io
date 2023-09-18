@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the GUI capabilities of Qt"
 description: " "
 date: 2023-09-18
-tags: [include, UserInterface]
+tags: [UserInterface]
 comments: true
 share: true
 ---

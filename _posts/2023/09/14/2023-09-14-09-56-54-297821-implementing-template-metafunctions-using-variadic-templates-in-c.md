@@ -3,7 +3,7 @@ layout: post
 title: "Implementing template metafunctions using variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, TemplateMetafunctions]
+tags: [TemplateMetafunctions]
 comments: true
 share: true
 ---

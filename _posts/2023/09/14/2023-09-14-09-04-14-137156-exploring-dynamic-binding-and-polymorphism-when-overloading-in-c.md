@@ -3,7 +3,7 @@ layout: post
 title: "Exploring dynamic binding and polymorphism when overloading in C++"
 description: " "
 date: 2023-09-14
-tags: [include, techblog, cppprogramming]
+tags: [techblog, cppprogramming]
 comments: true
 share: true
 ---

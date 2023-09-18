@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the integration of web technologies with Qt"
 description: " "
 date: 2023-09-18
-tags: [include, WebTechnologies]
+tags: [WebTechnologies]
 comments: true
 share: true
 ---

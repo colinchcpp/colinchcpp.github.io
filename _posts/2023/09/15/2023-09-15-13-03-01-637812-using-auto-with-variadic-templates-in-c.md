@@ -3,7 +3,7 @@ layout: post
 title: "Using `auto` with variadic templates in C++"
 description: " "
 date: 2023-09-15
-tags: [include, variadictemplates]
+tags: [variadictemplates]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging C++ Coroutines for Quantum Computing"
 description: " "
 date: 2023-09-15
-tags: [include, include, quantumcomputing, cppcoroutines]
+tags: [quantumcomputing, cppcoroutines]
 comments: true
 share: true
 ---

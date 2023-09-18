@@ -3,7 +3,7 @@ layout: post
 title: "Interactive data visualization using C++"
 description: " "
 date: 2023-09-13
-tags: [include, datavisualization]
+tags: [datavisualization]
 comments: true
 share: true
 ---

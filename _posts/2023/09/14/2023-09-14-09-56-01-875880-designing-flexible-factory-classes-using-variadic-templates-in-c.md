@@ -3,7 +3,7 @@ layout: post
 title: "Designing flexible factory classes using variadic templates in C++"
 description: " "
 date: 2023-09-14
-tags: [include, VariadicTemplates, FactoryDesignPattern]
+tags: [VariadicTemplates, FactoryDesignPattern]
 comments: true
 share: true
 ---

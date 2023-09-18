@@ -3,7 +3,7 @@ layout: post
 title: "Functors for handling state transitions in finite state machines in C++"
 description: " "
 date: 2023-09-14
-tags: [include, tech, functors]
+tags: [tech, functors]
 comments: true
 share: true
 ---

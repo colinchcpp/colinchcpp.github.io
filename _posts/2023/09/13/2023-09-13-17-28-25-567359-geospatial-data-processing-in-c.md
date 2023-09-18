@@ -3,7 +3,7 @@ layout: post
 title: "Geospatial data processing in C++"
 description: " "
 date: 2023-09-13
-tags: [include, geospatial]
+tags: [geospatial]
 comments: true
 share: true
 ---

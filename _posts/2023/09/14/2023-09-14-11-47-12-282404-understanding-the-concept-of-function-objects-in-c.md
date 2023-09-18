@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the concept of function objects in C++"
 description: " "
 date: 2023-09-14
-tags: [include, FunctionObjects]
+tags: [FunctionObjects]
 comments: true
 share: true
 ---
