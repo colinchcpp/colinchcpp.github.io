@@ -1,0 +1,100 @@
+What is a friend class in C++?
+How to declare a friend class in C++?
+What are the benefits of using friend classes in C++?
+When should we use friend classes in C++?
+Can a friend class access private members of another class in C++?
+Can a friend class inherit from another class in C++?
+How does the concept of friend classes differ from inheritance in C++?
+Can a friend class be inherited in C++?
+Can a friend class be used to access private members of a derived class in C++?
+How to define a friend function inside a class in C++?
+Can a friend function be a member of another class in C++?
+Can a friend class access protected members of another class in C++?
+Can a friend class access const members of another class in C++?
+Can a friend class be used to override private access specifier in C++?
+Can a friend class access static members of another class in C++?
+How to restrict access to certain members of a class in C++?
+Can a friend class have multiple classes as its friends in C++?
+Can a friend class be used to implement operator overloading in C++?
+What is the scope of a friend class in C++?
+How to define a friend class inside a namespace in C++?
+Can a friend class be accessed in another namespace in C++?
+Can a friend class be a template class in C++?
+How to declare a friend class inside another class in C++?
+Can a friend class be a base class in C++?
+How to prevent a class from becoming a friend class in C++?
+How to make all functions of a class as friend functions in C++?
+Can a friend class access private members of a nested class in C++?
+How to declare a friend class in the global scope in C++?
+Can a friend class access private static members of another class in C++?
+How to declare a const friend function in C++?
+Can a friend class be used to implement type conversions in C++?
+How to invoke a friend function from a friend class in C++?
+Can a friend class be declared as a friend of multiple classes in C++?
+How to prevent a class from being inherited by a friend class in C++?
+Can a friend class have private members in C++?
+How to prevent all classes within a namespace from accessing a class as a friend in C++?
+Can a friend class have private virtual functions in C++?
+How to declare a friend class inside a protected block in C++?
+Can a friend class access private members of a base class in C++?
+How to declare a friend class inside a struct in C++?
+Can a friend class be used to implement message passing between classes in C++?
+How to declare a friend class inside an anonymous namespace in C++?
+Can a friend class be forward declared in C++?
+How to prevent a friend class from accessing certain private members in C++?
+Can a friend function access static members of a friend class in C++?
+How to declare a friend class inside a function in C++?
+Can a friend class be used to implement access control in C++?
+How to declare a friend class inside a union in C++?
+Can a friend class access private virtual functions of another class in C++?
+How to declare a friend class inside a lambda function in C++?
+Can a friend class access private nested classes of another class in C++?
+How to declare a friend class inside a template function in C++?
+Can a friend class access private members of a derived class in C++ polymorphism?
+How to declare a friend class inside a template class in C++?
+Can a friend class be used to implement data hiding in C++?
+How to declare a friend class inside a lambda capture in C++?
+Can a friend class access private members of a friend class in C++?
+How to declare a friend class inside a static function in C++?
+Can a friend class access private base classes of another class in C++?
+How to declare a friend class inside a typedef in C++?
+Can a friend class access private members of a friend function in C++?
+How to declare a friend class inside a macro in C++?
+Can a friend class access private members of a non-friend class in C++?
+How to declare a friend class inside an enum in C++?
+Can a friend class access private static members of a template class in C++?
+How to declare a friend class inside a static variable in C++?
+Can a friend class access private virtual functions of a base class in C++?
+How to declare a friend class inside a struct within a class in C++?
+Can a friend class access private members of a derived class in C++ multiple inheritance?
+How to declare a friend class inside a namespace alias in C++?
+Can a friend class access private members of a base class in C++ multiple inheritance?
+How to declare a friend class inside a constexpr function in C++?
+Can a friend class access private members of a base class in C++?
+How to declare a friend class inside a volatile function in C++?
+Can a friend class access private members of a template class in C++?
+How to declare a friend class inside a mutable member function in C++?
+Can a friend class be used to implement data encapsulation in C++?
+How to declare a friend class inside a volatile member function in C++?
+Can a friend class access private members of a derived template class in C++?
+How to declare a friend class inside a const member function in C++?
+Can a friend class access private members of a base template class in C++?
+How to declare a friend class inside a throw() function specifier in C++?
+Can a friend class access private members of a non-template class in C++?
+How to declare a friend class inside a noexcept function specifier in C++?
+Can a friend class access private members of a template parameter in C++?
+How to declare a friend class inside a constexpr variable in C++?
+Can a friend class access private members of a template function in C++?
+How to declare a friend class inside a volatile static data member in C++?
+Can a friend class access private members of a base template class in C++ polymorphism?
+How to declare a friend class inside a static data member in C++?
+Can a friend class access private members of a class in C++ templates?
+How to declare a friend class inside a const static data member in C++?
+Can a friend class access private members of a template function in C++ multiple instantiation?
+How to declare a friend class inside a constexpr static data member in C++?
+Can a friend class access private members of a derived template class in C++ polymorphism?
+How to declare a friend class inside a noexcept static data member in C++?
+Can a friend class access private members of a base template class in C++ multiple inheritance?
+How to declare a friend class inside a noexcept constexpr function specifier in C++?
+Can a friend class access private members of a non-template class in C++ template instantiation?
+How to declare a friend class inside a volatile constexpr function specifier in C++?

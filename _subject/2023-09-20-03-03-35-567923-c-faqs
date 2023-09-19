@@ -1,0 +1,100 @@
+What is C++?
+What is the difference between C and C++?
+How does C++ differ from other programming languages?
+What are the key features of C++?
+What are the advantages of using C++?
+Can I use C code in a C++ program?
+What are the basic data types in C++?
+How can I declare and initialize variables in C++?
+How does C++ handle memory management?
+What is object-oriented programming (OOP) in C++?
+How do classes and objects work in C++?
+What is inheritance in C++?
+What are the different types of inheritance supported by C++?
+How do you create constructors and destructors in C++?
+What is function overloading in C++?
+How can I overload operators in C++?
+What is the difference between function overloading and operator overloading?
+How do you handle exceptions in C++?
+What are templates in C++?
+How can I write generic algorithms using templates in C++?
+How do you use the standard template library (STL) in C++?
+What are the different containers available in the STL?
+How do you implement iterators in C++?
+What is the difference between a vector and an array in C++?
+How can you handle input/output operations in C++?
+What are the different file handling techniques in C++?
+How do you use namespaces in C++?
+What is polymorphism in C++?
+How do you achieve runtime polymorphism with virtual functions?
+What is function overriding in C++?
+How do you implement multithreading in C++?
+What are the synchronization techniques in C++?
+How do you handle shared resources in multithreaded programs in C++?
+What are the various types of storage classes in C++?
+How do you use static keyword in C++?
+What is the role of const keyword in C++?
+How can you work with pointers in C++?
+What is the difference between const pointers and pointer to const in C++?
+How can you pass arguments by reference in C++?
+What are the various types of function parameters in C++?
+How can you work with dynamic memory allocation in C++?
+What is the difference between new and malloc in C++?
+How can you free dynamically allocated memory in C++?
+How do you debug and troubleshoot C++ code?
+What are the common mistakes and pitfalls in C++ programming?
+What are the best practices for writing efficient C++ code?
+How can you optimize C++ code for performance?
+What are the different tools and frameworks available for C++ development?
+How can you handle errors and exceptions in C++ programs?
+What are the best practices for error handling in C++?
+How do you implement data structures in C++?
+What are the different types of sorting algorithms in C++?
+How do you implement searching algorithms in C++?
+What is the difference between stack and queue in C++?
+How do you implement linked lists in C++?
+What is the difference between singly linked list and doubly linked list in C++?
+How do you implement trees and binary trees in C++?
+How can you traverse and manipulate trees in C++?
+How do you implement graphs in C++?
+What are the different traversal algorithms for graphs in C++?
+How can you implement dynamic programming in C++?
+What are the best practices for testing C++ code?
+How can you write unit tests in C++?
+What is code coverage and how can you measure it in C++?
+How do you profile and optimize C++ code?
+What are the different debugging techniques available in C++?
+How can you handle memory leaks in C++ programs?
+How do you implement socket programming in C++?
+What are the different libraries and frameworks available for network programming in C++?
+How do you handle multi-threading issues in C++ programs?
+How do you implement concurrent programming in C++?
+How can you use C++ for system programming?
+What are the different system calls and APIs available in C++?
+How can you create and interact with processes in C++?
+How do you implement inter-process communication (IPC) in C++?
+What are the best practices for secure coding in C++?
+How can you prevent common security vulnerabilities in C++ programs?
+How can you handle input validation and sanitization in C++?
+How do you handle encryption and decryption in C++?
+What are the different encryption algorithms available in C++?
+How can you handle internationalization and localization in C++ programs?
+What are the best practices for error reporting and logging in C++?
+How can you implement event-driven programming in C++?
+What are the different GUI libraries and frameworks available for C++?
+How can you create graphical user interfaces (GUIs) in C++?
+How do you implement database connectivity in C++?
+What are the different database libraries and frameworks available for C++?
+How can you perform database operations using C++?
+How do you implement web services and API clients in C++?
+What are the different HTTP libraries and frameworks available for C++?
+How can you work with JSON and XML data in C++?
+How do you implement real-time systems and embedded programming in C++?
+What are the different hardware and software platforms supported by C++?
+How can you handle low-level programming in C++?
+How do you work with system resources and peripherals in C++?
+What are the different tools and techniques for profiling and optimizing C++ code?
+How can you handle cross-platform development in C++?
+What are the best practices for cross-platform compatibility in C++?
+How can you integrate C++ code with other programming languages and platforms?
+How do you develop and deploy C++ applications in a production environment?

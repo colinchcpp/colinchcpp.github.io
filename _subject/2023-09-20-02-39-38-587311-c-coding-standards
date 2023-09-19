@@ -1,0 +1,100 @@
+Naming conventions for variables
+Naming conventions for functions
+Naming conventions for classes
+Naming conventions for constants
+Commenting guidelines
+Indentation and formatting rules
+Use of whitespace
+Use of braces and brackets
+Use of parentheses
+Use of tabs vs. spaces
+Use of camel case vs. underscores
+Use of abbreviations
+Use of uppercase vs. lowercase
+Use of clear and descriptive variable names
+Use of clear and descriptive function names
+Use of clear and descriptive class names
+Use of clear and descriptive constant names
+Proper use of data types
+Use of typedef and using statements
+Placement of include statements
+Use of preprocessor directives
+Use of global variables
+Organization of code into modules or files
+Use of header files and implementation files
+Use of namespaces
+Use of macros and inline functions
+Error handling and exceptions
+Memory management and resource cleanup
+Use of pointers and references
+Use of const qualifiers
+Use of static members
+Use of operator overloading
+Use of templates and generics
+Use of inheritance and polymorphism
+Use of virtual functions
+Use of friend functions and classes
+Use of smart pointers
+Input validation and error checking
+Defensive programming techniques
+Use of assertions and debugging statements
+Use of design patterns
+Use of unit testing frameworks
+Error handling for exception safety
+Use of code reviews and pair programming
+Version control and branching strategies
+Build and compilation process guidelines
+Use of third-party libraries and APIs
+Performance optimization techniques
+Multithreading and concurrency considerations
+Portability and compatibility guidelines
+Documentation requirements
+Use of Doxygen or other documentation tools
+Use of UML diagrams for design
+Coding style consistency across the team
+Handling of configuration settings and constants
+Logging and debugging techniques
+Code refactoring guidelines
+Code reuse and modularity guidelines
+Integration and interface guidelines
+Exception handling and error reporting guidelines
+Use of assertions and runtime checks
+Handling of global variables and state
+Use of quality assurance and testing tools
+Performance profiling and optimization techniques
+Code verification and testing strategies
+Use of git or other version control systems
+Coding standards for multiplatform development
+Code readability and understandability guidelines
+Use of automatic code formatting tools
+Use of static analysis and linting tools
+Use of continuous integration and automated testing
+Coding standards for embedded systems development
+Use of software design principles and SOLID principles
+Exception safety guarantees and error handling strategies
+Management of memory and resources in complex systems
+Use of coding standards for safety-critical systems
+Risk assessment and mitigation strategies for software flaws
+Use of coding standards for performance-critical systems
+Guidelines for handling input and output operations
+Use of libraries and frameworks for common tasks
+Data validation and security considerations
+Handling of user input and data sanitization
+Use of encryption and secure coding practices
+Error handling and fault tolerance strategies
+Use of debugging and profiling tools for optimization
+Use of agile development methodologies
+Documentation and knowledge sharing practices
+Use of static analysis and code coverage tools
+Integration testing and continuous integration practices
+Use of code review and pair programming techniques
+Code reusability and maintainability considerations
+Proper use of design patterns and architectural principles
+Handling of external dependencies and third-party code
+Portability and cross-platform development guidelines
+Performance tracking and optimization strategies
+Use of emulators and simulators for testing purposes
+Impact analysis and change management strategies
+Documentation and coding standards for legacy systems
+Use of debugging techniques and troubleshooting tools
+Continuous learning and improvement practices for coding standards.

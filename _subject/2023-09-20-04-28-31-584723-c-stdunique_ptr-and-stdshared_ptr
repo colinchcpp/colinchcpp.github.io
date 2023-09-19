@@ -1,0 +1,100 @@
+Differences between `std::unique_ptr` and `std::shared_ptr`
+Memory management with `std::unique_ptr` and `std::shared_ptr`
+Ownership transfer with `std::unique_ptr` and `std::shared_ptr`
+Advantages of using `std::unique_ptr`
+Advantages of using `std::shared_ptr`
+How to create and initialize a `std::unique_ptr` object
+How to create and initialize a `std::shared_ptr` object
+Creating arrays with `std::unique_ptr` and `std::shared_ptr`
+Dynamic memory deallocation with `std::unique_ptr` and `std::shared_ptr`
+Null pointer checks with `std::unique_ptr` and `std::shared_ptr`
+Differences between `std::unique_ptr` and raw pointers
+Differences between `std::shared_ptr` and raw pointers
+Thread safety with `std::shared_ptr`
+Weak pointers and `std::shared_ptr`
+Custom deleters with `std::unique_ptr` and `std::shared_ptr`
+Using `std::make_unique` with `std::unique_ptr`
+Using `std::make_shared` with `std::shared_ptr`
+Converting `std::unique_ptr` to `std::shared_ptr`
+Converting `std::shared_ptr` to `std::unique_ptr`
+Efficient use of `std::unique_ptr` and `std::shared_ptr`
+Use cases for `std::unique_ptr`
+Use cases for `std::shared_ptr`
+Performance considerations of `std::unique_ptr` and `std::shared_ptr`
+Avoiding memory leaks using `std::unique_ptr` and `std::shared_ptr`
+Circular references and memory management with `std::shared_ptr`
+Moving `std::unique_ptr` objects
+Moving `std::shared_ptr` objects
+Locking and unlocking `std::shared_ptr` for thread-safe access
+Shared ownership in multithreaded environments with `std::shared_ptr`
+Limitations of `std::unique_ptr`
+Limitations of `std::shared_ptr`
+`std::unique_ptr` with custom allocator
+`std::shared_ptr` with custom allocator
+Initializing `std::unique_ptr` with nullptr
+Initializing `std::shared_ptr` with nullptr
+Differences between `std::unique_ptr` and `std::weak_ptr`
+Using `std::enable_shared_from_this` with `std::shared_ptr`
+Using `std::unique_ptr` and `std::shared_ptr` in container classes
+`std::unique_ptr` and exception safety
+`std::shared_ptr` and exception safety
+Memory management with `std::unique_ptr` and `std::shared_ptr` in concurrent environments
+Polymorphism and `std::unique_ptr`
+Polymorphism and `std::shared_ptr`
+Moving `std::unique_ptr` between threads
+Moving `std::shared_ptr` between threads
+Atomic operations and `std::unique_ptr`
+Atomic operations and `std::shared_ptr`
+Garbage collection and `std::unique_ptr`
+Garbage collection and `std::shared_ptr`
+Copying `std::unique_ptr` and `std::shared_ptr`
+Resetting `std::unique_ptr` and `std::shared_ptr` to nullptr
+Destructor behavior of `std::unique_ptr` and `std::shared_ptr`
+Memory alignment with `std::unique_ptr` and `std::shared_ptr`
+Usage of `std::enable_shared_from_this` in `std::shared_ptr`
+Custom allocation and deallocation functions in `std::unique_ptr` and `std::shared_ptr`
+Using `std::unique_ptr` with raw pointers
+Using `std::shared_ptr` with raw pointers
+Converting `std::unique_ptr` to raw pointer
+Converting `std::shared_ptr` to raw pointer
+Using `std::weak_ptr` with `std::shared_ptr`
+`std::unique_ptr` and `std::shared_ptr` with polymorphic types
+`std::unique_ptr` and `std::shared_ptr` with dynamic memory allocation
+Using `std::unique_ptr` and `std::shared_ptr` in resource management
+`std::unique_ptr` and `std::shared_ptr` in concurrent data structures
+Resource ownership and smart pointers
+Dynamic memory allocation and smart pointers
+Managing arrays with `std::unique_ptr` and `std::shared_ptr`
+Cloning objects with `std::unique_ptr` and `std::shared_ptr`
+Copying `std::unique_ptr` and `std::shared_ptr` objects
+Releasing ownership with `std::unique_ptr` and `std::shared_ptr`
+Memory leaks and smart pointers
+Accessing underlying raw pointer with `std::unique_ptr` and `std::shared_ptr`
+Casting between smart pointers with `std::unique_ptr` and `std::shared_ptr`
+Using `std::unique_ptr` with custom deleter functions
+Using `std::shared_ptr` with custom deleter functions
+`std::unique_ptr` and `std::shared_ptr` usage in multithreaded applications
+`std::unique_ptr` and `std::shared_ptr` in memory pool implementations
+Handling exceptions with `std::unique_ptr` and `std::shared_ptr`
+Comparing `std::unique_ptr` and `std::shared_ptr` to `std::auto_ptr`
+Memory leaks prevention with `std::unique_ptr` and `std::shared_ptr`
+Detecting circular references with `std::shared_ptr`
+Lock-free data structures with `std::shared_ptr`
+Custom reference counting with `std::shared_ptr`
+Memory allocation optimizations with `std::unique_ptr` and `std::shared_ptr`
+Debugging techniques for `std::unique_ptr` and `std::shared_ptr`
+Using `std::unique_ptr` and `std::shared_ptr` with incomplete types
+Using `std::shared_ptr` for caching purposes
+Thread safety concerns with `std::unique_ptr` and `std::shared_ptr`
+Overhead of `std::unique_ptr` and `std::shared_ptr`
+Custom comparison functions with `std::unique_ptr` and `std::shared_ptr`
+Object slicing prevention with `std::unique_ptr` and `std::shared_ptr`
+Memory fragmentation with `std::unique_ptr` and `std::shared_ptr`
+Debugging memory issues with `std::unique_ptr` and `std::shared_ptr`
+Smart pointer usage guidelines
+Concurrency considerations with `std::unique_ptr` and `std::shared_ptr`
+Using `std::unique_ptr` and `std::shared_ptr` for exception-handling cleanup
+Optimizing `std::unique_ptr` and `std::shared_ptr` usage in large codebases
+Sharing objects across translation units with `std::shared_ptr`
+Using `std::unique_ptr` and `std::shared_ptr` in multi-process environments
+Resource recycling with `std::unique_ptr` and `std::shared_ptr`

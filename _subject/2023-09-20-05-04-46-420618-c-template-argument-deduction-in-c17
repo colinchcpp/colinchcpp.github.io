@@ -1,0 +1,100 @@
+Introduction to C++ template argument deduction
+Basic syntax and usage of template argument deduction
+Default template argument deduction in C++17
+Overload resolution and template argument deduction
+Template argument deduction for class templates
+Template argument deduction for function templates
+Template argument deduction for function pointers
+Template argument deduction for member function pointers
+Template argument deduction with lambda expressions
+Template argument deduction with variadic templates
+Template argument deduction in nested templates
+Differences between template argument deduction in C++11 and C++17
+Limitations and caveats of template argument deduction
+Template argument deduction with non-type template parameters
+Template argument deduction with const and volatile qualifiers
+Template argument deduction with reference types
+Template argument deduction in template specialization
+Template argument deduction with template template parameters
+Template argument deduction with user-defined types
+Template argument deduction and implicit conversions
+Template argument deduction and explicit type specifiers
+Template argument deduction in type alias templates
+Template argument deduction with decltype(auto)
+Template argument deduction with std::initializer_list
+Template argument deduction with std::array
+Template argument deduction with std::tuple
+Template argument deduction with std::function
+Template argument deduction for variadic template packs
+Template argument deduction with rvalue references
+Template argument deduction for class template partial specializations
+Template argument deduction with auto keyword
+Template argument deduction with decltype keyword
+Template argument deduction with type traits
+Template argument deduction with nested template types
+Template argument deduction with static member variables
+Template argument deduction with template aliases
+Template argument deduction with enum classes
+Template argument deduction with multiple template parameters
+Template argument deduction with static_cast
+Template argument deduction with dynamic_cast
+Template argument deduction with const_cast
+Template argument deduction with reinterpret_cast
+Template argument deduction with std::enable_if
+Template argument deduction with std::integral_constant
+Template argument deduction with std::remove_reference
+Template argument deduction with std::remove_cv
+Template argument deduction with std::add_const
+Template argument deduction with std::add_pointer
+Template argument deduction with std::is_same
+Template argument deduction with std::is_convertible
+Template argument deduction with std::conditional
+Template argument deduction with std::common_type
+Template argument deduction with std::enable_if_t
+Template argument deduction with std::decay
+Template argument deduction with std::decay_t
+Template argument deduction with std::result_of
+Template argument deduction with std::invoke
+Template argument deduction with std::placeholders
+Template argument deduction with std::forward
+Template argument deduction with std::move
+Template argument deduction with std::shared_ptr
+Template argument deduction with std::unique_ptr
+Template argument deduction with std::weak_ptr
+Template argument deduction with std::function
+Template argument deduction with std::bind
+Template argument deduction with std::lower_bound
+Template argument deduction with std::upper_bound
+Template argument deduction with std::sort
+Template argument deduction with std::unique
+Template argument deduction with std::find
+Template argument deduction with std::reverse
+Template argument deduction with std::transform
+Template argument deduction with std::accumulate
+Template argument deduction with std::remove
+Template argument deduction with std::erase
+Template argument deduction with std::replace
+Template argument deduction with std::copy
+Template argument deduction with std::move_backward
+Template argument deduction with std::rotate
+Template argument deduction with std::fill
+Template argument deduction with std::generate
+Template argument deduction with std::unique_copy
+Template argument deduction with std::transform_reduce
+Template argument deduction with std::partial_sum
+Template argument deduction with std::iota
+Template argument deduction with std::lexicographical_compare
+Template argument deduction with std::unordered_set
+Template argument deduction with std::unordered_map
+Template argument deduction with std::unordered_multiset
+Template argument deduction with std::unordered_multimap
+Template argument deduction with std::atomic
+Template argument deduction with std::mutex
+Template argument deduction with std::condition_variable
+Template argument deduction with std::future
+Template argument deduction with std::packaged_task
+Template argument deduction with std::promise
+Template argument deduction with std::thread
+Template argument deduction with std::chrono
+Template argument deduction with std::ratio
+Template argument deduction with std::chrono_literals

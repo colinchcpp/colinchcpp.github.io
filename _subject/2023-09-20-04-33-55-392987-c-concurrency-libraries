@@ -1,0 +1,100 @@
+C++11 threading library
+C++11 atomic library
+C++11 mutex library
+C++11 condition variable library
+C++11 future library
+C++11 promise library
+C++11 async library
+C++17 shared_mutex library
+C++17 latch library
+C++17 barrier library
+C++17 semaphore library
+C++20 atomic_wait library
+C++20 atomic_flag_test_and_set library
+C++20 atomic_flag_clear library
+C++20 atomic_compare_exchange_strong library
+C++20 atomic_compare_exchange_weak library
+C++20 atomic_fetch_add library
+C++20 atomic_fetch_sub library
+C++20 atomic_fetch_and library
+C++20 atomic_fetch_or library
+C++20 atomic_fetch_xor library
+C++20 atomic_load library
+C++20 atomic_store library
+C++20 mutex library
+C++20 recursive_mutex library
+C++20 timed_mutex library
+C++20 recursive_timed_mutex library
+C++20 shared_mutex library
+C++20 condition_variable library
+C++20 future library
+C++20 promise library
+C++20 shared_future library
+C++20 packaged_task library
+C++20 async library
+C++20 jthread library
+C++20 stop_token library
+Intel Threading Building Blocks (TBB)
+OpenMP
+Boost.Thread library
+Pthread library
+Std::experimental::task library
+Microsoft Concurrency Runtime
+AMP (Accelerated Massive Parallelism)
+NVIDIA CUDA (Compute Unified Device Architecture)
+OpenCL (Open Computing Language)
+Intel's Many Integrated Core (MIC) Architecture
+Kokkos library
+HPX (High Performance ParalleX)
+Fastflow library
+Thread Building Blocks Flow Graph (TBB Flow Graph)
+GSL (Guidelines Support Library)
+gsl::span library
+Wt (Web Toolkit)
+Qt Concurrent library
+C++ React library
+Facebook Folly library
+Concurrency TS (Technical Specification)
+Intel Cilk Plus
+Google ThreadSanitizer
+Threaded Building Blocks (TBB) Flow Graph
+Actor model
+MapReduce model
+Parallel algorithms
+Parallel patterns
+Data parallelism
+Task parallelism
+Fork-join parallelism
+Task-based parallelism
+Message passing
+Parallel loops
+Parallel reductions
+Parallel containers
+Parallel algorithms performance
+Parallel algorithms scalability
+Distributed computing
+Parallel debugging tools
+Thread pools
+Synchronization primitives
+Thread safety
+Lock-free programming
+Wait-free programming
+Atomic operations
+Parallel software design principles
+Load balancing
+Concurrency patterns
+Error handling in concurrent code
+ƒThread synchronization techniques
+Thread safety analysis
+Mutual exclusion
+Deadlock prevention and avoidance
+Lock-based concurrency control
+Transactional memory
+Concurrent data structures
+Concurrent queues
+Concurrent hash tables
+Concurrent linked lists
+Concurrent stacks
+Concurrent sets
+Memory reordering
+Cache coherence

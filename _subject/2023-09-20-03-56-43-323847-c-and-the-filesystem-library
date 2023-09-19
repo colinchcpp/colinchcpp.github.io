@@ -1,0 +1,100 @@
+Introduction to C++
+Overview of file handling in C++
+How to include the Filesystem library in C++
+Creating a file using C++
+Opening and closing a file in C++
+Reading data from a file in C++
+Writing data to a file in C++
+Appending data to a file in C++
+Checking if a file exists using C++
+Deleting a file in C++
+Renaming a file in C++
+Getting file size in C++
+Retrieving file permissions in C++
+Creating a directory using C++
+Checking if a directory exists in C++
+Removing a directory in C++
+Renaming a directory in C++
+Traversing a directory in C++
+Getting the current working directory in C++
+Changing the current working directory in C++
+Copying a file using C++
+Moving a file in C++
+Checking if a path is a regular file in C++
+Checking if a path is a directory in C++
+Creating a temporary file in C++
+Creating a temporary directory in C++
+Creating a symlink in C++
+Reading the contents of a directory in C++
+Resolving the absolute path of a file in C++
+Resolving the relative path of a file in C++
+Checking file permissions in C++
+Modifying file permissions in C++
+Checking file status in C++
+Modifying file timestamps in C++
+Comparing file paths in C++
+Getting file owner and group information in C++
+Implementing file locking in C++
+Parsing file paths in C++
+Searching for files in a directory using C++
+Sorting files in a directory by size in C++
+Sorting files in a directory by date in C++
+Checking file type in C++
+Checking file attributes in C++
+Reading file binary data in C++
+Writing file binary data in C++
+Determining the size of a file in C++
+Handling file exceptions in C++
+Redirecting file output in C++
+Randomly accessing a file in C++
+Splitting a file into multiple parts in C++
+Merging multiple files into one in C++
+Deleting specific lines from a file in C++
+Encrypting a file in C++
+Decrypting a file in C++
+Compressing a file in C++
+Decompressing a file in C++
+Archiving multiple files into a single file in C++
+Extracting files from an archive in C++
+Calculating file checksum in C++
+Comparing two files in C++
+Checking file integrity using checksum in C++
+Checking if a file is empty in C++
+Determining the number of lines in a file in C++
+Reading a specific line from a file in C++
+Writing to a specific line in a file in C++
+Searching for a specific text in a file in C++
+Reversing the content of a file in C++
+Concatenating multiple files into one in C++
+Checking if a file is executable in C++
+Reading file metadata in C++
+Listing files in a directory recursively in C++
+Checking file ownership in C++
+Modifying file owner and group in C++
+Handling file I/O errors in C++
+Checking file similarities using content comparison in C++
+Executing system commands in C++
+Handling file paths with spaces in C++
+Checking if a file is hidden in C++
+Changing file permissions recursively in a directory in C++
+Checking file size limits in C++
+Checking available disk space in C++
+Getting file creation time in C++
+Getting file last access time in C++
+Getting file last modification time in C++
+Setting file creation time in C++
+Setting file last access time in C++
+Setting file last modification time in C++
+Truncating a file to a specific size in C++
+Checking file readability in C++
+Checking file writability in C++
+Checking file executability in C++
+Checking file existence in C++
+Checking if a file is readable by others in C++
+Checking if a file is writable by others in C++
+Checking if a file is executable by others in C++
+Checking if a file is setuid in C++
+Checking if a file is setgid in C++
+Checking if a file is sticky in C++
+Checking file setuid, setgid, and sticky bits using C++
+Checking file permissions using octal representation in C++

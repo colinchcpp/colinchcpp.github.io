@@ -1,0 +1,100 @@
+Introduction to C++ Interoperability with C
+Basics of C++ and C programming languages
+Using C functions in C++
+Merging C and C++ code in a project
+Incorporating C header files in C++
+Using extern "C" in C++ code
+Calling C++ functions from C
+Passing arguments between C and C++ code
+Dealing with different function call conventions in C and C++
+Handling C++ exceptions in C code
+Using C libraries in a C++ project
+Accessing global variables from C and C++ code
+Linking C++ code with C object files
+Differences in syntax between C and C++
+Interoperability challenges when using C and C++ together
+Creating a C wrapper for a C++ class
+Using C++ templates in C code
+Converting C++ objects to C structures
+Handling memory management when mixing C and C++
+Interfacing C++ code with C libraries
+Defining C-compatible data types in C++
+Using C++ namespaces in C code
+Passing C++ objects as function parameters in C
+Reusing C code in a C++ project
+Restructuring C code to work with C++
+Compiling and linking C and C++ code together
+Debugging issues in interoperation between C and C++
+Best practices for C++ interoperability with C
+Limitations and constraints of using C++ with C
+Converting C code to C++ code incrementally
+Porting C projects to C++
+Integrating existing C code into a C++ project
+Creating a C++ wrapper for a C library
+Using C++ features in a C project through interoperation
+Handling name mangling issues when calling C++ functions from C
+Passing C++ references to C functions
+Extracting C++ exception information in C
+Incorporating C header files with C++ features
+Handling C++ standard library classes in C code
+Converting C++ template code to C macros
+Interfacing with C++ libraries from C projects
+Implementing C++ inheritance model in C code
+Handling linker errors when mixing C and C++ code
+Sharing data structures between C and C++ code
+Calling C++ member functions from C code
+Adapting C code to adhere to C++ coding style
+Enabling C++ features in legacy C projects
+Handling C++ compiler-specific extensions in C code
+Writing C code compatible with C++ compilers
+Resolving symbol clashes between C and C++ code
+Incorporating C code into C++ namespaces
+Managing dependencies between C and C++ code
+Using C++ exceptions in C error handling
+Passing C++ arrays to C functions
+Handling inline functions when intermixing C and C++ code
+Incorporating C++ libraries in C projects
+Integrating C++ libraries dynamically in C code
+Creating a C++ interface for a C library
+Writing C headers compatible with C++ code
+Handling differences in type safety between C and C++
+Interfacing with C APIs from C++ code
+Exposing C++ classes to C code through interfaces
+Using C++ smart pointers in C functions
+Incorporating C code into C++ templates
+Writing C wrappers for C++ templates
+Handling C++ virtual functions in C interoperability
+Incorporating C++ constructors and destructors in C code
+Interfacing C++ code with C legacy systems
+Sharing code documentation between C and C++ code
+Using C++ templates in C++ code called from C
+Handling exceptions thrown by C++ functions called from C
+Using C++ lambda functions in C code
+Creating C API compatibility layers for C++ libraries
+Passing C++ function pointers to C functions
+Managing resource allocation between C and C++ code
+Incorporating C++ namespaces in C function signatures
+Writing C++ code that is compatible with C compilers
+Handling C++ operator overloading in C interoperability
+Incorporating C++ templates in C code through type erasure
+Using C++ inheritance models in C function pointers
+Handling differences in memory models between C and C++
+Interfacing with C++ code through function pointers in C
+Incorporating C++ macros in C code
+Writing C++ code that can be called from C in both directions
+Using C++ smart pointers in C interoperation
+Generating C++ bindings for C libraries
+Creating a C interface for a C++ library
+Handling differences in exception handling mechanisms between C and C++
+Passing C++ lambdas as function pointers to C
+Incorporating C code into C++ projects using precompiled headers
+Using C++ variadic templates in C code
+Creating a C++ wrapper for a C codebase
+Handling C++ namespaces in C interoperation
+Incorporating C++ code into C projects using extern "C"
+Writing C code that can be called from C++ in both directions
+Using C++ move semantics in C interoperation
+Handling static variables and globals in C++ interoperation with C
+Creating C++ wrappers for C libraries with complex data types
+Passing C++ template classes as function parameters in C
+Handling C++ threading in C interoperation.

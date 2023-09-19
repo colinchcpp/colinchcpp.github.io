@@ -1,0 +1,100 @@
+Introduction to C++ lists
+Syntax for creating a list in C++
+Basic operations on C++ lists
+Adding elements to a C++ list
+Removing elements from a C++ list
+Accessing elements in a C++ list
+Modifying elements in a C++ list
+Finding the length of a C++ list
+Checking if a C++ list is empty
+Sorting elements in a C++ list
+Reversing a C++ list
+Combining two C++ lists
+Splitting a C++ list into multiple lists
+Inserting elements at specific positions in a C++ list
+Removing elements from specific positions in a C++ list
+Counting occurrences of an element in a C++ list
+Checking if an element exists in a C++ list
+Extracting a sublist from a C++ list
+Concatenating multiple C++ lists
+Comparing two C++ lists for equality
+Cloning a C++ list
+Clearing all elements from a C++ list
+Creating a copy of a C++ list
+Checking if two C++ lists have any common elements
+Checking if a C++ list is sorted
+Checking if a C++ list is ascending
+Checking if a C++ list is descending
+Finding the maximum element in a C++ list
+Finding the minimum element in a C++ list
+Finding the sum of all elements in a C++ list
+Finding the average of all elements in a C++ list
+Finding the median of all elements in a C++ list
+Finding the mode of all elements in a C++ list
+Finding the range of all elements in a C++ list
+Finding the frequency of an element in a C++ list
+Swapping two elements in a C++ list
+Checking if a C++ list contains only unique elements
+Checking if a C++ list is a subset of another list
+Checking if a C++ list is a superset of another list
+Checking if two C++ lists are disjoint
+Finding the intersection of two C++ lists
+Finding the union of two C++ lists
+Finding the difference between two C++ lists
+Finding the symmetric difference between two C++ lists
+Removing duplicates from a C++ list
+Splitting a C++ list into equal-sized sublists
+Merging multiple C++ lists into one
+Reversing the order of elements in a C++ list
+Initializing a C++ list with default values
+Initializing a C++ list with a range of values
+Initializing a C++ list with another list
+Initializing a C++ list with an array
+Initializing a C++ list with a string
+Initializing a C++ list with user input
+Initializing a C++ list with random values
+Checking if a C++ list follows a certain pattern
+Finding the index of the first occurrence of an element in a C++ list
+Finding the index of the last occurrence of an element in a C++ list
+Concatenating a C++ list with itself
+Checking if a C++ list is a palindrome
+Checking if a C++ list is circular
+Resizing a C++ list
+Iterating over a C++ list using loops
+Iterating over a C++ list using iterators
+Finding the second largest element in a C++ list
+Finding the second smallest element in a C++ list
+Checking if a C++ list is a subsequence of another list
+Finding the number of occurrences of each element in a C++ list
+Inserting a list at a specific position in another C++ list
+Removing a sublist from a C++ list
+Reversing the order of elements in each sublist of a C++ list
+Finding the frequency distribution of elements in a C++ list
+Checking if a C++ list is a stable sort
+Checking if a C++ list is a cyclic sort
+Finding the difference between the largest and smallest elements in a C++ list
+Swapping alternate elements in a C++ list
+Checking if a C++ list is a lexicographically sorted sequence
+Shuffling a C++ list randomly
+Checking if a C++ list is a strictly increasing sequence
+Checking if a C++ list is a strictly decreasing sequence
+Finding the longest increasing subsequence in a C++ list
+Finding the longest decreasing subsequence in a C++ list
+Splitting a C++ list into two parts based on a condition
+Extracting elements from a C++ list that satisfy a condition
+Finding the number of elements in a C++ list that satisfy a condition
+Transforming each element in a C++ list using a function
+Checking if a C++ list is a balanced sequence
+Checking if a C++ list is a monotonic sequence
+Finding the first N elements in a C++ list
+Finding the last N elements in a C++ list
+Finding the top K elements in a C++ list
+Finding the bottom K elements in a C++ list
+Finding the nth smallest element in a C++ list
+Finding the nth largest element in a C++ list
+Checking if a C++ list is a perfect shuffle of another list
+Finding the union of N C++ lists
+Finding the common elements in N C++ lists
+Finding the unique elements in N C++ lists
+Checking if a C++ list is a subsequence of any of N lists
+Removing elements from a C++ list based on a condition

@@ -1,0 +1,100 @@
+Code documentation and comments
+Consistent naming conventions
+Use of version control systems
+Writing modular and reusable code
+Proper error handling and exception management
+Avoiding global variables and functions
+Proper memory management and resource cleanup
+Efficient memory allocation and deallocation
+Avoiding unnecessary or redundant code
+Following the DRY (Don't Repeat Yourself) principle
+Writing efficient and optimized code
+Consistent indentation and formatting
+Use of appropriate data types
+Avoiding excessive function parameters
+Writing clear and concise code
+Proper use of libraries and frameworks
+Effective use of object-oriented programming principles
+Avoiding magic numbers and hardcoding
+Following the Single Responsibility Principle (SRP)
+Proper use of comments and code annotations
+Avoiding code duplication and copy-pasting
+Proper use of namespaces
+Use of descriptive and meaningful variable and function names
+Consistent and proper use of control structures
+Writing readable and maintainable code
+Avoiding unnecessary type conversions
+Proper use of const and static keywords
+Correct use of const and non-const member functions
+Effective handling of multi-threading and concurrency
+Efficient use of data structures and algorithms
+Avoiding long and complex functions
+Following the Open-Closed Principle (OCP)
+Proper use and implementation of design patterns
+Avoiding code smells and anti-patterns
+Effective error and exception logging
+Proper code structuring and organization
+Consistent use of coding style guides
+Use of appropriate data structures for efficient performance
+Minimizing code coupling and dependencies
+Use of appropriate compiler optimizations
+Avoiding unnecessary type checking and casting
+Proper use of const correctness
+Avoiding unnecessary or excessive code comments
+Effective handling of input/output operations
+Proper implementation of copy constructors and assignment operators
+Use of appropriate algorithms for sorting and searching
+Avoiding excessive code branching and conditionals
+Writing testable code for effective unit testing
+Proper handling of code exceptions and errors
+Consistent use of naming conventions for files and directories
+Avoiding long and unreadable lines of code
+Proper use of noexcept and exception specifications
+Effective handling of project dependencies
+Proper profiling and optimization of code performance
+Writing code that is platform-independent
+Consistent use of header guards and #pragma once
+Proper handling of memory leaks and resource leaks
+Use of appropriate data structures for specific tasks
+Avoiding excessive use of macros
+Consistent use of appropriate libraries and frameworks
+Proper use of const references and value semantics
+Writing code that is easy to understand and maintain
+Avoiding excessive use of preprocessor directives
+Effective use of dynamic memory allocation and deallocation
+Proper use and implementation of operator overloading
+Use of appropriate error handling mechanisms (e.g., exceptions, error codes)
+Consistent use of build systems and build automation tools
+Proper handling of code concurrency and synchronization
+Effective use of external libraries and APIs
+Writing code that is secure and resistant to vulnerabilities
+Consistent use of assertion and debugging statements
+Proper use of unit testing frameworks
+Avoiding excessive code nesting and indentation levels
+Effective use of caching and memoization techniques
+Proper use and implementation of polymorphism
+Use of appropriate tools and libraries for code analysis
+Consistent use of code refactoring techniques
+Effective use of code profiling and optimization tools
+Proper integration and testing of third-party libraries
+Avoiding tight coupling between modules and components
+Use of proper indexing and sorting algorithms for data structures
+Consistent use of exception-safe code practices
+Effective use of code coverage and quality metrics
+Proper handling of multi-platform compatibility
+Avoiding unnecessary code dependencies and bloat
+Writing code that is portable and cross-platform
+Proper use of code generation and meta-programming techniques
+Consistent use of code review processes and practices
+Effective use of logging and debugging techniques
+Proper handling of security vulnerabilities and exploits
+Avoiding excessive code complexity and cyclomatic complexity
+Writing code that is scalable and maintainable in the long run
+Consistent use of memory profiling and leak detection tools
+Effective use of pattern matching and regular expressions
+Proper handling of input validation and sanitization
+Use of efficient algorithms for data manipulation and transformation
+Consistent use of static analysis tools for bug detection
+Effective use of threading and parallel processing techniques
+Proper handling of code performance bottlenecks
+Avoiding code redundancy and duplication

@@ -1,0 +1,100 @@
+Introduction to C++ `std::variant`
+What is `std::variant`?
+Why use `std::variant` in C++?
+Initializing a `std::variant` object
+Accessing the value held by a `std::variant`
+Type-safe operations with `std::variant`
+Common use cases of `std::variant`
+Differences between `std::variant` and `std::any`
+Combining `std::variant` and `std::visit`
+What is `std::visit` in C++?
+How does `std::visit` work?
+Performing different actions based on the type of `std::variant`
+Type traits for `std::variant` and `std::visit`
+Handling exceptions with `std::variant` and `std::visit`
+Creating a visitor for `std::variant`
+Overloading functions with `std::visit`
+Handling void return types with `std::visit`
+Recursive `std::variant` types
+Handling polymorphism with `std::variant`
+Using `std::variant` for type erasure
+Converting between different types with `std::variant`
+Storing references in a `std::variant`
+Storing move-only types in a `std::variant`
+Performance considerations for `std::variant` and `std::visit`
+Limitations of `std::variant` in C++
+Applying `std::variant` and `std::visit` in a real-world example
+Implementing a basic calculator using `std::variant` and `std::visit`
+Using `std::variant` with containers
+Handling invalid states with `std::variant`
+Combining `std::variant` with other C++ features (e.g., templates, lambdas)
+Creating custom error handling with `std::variant`
+Using `std::variant` to simplify code logic
+Differences between `std::variant` and traditional union types
+Implementing a type-safe state machine with `std::variant`
+Type checking at compile-time with `std::variant`
+Serializing and deserializing `std::variant`
+Working with non-copyable types in `std::variant`
+Type-safe interop with other languages using `std::variant`
+Handling null or optional values with `std::variant`
+Implementing a plugin system with `std::variant` and `std::visit`
+Debugging tips and techniques for `std::variant` and `std::visit`
+Converting a `std::variant` to a string representation
+Using custom allocators with `std::variant`
+Creating a variant-like container with `std::visit`
+Recursive type definitions with `std::variant`
+Combining different `std::variant` instances
+Using `std::variant` to implement a type-safe event system
+Integration of `std::variant` with older C++ codebases
+Design considerations when using `std::variant` and `std::visit`
+Common pitfalls and mistakes when using `std::variant`
+Using `std::variant` to implement a command pattern
+Comparing `std::variant` to similar language features in other programming languages
+Applying `std::variant` and `std::visit` in a multithreaded environment
+Handling type-erased function objects with `std::variant`
+Using `std::variant` with smart pointers
+Implementing a state chart using `std::variant`
+Interoperability of `std::variant` with C libraries
+Migrating from `boost::variant` to `std::variant`
+Creating a generic visitor function for `std::variant`
+Using `std::variant` to implement a flexible data representation
+Working with non-default-constructible types in `std::variant`
+Implementing pattern matching with `std::visit`
+Using `std::variant` for type-safe input/output handling
+Converting a `std::variant` to JSON representation
+Using `std::variant` for configuration management
+Handling different error types in a `std::variant`
+Implementing a type-safe event system using `std::variant` and `std::visit`
+Evaluating performance trade-offs of `std::variant` and other alternatives
+Implementing a finite state machine with `std::variant`
+Using `std::variant` to implement a type-safe message passing system
+Custom serialization and deserialization of `std::variant`
+Handling cyclic dependencies with `std::variant`
+Creating a variant with a fixed maximum number of types
+Implementing runtime type introspection with `std::variant`
+Working with temporaries in `std::variant`
+Using `std::variant` in template metaprogramming
+Implementing a generic function wrapper with `std::variant`
+Handling exceptions thrown from visitor functions in `std::visit`
+Using `std::variant` for type-safe parsing
+Implementing a type-safe state transition system with `std::variant`
+Optimizing `std::visit` performance in hot code paths
+Implementing a dynamic dispatch mechanism with `std::variant`
+Creating custom algorithms for `std::variant`
+Working with compound `std::variant` types (e.g., `std::variant<std::variant<int, float>, std::variant<double, std::string>>`)
+Minimizing code duplication when working with `std::variant` and `std::visit`
+Understanding the memory layout of `std::variant`
+Using `std::variant` with variant-like containers (e.g., `std::vector<std::variant<int, float>>`)
+Using `std::variant` for algebraic data types
+Implementing a state-driven user interface with `std::variant`
+Creating a generic visitor interface for `std::variant`
+Validating a `std::variant` against a set of allowed types
+Implementing type-safe conversion operators for `std::variant`
+Using `std::variant` for type-safe resource management
+Comparing the performance of `std::variant` to virtual dispatch
+Mixing runtime and compile-time type information with `std::variant`
+Writing clean and concise code with `std::variant` and `std::visit`
+Optimizing compile-time performance when working with large `std::variant` types
+Using `std::variant` to implement a type-safe stateful logger
+Handling complex error handling scenarios with `std::variant`
+Exploring future enhancements and proposals for `std::variant` and `std::visit` in C++23

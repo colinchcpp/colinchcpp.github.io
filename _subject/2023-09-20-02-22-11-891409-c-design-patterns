@@ -1,0 +1,100 @@
+Singleton design pattern in C++
+Observer design pattern in C++
+Factory method design pattern in C++
+Adapter design pattern in C++
+Decorator design pattern in C++
+Command design pattern in C++
+Template method design pattern in C++
+Iterator design pattern in C++
+Proxy design pattern in C++
+Chain of responsibility design pattern in C++
+Bridge design pattern in C++
+Prototype design pattern in C++
+Strategy design pattern in C++
+State design pattern in C++
+Composite design pattern in C++
+Prototype design pattern in C++
+Visitor design pattern in C++
+Mediator design pattern in C++
+Flyweight design pattern in C++
+Memento design pattern in C++
+Abstract factory design pattern in C++
+Builder design pattern in C++
+Facade design pattern in C++
+Interpreter design pattern in C++
+Null object design pattern in C++
+Object pool design pattern in C++
+Resource acquisition is initialization (RAII) design pattern in C++
+Active object design pattern in C++
+Command-query separation (CQS) design pattern in C++
+Model-view-controller (MVC) design pattern in C++
+Model-view-presenter (MVP) design pattern in C++
+Model-view-viewmodel (MVVM) design pattern in C++
+Component-based design pattern in C++
+Event-driven design pattern in C++
+Callback design pattern in C++
+Dependency injection design pattern in C++
+Inversion of Control (IoC) design pattern in C++
+Command dispatcher design pattern in C++
+Event aggregator design pattern in C++
+Interceptor design pattern in C++
+Presentation-Abstraction-Control (PAC) design pattern in C++
+Layered architecture design pattern in C++
+Blackboard design pattern in C++
+Front controller design pattern in C++
+Data access object (DAO) design pattern in C++
+Repository design pattern in C++
+Unit of work design pattern in C++
+Transaction script design pattern in C++
+Domain-driven design pattern in C++
+CQRS (Command Query Responsibility Segregation) design pattern in C++
+Aggregate design pattern in C++
+Value object design pattern in C++
+Domain event design pattern in C++
+Data mapper design pattern in C++
+Command Handler design pattern in C++
+Query Handler design pattern in C++
+Application service design pattern in C++
+Domain service design pattern in C++
+Domain repository design pattern in C++
+Domain factory design pattern in C++
+Specification design pattern in C++
+Domain event dispatcher design pattern in C++
+Domain event listener design pattern in C++
+Domain event publisher design pattern in C++
+Domain event subscriber design pattern in C++
+Domain event observer design pattern in C++
+Domain event handler design pattern in C++
+Domain event processor design pattern in C++
+Domain event store design pattern in C++
+Domain event sourcing design pattern in C++
+Event sourcing design pattern in C++
+CQRS and event sourcing design pattern in C++
+Command stack design pattern in C++
+Integration event design pattern in C++
+Command saga design pattern in C++
+Event-driven architecture (EDA) design pattern in C++
+Domain command design pattern in C++
+Domain query design pattern in C++
+Domain event sourcing design pattern in C++
+Identity and access management (IAM) design pattern in C++
+Transaction log design pattern in C++
+Alpha architecture design pattern in C++
+Archive design pattern in C++
+Layered system design pattern in C++
+Monitor object design pattern in C++
+Thread pool design pattern in C++
+Threading design pattern in C++
+Task parallelism design pattern in C++
+Producer-consumer design pattern in C++
+Auto release pool design pattern in C++
+Copy on write design pattern in C++
+Double-checked locking design pattern in C++
+Guarded suspension design pattern in C++
+Leader election design pattern in C++
+Leaders and followers design pattern in C++
+Lock-free design pattern in C++
+Leaders and followers design pattern in C++
+Readers-writers lock design pattern in C++
+Semaphore design pattern in C++
+Thread-specific storage design pattern in C++

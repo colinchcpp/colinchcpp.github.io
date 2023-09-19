@@ -1,0 +1,100 @@
+Type erasure using virtual functions
+Type erasure using templates
+Type erasure using abstract base classes
+Type erasure using lambdas
+Type erasure using std::function
+Type erasure using boost::any
+Type erasure using std::variant
+Type erasure using std::optional
+Type erasure using std::any
+Type erasure using std::shared_ptr
+Type erasure using dynamic_cast
+Type erasure using static_cast
+Type erasure using typeid
+Type erasure using custom polymorphic wrapper classes
+Type erasure using constexpr type traits
+Type erasure using policy-based design
+Type erasure using type-safe unions
+Type erasure using function pointers
+Type erasure using std::visit and std::variant
+Type erasure using std::bitset
+Type erasure using type erasure libraries like Boost.Any or Boost.TypeErasure
+Type erasure using type erasure techniques for concepts in C++20
+Type erasure using custom type traits
+Type erasure using compile-time reflection
+Type erasure using type-safe constructors and destructors
+Type erasure using std::experimental::any
+Type erasure using std::experimental::propagate_const
+Type erasure using custom type-safe smart pointers
+Type erasure using std::weak_ptr
+Type erasure using static polymorphism
+Type erasure using dynamic polymorphism
+Type erasure and type safety considerations
+Type erasure using std::tuple
+Type erasure using constexpr type checking
+Type erasure using std::result_of and std::invoke
+Type erasure using std::aligned_union and std::variant
+Type erasure using std::remove_cvref and std::reference_wrapper
+Type erasure using std::type_info and type name demangling
+Type erasure using type introspection
+Type erasure using type conversions and casting
+Type erasure using std::is_same and std::decay
+Type erasure using std::optional and std::variant for optional types
+Type erasure using std::any and std::variant for heterogeneous collections
+Type erasure using std::function and std::variant for generic function wrappers
+Type erasure using std::variant for tagged types
+Type erasure using std::reference_wrapper for reference semantics
+Type erasure using std::unique_ptr for ownership semantics
+Type erasure and compile-time optimization techniques
+Type erasure using std::enable_if for type-based dispatching
+Type erasure using std::type_index for type-based mapping
+Type erasure using std::index_sequence for compile-time iteration
+Type erasure using std::is_convertible and std::is_invocable
+Type erasure using type erasure techniques for functional programming in C++
+Type erasure using std::distance and std::advance for iterator manipulation
+Type erasure using std::function_traits for querying function properties
+Type erasure using std::is_trivially_copyable and std::is_trivially_destructible
+Type erasure using std::is_constructible and std::is_assignable
+Type erasure using std::is_integral and std::is_floating_point for numeric types
+Type erasure using std::copy and std::move for resource management
+Type erasure using std::uninitialized_copy and std::uninitialized_move
+Type erasure using std::is_constexpr for constexpr evaluation
+Type erasure using std::is_union and std::is_enum for type classification
+Type erasure using std::is_abstract and std::is_final for class properties
+Type erasure using std::copy_backward and std::move_backward for reverse iteration
+Type erasure using std::is_base_of and std::is_same for type relations
+Type erasure using std::is_lvalue_reference and std::is_rvalue_reference
+Type erasure using std::remove_pointer and std::add_pointer for pointer manipulation
+Type erasure using std::remove_extent and std::extent for array manipulation
+Type erasure using std::is_default_constructible and std::is_trivial for type properties
+Type erasure using std::is_void and std::is_null_pointer for special types
+Type erasure using std::is_nothrow_copy_constructible and std::is_nothrow_move_constructible
+Type erasure using std::is_nothrow_destructible and std::is_nothrow_assignable
+Type erasure using type traits for compile-time validation and optimization
+Type erasure using type traits for metaprogramming and code generation
+Type erasure using type traits for reflection and dynamic dispatch
+Type erasure using type traits for type-based dispatch and behavior customization
+Type erasure using type traits for type introspection and constraint checking
+Type erasure using type traits for type mapping and transformation
+Type erasure using type traits for type ordering and comparison
+Type erasure using type traits for type propagation and conversion
+Type erasure using type traits for type query and verification
+Type erasure using type traits for type safety and error checking
+Type erasure using type traits for type validation and specialization
+Type erasure using type traits for type-dependent code generation
+Type erasure using type traits for type-dependent optimization
+Type erasure using type traits for type-dependent resource management
+Type erasure using type traits for type-dependent behavior customization
+Type erasure using type traits for type-dependent constraint checking
+Type erasure using concepts and requires clauses in C++20
+Type erasure using type predicates and concept maps
+Type erasure using named type requirements and concept checking
+Type erasure using type lists and concept composition
+Type erasure using concept checking for constrained generic programming
+Type erasure using type constraints and concept refinement
+Type erasure using concept patterns and concept refinement
+Type erasure using concept specifications and concept checking
+Type erasure using concept testing and concept refinement
+Type erasure using concept inheritance and concept composition
+Type erasure using concept refinement and type-dependent behavior
+Type erasure using concept predicates and concept composition

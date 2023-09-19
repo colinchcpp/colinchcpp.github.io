@@ -1,0 +1,100 @@
+Introduction to C++ functions
+Syntax of a C++ function
+Function declaration in C++
+Function definition in C++
+How to call a C++ function
+Void functions in C++
+Return type in C++ functions
+Parameters in C++ functions
+Call by value in C++ functions
+Call by reference in C++ functions
+Default arguments in C++ functions
+Function overloading in C++
+Recursive functions in C++
+Inline functions in C++
+Passing arrays to functions in C++
+Passing pointers to functions in C++
+Nested functions in C++
+Static functions in C++
+Friend functions in C++
+Virtual functions in C++
+Pure virtual functions in C++
+Function templates in C++
+Lambda functions in C++
+Function objects (functors) in C++
+Local variables in C++ functions
+Global variables in C++ functions
+Accessing global variables inside a function in C++
+Static variables inside a function in C++
+Function pointers in C++
+Returning multiple values from a function in C++
+Inline assembly in C++ functions
+Exception handling in C++ functions
+Function overloading vs function overriding in C++
+Dynamic function invocation in C++
+Function objects vs function pointers in C++
+Function binding in C++
+Function-like macros in C++
+Recursion vs iteration in C++ functions
+Lambda functions vs function pointers in C++
+Function pointers vs member function pointers in C++
+Lambdas vs function objects in C++
+Function pointers as class members in C++
+Function pointers vs function templates in C++
+Preprocessor directives inside functions in C++
+Function templates vs class templates in C++
+Function objects vs functors in C++
+Local classes inside functions in C++
+Function overloading vs operator overloading in C++
+Overloading and overriding functions in C++
+Function pointers to member functions in C++
+Function pointers vs function objects vs lambdas in C++
+Function pointers vs delegates in C++
+Function-like objects in C++
+Function calls as arguments in C++ functions
+Callback functions in C++
+Polymorphism in C++ functions
+Abstract functions in C++
+Virtual table and virtual function calls in C++
+Pure virtual functions vs abstract classes in C++
+Function pointers vs std::function in C++
+Currying in C++ functions
+Variadic functions in C++
+Variadic templates in C++ functions
+Function decorators in C++
+Higher order functions in C++
+Anonymous functions in C++
+Function composition and chaining in C++
+Partial function application in C++
+Function pipelines in C++
+Thread safety in C++ functions
+Parallel execution of functions in C++
+Interoperability with C functions in C++
+Overloading constructors in C++
+Conversion functions in C++
+Function pointers vs function objects in C++11
+std::bind and std::function in C++
+Function pointers vs std::optional in C++
+Function pointers vs std::variant in C++
+Function pointers vs std::any in C++
+Function pointers vs std::tuple in C++
+std::invoke and std::apply in C++
+Function reflection in C++
+Tail recursion optimization in C++
+C++ coroutines and functions
+Function-level atomic operations in C++
+Lambda capture in C++ functions
+Overloading function call operator in C++
+Function pointers vs std::array in C++
+std::initializer_list in C++ functions
+Function pointers vs std::initializer_list in C++
+std::unordered_map vs std::function in C++
+std::unordered_map vs function pointers in C++
+Lambdas vs std::function in C++
+Garbage collection in C++ functions
+Concurrent functions in C++
+Function pointers vs std::shared_ptr in C++
+Function pointers vs std::unique_ptr in C++
+Future and promise in C++ functions
+Inter-thread communication in C++ functions
+Testing and debugging C++ functions

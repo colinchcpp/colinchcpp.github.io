@@ -1,0 +1,100 @@
+#include directive
+#define directive
+#ifdef directive
+#ifndef directive
+#if directive
+#elif directive
+#else directive
+#endif directive
+#pragma directive
+#error directive
+#line directive
+#undef directive
+#using directive
+#import directive
+#warning directive
+#pragma once directive
+#pragma message directive
+#pragma region directive
+#pragma endregion directive
+#pragma pack directive
+#pragma align directive
+#pragma optimize directive
+#pragma checksum directive
+#pragma warning directive
+#pragma error directive
+#ifdef vs #if directive
+#undefine directive
+#if defined directive
+#if defined vs #ifdef directive
+#if defined vs #if directive
+#if defined vs #ifndef directive
+#if defined vs #else directive
+#if defined vs #elif directive
+#if defined vs #endif directive
+#pragma vs #define directive
+#warning vs #pragma directive
+#error vs #pragma directive
+#if defined vs #warning directive
+#if defined vs #error directive
+#line vs #pragma directive
+Standard C++ headers and #include directive
+User-defined headers and #include directive
+System headers and #include directive
+An example of #define directive
+An example of #ifdef directive
+An example of #ifndef directive
+An example of #if directive
+An example of #elif directive
+An example of #else directive
+An example of #endif directive
+An example of #pragma directive
+Differences between #define vs #undefine
+Differences between #if defined vs #if
+Differences between #if defined vs #ifdef
+Differences between #if defined vs #ifndef
+Differences between #if defined vs #else
+Differences between #if defined vs #elif
+Differences between #if defined vs #endif
+Differences between #pragma vs #define
+Differences between #warning vs #pragma
+Differences between #error vs #pragma
+Differences between #if defined vs #warning
+Differences between #if defined vs #error
+Differences between #line vs #pragma
+Usage of #pragma once directive
+Usage of #pragma message directive
+Usage of #pragma region directive
+Usage of #pragma endregion directive
+Usage of #pragma pack directive
+Usage of #pragma align directive
+Usage of #pragma optimize directive
+Usage of #pragma checksum directive
+Usage of #pragma warning directive
+Usage of #ifdef vs #if directive
+Usage of #undefine directive
+Usage of #if defined directive
+Usage of #if defined vs #ifdef directive
+Usage of #if defined vs #if directive
+Usage of #if defined vs #ifndef directive
+Usage of #if defined vs #else directive
+Usage of #if defined vs #elif directive
+Usage of #if defined vs #endif directive
+Usage of #pragma vs #define directive
+Usage of #warning vs #pragma directive
+Usage of #error vs #pragma directive
+Usage of #if defined vs #warning directive
+Usage of #if defined vs #error directive
+Usage of #line vs #pragma directive
+Usage of Standard C++ headers and #include directive
+Usage of User-defined headers and #include directive
+Usage of System headers and #include directive
+Usage of an example of #define directive
+Usage of an example of #ifdef directive
+Usage of an example of #ifndef directive
+Usage of an example of #if directive
+Usage of an example of #elif directive
+Usage of an example of #else directive
+Usage of an example of #endif directive
+Usage of an example of #pragma directive
+Best practices for using C++ preprocessor directives

@@ -1,0 +1,100 @@
+Capturing variables by value with initializers in C++ lambda
+Capturing variables by reference with initializers in C++ lambda
+Capture copy-initialized variables in C++ lambda
+Capture reference-initialized variables in C++ lambda
+Lambda captures with default initializers in C++
+Lambda capture variable with initializer list in C++
+Capture and initialize constant variables in C++ lambda
+Capture and initialize static variables in C++ lambda
+Capture and initialize member variables in C++ lambda
+Capture and initialize global variables in C++ lambda
+Capture and initialize local variables in C++ lambda
+Lambda captures with dynamically allocated variables and initializers
+Capture and initialize pointer variables in C++ lambda
+Capture and initialize array variables in C++ lambda
+Capture and initialize string variables in C++ lambda
+Capture and initialize user-defined type variables in C++ lambda
+Capturing by reference with initializer converts variable to rvalue in C++
+Capturing by value with initializers and mutable lambdas in C++
+Capturing by reference with initializers and mutable lambdas in C++
+Capturing by copy and move with initializers in C++ lambdas
+Capture and initialize variables with constructor arguments in C++ lambda
+Capturing and initializing variables by value with user-provided constructors in C++ lambda
+Capturing and initializing variables by value with user-provided conversion operators in C++ lambda
+Capture and initialize variables with complex initialization logic in C++ lambda
+Capture and initialize variables with conditional expressions in C++ lambda
+Capture and initialize variables with arithmetic operations in C++ lambda
+Capture and initialize variables with string concatenation in C++ lambda
+Capture and initialize variables with ternary operators in C++ lambda
+Capture and initialize variables with bitwise operations in C++ lambda
+Capture and initialize variables with function calls in C++ lambda
+Capture and initialize variables with lambda expressions in C++
+Lambda captures with initializer dependencies between variables
+Capture and initialize variables with type deductions in C++ lambda
+Capture and initialize variables with decltype in C++ lambda
+Capture and initialize variables with auto in C++ lambda
+Capturing variables with initializers and constexpr in C++ lambda
+Capture and initialize variables with consteval in C++ lambda
+Capture and initialize variables with templates in C++ lambda
+Capture and initialize variables with variadic arguments in C++ lambda
+Capture and initialize variables with std::initializer_list in C++ lambda
+Capture and initialize variables with structured bindings in C++ lambda
+Capture and initialize variables with user-defined literals in C++ lambda
+Capture and initialize variables with lambdas as initializers in C++
+Capture and initialize variables with type traits in C++ lambda
+Capture and initialize variables with SFINAE in C++ lambda
+Capture and initialize variables with concepts in C++ lambda
+Capture and initialize variables with exception handling in C++ lambda
+Capture and initialize variables with multiple initializers in C++ lambda
+Capture and initialize variables with conditional initialization in C++ lambda
+Capture and initialize variables with constexpr functions in C++ lambda
+Capture and initialize variables with noexcept in C++ lambda
+Capture and initialize variables with noexcept specifications in C++ lambda
+Capture and initialize variables with move semantics in C++ lambda
+Capture and initialize variables with exception specifications in C++ lambda
+Capture and initialize variables with other lambdas in C++ lambda
+Capture and initialize variables with multiple lambda captures in C++
+Capture and initialize variables with nested lambdas in C++
+Capture and initialize variables with recursive lambdas in C++
+Capture and initialize variables with lambda captures in nested scopes in C++
+Capture and initialize variables with lambda captures in nested functions in C++
+Capture and initialize variables with lambda captures in member functions in C++
+Capture and initialize variables with lambda captures in anonymous functions in C++
+Capture and initialize variables with lambda captures in function pointers in C++
+Capture and initialize variables with lambda captures in callbacks in C++
+Capture and initialize variables with lambda captures in thread functions in C++
+Capture and initialize variables with lambda captures in smart pointers in C++
+Capture and initialize variables with lambda captures in STL algorithms in C++
+Capture and initialize variables with lambda captures in range-based for loops in C++
+Capture and initialize variables with lambda captures in std::function in C++
+Capture and initialize variables with lambda captures in std::bind in C++
+Capture and initialize variables with lambda captures in std::thread in C++
+Capture and initialize variables with lambda captures in std::future in C++
+Capture and initialize variables with lambda captures in std::async in C++
+Capture and initialize variables with lambda captures in std::tuple in C++
+Capture and initialize variables with lambda captures in std::variant in C++
+Capture and initialize variables with lambda captures in std::filesystem in C++
+Capture and initialize variables with lambda captures in std::regex in C++
+Capture and initialize variables with lambda captures in std::chrono in C++
+Capture and initialize variables with lambda captures in std::io functions in C++
+Capture and initialize variables with lambda captures in std::random functions in C++
+Capture and initialize variables with lambda captures in std::algorithm in C++
+Capture and initialize variables with lambda captures in std::numeric in C++
+Capture and initialize variables with lambda captures in std::parallel in C++
+Capture and initialize variables with lambda captures in std::atomic in C++
+Capture and initialize variables with lambda captures in std::mutex in C++
+Capture and initialize variables with lambda captures in std::condition_variable in C++
+Capture and initialize variables with lambda captures in std::promise in C++
+Capture and initialize variables with lambda captures in std::iostreams in C++
+Capture and initialize variables with lambda captures in std::locale in C++
+Capture and initialize variables with lambda captures in std::codecvt in C++
+Capture and initialize variables with lambda captures in std::string in C++
+Capture and initialize variables with lambda captures in std::vector in C++
+Capture and initialize variables with lambda captures in std::list in C++
+Capture and initialize variables with lambda captures in std::map in C++
+Capture and initialize variables with lambda captures in std::set in C++
+Capture and initialize variables with lambda captures in std::unordered_map in C++
+Capture and initialize variables with lambda captures in std::unordered_set in C++
+Capture and initialize variables with lambda captures in std::shared_ptr in C++
+Capture and initialize variables with lambda captures in std::unique_ptr in C++
+Capture and initialize variables with lambda captures in std::weak_ptr in C++

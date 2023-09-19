@@ -1,0 +1,100 @@
+Introduction to C++ backend web development
+Overview of Crow library for C++ backend web development
+Getting started with Crow library
+Creating a basic HTTP server using Crow
+Routing requests in Crow
+Handling GET requests in Crow
+Handling POST requests in Crow
+Understanding middleware in Crow
+Logging requests and responses in Crow
+Error handling in Crow
+Authentication and authorization in Crow
+Using sessions in Crow
+File uploading in Crow
+Asynchronous programming with Crow
+WebSockets with Crow
+Overview of Pistache library for C++ backend web development
+Getting started with Pistache library
+Creating a basic HTTP server using Pistache
+Routing requests in Pistache
+Handling GET requests in Pistache
+Handling POST requests in Pistache
+Middleware in Pistache
+Logging requests and responses in Pistache
+Error handling in Pistache
+Authentication and authorization in Pistache
+Using sessions in Pistache
+File uploading in Pistache
+Asynchronous programming with Pistache
+WebSockets with Pistache
+Comparing Crow and Pistache for C++ backend web development
+Performance considerations in C++ backend web development with Crow
+Performance considerations in C++ backend web development with Pistache
+Scalability in C++ backend web development with Crow
+Scalability in C++ backend web development with Pistache
+Security best practices in C++ backend web development with Crow
+Security best practices in C++ backend web development with Pistache
+Testing strategies for C++ backend web development with Crow
+Testing strategies for C++ backend web development with Pistache
+Deploying C++ backend web applications using Crow
+Deploying C++ backend web applications using Pistache
+Integrating databases with Crow for C++ backend web development
+Integrating databases with Pistache for C++ backend web development
+RESTful APIs with Crow for C++ backend web development
+RESTful APIs with Pistache for C++ backend web development
+GraphQL support in Crow for C++ backend web development
+GraphQL support in Pistache for C++ backend web development
+Server-sent events with Crow
+Server-sent events with Pistache
+Handling form submissions in Crow
+Handling form submissions in Pistache
+Load balancing in C++ backend web development with Crow
+Load balancing in C++ backend web development with Pistache
+Real-time updates with Crow and WebSockets
+Real-time updates with Pistache and WebSockets
+Handling file downloads in Crow
+Handling file downloads in Pistache
+Using template engines with Crow
+Using template engines with Pistache
+Internationalization and localization in C++ backend web development with Crow
+Internationalization and localization in C++ backend web development with Pistache
+Compressing responses in Crow
+Compressing responses in Pistache
+API versioning with Crow
+API versioning with Pistache
+Server-side caching in Crow
+Server-side caching in Pistache
+Benchmarking C++ backend web applications built with Crow
+Benchmarking C++ backend web applications built with Pistache
+Monitoring and logging in Crow
+Monitoring and logging in Pistache
+Building RESTful APIs with Crow using OpenAPI specification
+Building RESTful APIs with Pistache using OpenAPI specification
+WebSocket authentication and authorization in Crow
+WebSocket authentication and authorization in Pistache
+Using Crow with Docker for containerized deployments
+Using Pistache with Docker for containerized deployments
+Implementing rate limiting in Crow
+Implementing rate limiting in Pistache
+Health checks and service monitoring in Crow
+Health checks and service monitoring in Pistache
+Using Crow with Kubernetes for scalable deployments
+Using Pistache with Kubernetes for scalable deployments
+Handling long-polling requests in Crow
+Handling long-polling requests in Pistache
+Load testing tools for C++ backend web applications built with Crow
+Load testing tools for C++ backend web applications built with Pistache
+Serialization and deserialization with Crow and JSON
+Serialization and deserialization with Pistache and JSON
+Error reporting and debugging in Crow
+Error reporting and debugging in Pistache
+Optimizing performance in C++ backend web development with Crow
+Optimizing performance in C++ backend web development with Pistache
+Implementing custom middlewares in Crow
+Implementing custom middlewares in Pistache
+Real-time collaboration with Crow and WebSockets
+Real-time collaboration with Pistache and WebSockets
+Error handling in Crow and Pistache: common pitfalls and best practices
+Scaling C++ backend web applications with Crow and load balancing
+Scaling C++ backend web applications with Pistache and load balancing
+Building RESTful APIs with Crow and Pistache: similarities and differences

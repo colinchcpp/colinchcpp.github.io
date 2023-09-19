@@ -1,0 +1,100 @@
+Overview of C++ Standard Input/Output
+Difference between C and C++ Input/Output
+Reading from standard input in C++
+Writing to standard output in C++
+Reading and writing binary files in C++
+Formatting output in C++
+Reading and writing text files in C++
+Handling end-of-file in C++
+Using file streams in C++
+Using stream manipulators in C++
+Converting data types during input/output in C++
+Parsing input in C++
+Redirecting standard input/output in C++
+Input/output error handling in C++
+Standard input/output functions in C++
+Streaming input/output in C++
+Flushing output in C++
+Formatting floating-point numbers in C++
+Using formatted output in C++
+Reading and writing characters in C++
+Binary input/output in C++
+Using the console for input/output in C++
+Reading and writing text files line by line in C++
+Reading and writing binary data from/to files in C++
+Handling input errors in C++
+Writing output to multiple files in C++
+Reading and writing strings in C++
+Handling special characters in input/output in C++
+Using formatted input in C++
+Using formatted output with string literals in C++
+Storing input/output in memory buffers in C++
+Writing formatted output to a string in C++
+Reading and writing files in a specific encoding in C++
+Using input/output with user-defined data types in C++
+Input/output with arrays in C++
+Reading and writing numbers in different bases in C++
+Using input/output with structures in C++
+Reading and writing binary data structures in C++
+Working with input/output streams in C++
+Reading and writing files in a specific file format in C++
+Input/output with classes in C++
+Reading and writing formatted data using stream operators in C++
+Handling input/output errors using error flags in C++
+Reading and writing to network sockets in C++
+Reading and writing XML/JSON data in C++
+Using regular expressions for input/output parsing in C++
+Input/output with dynamic memory allocation in C++
+Reading and writing compressed data in C++
+Input/output with multi-threading in C++
+Reading and writing data to/from remote servers in C++
+Input/output with graphical user interfaces in C++
+Reading and writing data to/from databases in C++
+Input/output with console graphics in C++
+Reading and writing data to/from web APIs in C++
+Input/output with concurrent programming in C++
+Reading and writing data to/from external hardware devices in C++
+Input/output with real-time systems in C++
+Reading and writing encrypted data in C++
+Input/output with distributed computing in C++
+Reading and writing metadata in C++
+Input/output with client-server applications in C++
+Reading and writing data in a specific file system format in C++
+Input/output with scientific and mathematical data in C++
+Reading and writing data to/from cloud storage in C++
+Input/output with graphics rendering in C++
+Reading and writing data to/from remote sensors in C++
+Input/output with embedded systems in C++
+Reading and writing data to/from external APIs in C++
+Input/output with machine learning algorithms in C++
+Reading and writing data to/from distributed file systems in C++
+Input/output with artificial intelligence models in C++
+Reading and writing data to/from external software libraries in C++
+Input/output with game development in C++
+Reading and writing data to/from mobile devices in C++
+Input/output with virtual reality applications in C++
+Reading and writing data to/from internet of things devices in C++
+Input/output with augmented reality applications in C++
+Reading and writing data to/from blockchain networks in C++
+Input/output with robotics applications in C++
+Reading and writing data to/from cloud computing platforms in C++
+Input/output with natural language processing in C++
+Reading and writing data to/from distributed databases in C++
+Input/output with computer vision applications in C++
+Reading and writing data to/from big data platforms in C++
+Input/output with audio processing in C++
+Reading and writing data to/from distributed computing frameworks in C++
+Input/output with sentiment analysis in C++
+Reading and writing data to/from virtual machines in C++
+Input/output with deep learning models in C++
+Reading and writing data to/from internet of things platforms in C++
+Input/output with data mining algorithms in C++
+Reading and writing data to/from cloud storage systems in C++
+Input/output with speech recognition systems in C++
+Reading and writing data to/from distributed ledger technologies in C++
+Input/output with recommendation systems in C++
+Reading and writing data to/from cloud-based web applications in C++
+Input/output with anomaly detection algorithms in C++
+Reading and writing data to/from distributed streaming platforms in C++
+Input/output with natural language generation in C++
+Reading and writing data to/from quantum computing systems in C++

@@ -1,0 +1,100 @@
+Introduction to C++ `std::format`
+Syntax and usage of `std::format`
+Basic string formatting using `std::format`
+Using positional arguments with `std::format`
+Formatting numeric values with `std::format`
+Customizing the width and precision of numeric values in `std::format`
+Formatting floating-point values with `std::format`
+String alignment options in `std::format`
+Formatting date and time values using `std::format`
+Using format specifiers in `std::format`
+Formatting boolean values with `std::format`
+Handling width and precision variations with `std::format`
+Formatting hexadecimal values using `std::format`
+Formatting octal values with `std::format`
+Formatting binary values using `std::format`
+Using `std::format` with user-defined types
+Formatting wide strings with `std::format`
+Formatting raw string literals with `std::format`
+Formatting scientific notation with `std::format`
+Creating custom format specifiers in `std::format`
+Formatting integral values with leading zeros using `std::format`
+Formatting conditional values using `std::format`
+Formatting currency values using `std::format`
+Formatting complex numbers with `std::format`
+Formatting strings with padding using `std::format`
+Formatting strings with truncation using `std::format`
+Formatting numbers with grouping separators using `std::format`
+Formatting strings with color using `std::format`
+Formatting strings with HTML or XML tags using `std::format`
+Formatting URLs with query parameters using `std::format`
+Formatting file paths with `std::format`
+Formatting network addresses using `std::format`
+Formatting IP addresses using `std::format`
+Formatting email addresses with `std::format`
+Formatting phone numbers using `std::format`
+Formatting percentages with `std::format`
+Formatting file sizes with `std::format`
+Formatting intervals and durations using `std::format`
+Formatting currency amounts with currency symbols using `std::format`
+Formatting numbers with different radix and digit separators using `std::format`
+Formatting strings with line breaks and indentation using `std::format`
+Formatting JSON data using `std::format`
+Formatting XML data with attribute-value pairs using `std::format`
+Formatting CSV data using `std::format`
+Formatting logs with timestamp and log level using `std::format`
+Formatting database queries using `std::format`
+Formatting SQL statements with `std::format`
+Formatting URL-encoded data using `std::format`
+Formatting base64-encoded data with `std::format`
+Formatting URLs with anchor tags using `std::format`
+Formatting HTML tables using `std::format`
+Formatting JSON responses using `std::format`
+Formatting XML documents using `std::format`
+Formatting command-line help messages with `std::format`
+Formatting error messages using `std::format`
+Formatting progress bars with `std::format`
+Formatting bar charts using `std::format`
+Formatting pie charts with `std::format`
+Formatting histograms using `std::format`
+Formatting scatter plots with `std::format`
+Formatting line plots using `std::format`
+Formatting box plots with `std::format`
+Formatting heat maps using `std::format`
+Formatting radar charts with `std::format`
+Formatting network graphs using `std::format`
+Formatting tree diagrams using `std::format`
+Formatting Venn diagrams with `std::format`
+Formatting flowcharts using `std::format`
+Formatting UML diagrams with `std::format`
+Formatting state transition diagrams using `std::format`
+Formatting sequence diagrams with `std::format`
+Formatting Gantt charts using `std::format`
+Formatting project timelines with `std::format`
+Formatting process diagrams using `std::format`
+Formatting BPMN diagrams with `std::format`
+Formatting mind maps using `std::format`
+Formatting decision trees with `std::format`
+Formatting neural network diagrams using `std::format`
+Formatting Excel spreadsheets using `std::format`
+Formatting PowerPoint presentations with `std::format`
+Formatting Word documents using `std::format`
+Formatting PDF documents with `std::format`
+Formatting HTML reports using `std::format`
+Formatting XML schemas with `std::format`
+Formatting CSS stylesheets using `std::format`
+Formatting JavaScript code with `std::format`
+Formatting SQL scripts using `std::format`
+Formatting CMakeLists.txt files with `std::format`
+Formatting Python scripts using `std::format`
+Formatting Git commit messages with `std::format`
+Formatting Dockerfile instructions using `std::format`
+Formatting YAML documents with `std::format`
+Formatting Markdown files using `std::format`
+Formatting source code files with `std::format`
+Formatting configuration files using `std::format`
+Formatting log files with `std::format`
+Formatting XML configuration files using `std::format`
+Formatting error logs with stack traces using `std::format`
+Formatting system logs with priority levels using `std::format`
+Formatting access logs with IP addresses and request details using `std::format`

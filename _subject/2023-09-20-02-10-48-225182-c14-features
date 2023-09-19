@@ -1,0 +1,100 @@
+Auto return type deduction
+Generic lambdas
+User-defined literals
+Delegating constructors
+Digit separators
+Null pointer constant
+Binary literals
+Variable templates
+Tuple addressing via type
+Runtime type information support
+Standard attributes
+Binary literals
+Variable templates
+Function template default arguments
+constexpr member functions
+Extended constexpr
+Uniform initialization in if statements
+Capture-less lambdas
+Aggregate member initializers
+Relaxed constexpr
+Generalized constant expressions
+Alias templates
+Unrestricted unions
+Sized deallocation
+Lambda capture initializers
+Literal suffixes for standard library types
+Template argument deduction for class templates
+Factory functions for unique_ptr
+Removable std::functions
+Variable templates
+Constexpr virtual functions
+Namespace aliases
+decltype(auto)
+Standard user-defined literals
+Standard attribute grammar
+Exception specifications as part of function type
+Extended friend declarations
+Suffix return type deduction
+Generic attributes for user-defined literals
+Late-specified return types
+Function return type deduction
+Non-static data member initializers
+Trailing return types
+Template argument deduction for constructors
+Nested namespace definitions
+Extended integral constants
+Immediate functions
+Range-based for loop with initializers
+Nested template template parameters
+Arguably generalized constexpr
+Abbreviated function templates
+Inheriting constructors
+Standard library changes
+Function return type deduction
+Variable initializer type deduction
+Removing deprecated features
+User-defined literals for timestamps
+Exception translation
+Alignment support in dynamic memory management
+Compile-time rational arithmetic
+Touching poisons via a narrower pointer
+Decimal floating-point arithmetic
+Contextual type and sides of generic lambda capture lists
+Reflection in C++
+Standard type traits for C1x
+SIMD support
+Unordered containers
+Variadic using declarations
+Range adaptors
+Lambdas in unevaluated contexts
+Exception specifications and noexcept
+Coroutine support
+Tuple addressing via runtime value
+yield expression in generic lambdas
+Raw string literals
+Throwing lambdas
+Dynamic exception specifications
+move return
+Distributional equality testing
+Better integer literals
+Polymorphic lambdas
+Index sequences
+Immediate functions II
+Generic lambda horror
+Trailing return types and decltype(auto)
+Multidimensional subscript operator
+Main arguments
+A „Standard Parcel“ for distributing C++ programs
+Short function and template syntaxes
+Basic reflection
+All C++17 changes (incorrectly) mistaken for C++14 ones
+Non-owning references
+Format strings
+Hexadecimal floating point literals
+A very basic unwind library
+Parameter index based function invocation
+Let syntax in lambdas and simple blocks
+Customization of construction and comparison error messages
+Abstractions for structured bindings
+Timezones

@@ -1,0 +1,100 @@
+Type detection
+Type categorization
+Type properties
+Is integral
+Is floating-point
+Is arithmetic
+Is scalar
+Is compound
+Is pointer
+Is reference
+Is array
+Is function
+Is enum
+Is class or struct
+Is union
+Is void
+Is const
+Is volatile
+Is lvalue reference
+Is rvalue reference
+Is object
+Is trivial
+Is standard layout
+Is abstract
+Is polymorphic
+Is literal type
+Is empty
+Is signed
+Is unsigned
+Is trivially copyable
+Is trivially destructible
+Is noexcept
+Is nothrow copy assignable
+Is nothrow move assignable
+Is nothrow swappable
+Is nothrow default constructible
+Is destructible
+Is constructible
+Is assignable
+Is movable
+Is copyable
+Is swappable
+Is default constructible
+Is move constructible
+Is copy constructible
+Is assignable from
+Is copy assignable from
+Is move assignable from
+Is equality comparable
+Is less-than comparable
+Is reference wrapper
+Is tuple-like
+Is container
+Is sequence container
+Is associative container
+Is unordered associative container
+Is allocator awareness
+Is bitwise copyable
+Is copy moveable
+Is nothrow swappable with
+Is same
+Is base of
+Is convertible to
+Is derived from
+Is member pointer
+Is enum class
+Is enum struct
+Is scoped enum
+Has trivial copy constructor
+Has trivial move constructor
+Has trivial copy assignment operator
+Has trivial move assignment operator
+Has trivial destructor
+Has virtual destructor
+Has throwing destructor
+Has nothrow destructor
+Has unique object representation
+Has unique object address
+Has special member functions
+Has nothrow value constructor
+Has nothrow forward constructor
+Has nothrow copy constructor
+Has nothrow move constructor
+Has nothrow copy assignment operator
+Has nothrow move assignment operator
+Has noexcept specifier
+Has virtual specifier
+Has variadic template
+Has nested type
+Has member function
+Has const member function
+Has volatile member function
+Has const volatile member function
+Has constructor
+Has copy constructor
+Has move constructor
+Has copy assignment operator
+Has move assignment operator
+Has destructor
+Inherit from base class

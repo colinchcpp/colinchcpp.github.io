@@ -1,0 +1,100 @@
+Definition of multisets in C++
+How to create a multiset in C++
+Adding elements to a multiset in C++
+Removing elements from a multiset in C++
+Accessing elements in a multiset in C++
+Checking if a multiset is empty in C++
+Checking the size of a multiset in C++
+Counting the occurrences of an element in a multiset in C++
+Finding the first occurrence of an element in a multiset in C++
+Finding the last occurrence of an element in a multiset in C++
+Finding the range of elements with a specific value in a multiset in C++
+Removing all occurrences of a specific element from a multiset in C++
+Removing duplicate elements from a multiset in C++
+Clearing all elements from a multiset in C++
+Checking if two multisets are equal in C++
+Checking if a multiset contains all elements of another multiset in C++
+Finding the union of two multisets in C++
+Finding the intersection of two multisets in C++
+Finding the difference of two multisets in C++
+Finding the symmetric difference of two multisets in C++
+Creating a multiset with custom comparator in C++
+Iterating over a multiset in C++
+Reverse iterating over a multiset in C++
+Finding the minimum element in a multiset in C++
+Finding the maximum element in a multiset in C++
+Erasing a range of elements from a multiset in C++
+Swapping two multisets in C++
+Merging two multisets in C++
+Finding the smallest element greater than a value in a multiset in C++
+Finding the largest element smaller than a value in a multiset in C++
+Finding the smallest N elements in a multiset in C++
+Finding the largest N elements in a multiset in C++
+Sorting a multiset in ascending order in C++
+Sorting a multiset in descending order in C++
+Checking if a multiset is sorted in C++
+Copying a multiset in C++
+Converting a multiset to a vector in C++
+Converting a multiset to a set in C++
+Converting a multiset to an array in C++
+Finding the average of elements in a multiset in C++
+Finding the sum of elements in a multiset in C++
+Finding the product of elements in a multiset in C++
+Finding the median of elements in a multiset in C++
+Finding the mode of elements in a multiset in C++
+Finding the range of elements in a multiset in C++
+Finding the standard deviation of elements in a multiset in C++
+Finding unique elements in a multiset in C++
+Finding common elements in multiple multisets in C++
+Finding uncommon elements in multiple multisets in C++
+Reversing the order of elements in a multiset in C++
+Shuffling the elements in a multiset in C++
+Finding the frequency of each element in a multiset in C++
+Finding the kth smallest element in a multiset in C++
+Finding the kth largest element in a multiset in C++
+Finding the number of elements within a specific range in a multiset in C++
+Finding the elements occurring more than a specified number of times in a multiset in C++
+Finding the elements occurring less than a specified number of times in a multiset in C++
+Finding the number of duplicate elements in a multiset in C++
+Finding the number of unique elements in a multiset in C++
+Finding the average occurrence of elements in a multiset in C++
+Removing elements with a specific value from multiple multisets in C++
+Checking if all elements of a multiset satisfy a certain condition in C++
+Accessing elements using iterator in a multiset in C++
+Inserting elements at a specific position in a multiset in C++
+Updating elements in a multiset in C++
+Finding the number of elements greater than a specific value in a multiset in C++
+Finding the number of elements smaller than a specific value in a multiset in C++
+Finding the number of elements equal to a specific value in a multiset in C++
+Checking if a multiset contains a specific element in C++
+Checking if a multiset contains all elements of an array in C++
+Finding the position of an element in a multiset in C++
+Finding the index range of an element in a multiset in C++
+Checking if a multiset is subset of another multiset in C++
+Checking if a multiset is proper subset of another multiset in C++
+Checking if a multiset is superset of another multiset in C++
+Checking if a multiset is proper superset of another multiset in C++
+Removing elements with a specific property from a multiset in C++
+Removing elements meeting a specific condition from a multiset in C++
+Removing elements satisfying a specific predicate from a multiset in C++
+Checking if a multiset contains only unique elements in C++
+Finding the common elements with a set in a multiset in C++
+Finding the common elements with an array in a multiset in C++
+Finding the common elements with another multiset in C++
+Finding the uncommon elements with a set in a multiset in C++
+Finding the uncommon elements with an array in a multiset in C++
+Finding the uncommon elements with another multiset in C++
+Finding the unique elements with a set in a multiset in C++
+Finding the unique elements with an array in a multiset in C++
+Finding the unique elements with another multiset in C++
+Applying a function to each element in a multiset in C++
+Applying a lambda function to each element in a multiset in C++
+Applying a custom function to each element in a multiset in C++
+Grouping elements in a multiset based on a certain property in C++
+Counting the number of elements satisfying a specific condition in a multiset in C++
+Checking if a multiset is a proper subset of multiple multisets in C++
+Checking if a multiset is a proper superset of multiple multisets in C++
+Finding the common elements in multiple multisets in C++
+Finding the uncommon elements in multiple multisets in C++
+Finding the union of multiple multisets in C++
+Finding the intersection of multiple multisets in C++

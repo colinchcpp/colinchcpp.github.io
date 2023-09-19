@@ -1,0 +1,100 @@
+Modules
+Concepts
+Ranges
+Coroutines
+Three-way comparisons
+Improved constexpr
+Contracts
+Lambdas in unevaluated contexts
+Changes to the standard library
+Atomic shared_ptr
+Improved error handling with std::expected
+Customization point objects
+Reflection
+Pattern matching
+Decimal floating-point type
+Extended static reflection
+Parallel algorithms
+Improved string handling with std::u8string
+Executors
+Format library
+Mathematical special functions
+Improved random number generation with std::random_device
+Debug mode iterator checking
+Improved tuple support
+Non-owning references with std::span
+Improved bit manipulation with std::bit
+Mixins
+Improved type traits
+Default comparisons
+Time zones
+Improved date and time utilities with std::chrono
+Synchronization and concurrency improvements
+Improved smart pointers
+Improved constexpr functions
+Improved lambda capture
+Improved structured bindings
+Improved file system operations
+Improvements to exception handling
+Improved template constraints
+Compatibility with C features
+Default member initializers
+Easier forwarding of variadic templates with std::forward_as_tuple
+Improved tuple-like implementation with std::tuple_size
+Standard attributes
+Dynamic memory management improvements
+Improved template deduction
+Improved explicit conversion operators
+Improved handling of volatile
+Non-static data member initializers
+Polymorphic memory resources
+Improved emulation of concepts prior to C++20
+Improved non-member begin/end functions
+Improved handling of Unicode characters
+Improved dynamic initialization order
+Improved module requirements
+Support for big integers
+Improved structured bindings in if statements
+Improved constexpr if
+Atomic wait operations
+Improved support for type-lists
+Changes to user-defined literals
+Improved floating-point semantics
+Easier use of preconditions and postconditions with std::assert
+Improved support for constexpr in lambdas
+Language support for contracts
+Improved handling of nonexistent types with std::void_t
+Improved library consistency for std::string_view
+Improved handling of lambdas in unevaluated contexts
+Easier definition of ranges with std::common_range
+Support for named template arguments
+Improved support for recursive lambdas
+Improved support for multiple final overloads
+Improved handling of noexcept
+Support for deducing return types for lambdas
+Improvements to tuple-like types
+Improved atomic operations
+Extensions to constexpr algorithms
+Improved handling of non-copyable types
+Better error messages for concepts
+Support for three-way comparisons in range adaptors
+Improved compile-time reflection
+Support for constexpr dynamic memory management
+Improved compatibility with C-style variadic functions
+Support for generating random numbers from user-supplied distributions
+Improved handling of floating-point rounding modes
+More powerful customization point objects
+Improved handling of type erasure with std::any
+Partial ordering of concepts
+Support for explicit exclusion of specializations
+Improved library support for UTF-8 encoding
+Support for speculative execution
+Improved constexpr lambdas
+Support for additional math functions
+Improved support for function pointers
+Support for static reflection on function signatures
+Improved support for user-defined attributes
+Support for constexpr regular expressions
+Improved template metaprogramming with concepts
+Support for constexpr vector and span
+Improved handling of alternative type representations

@@ -1,0 +1,100 @@
+Qiskit library for implementing quantum algorithms in C++
+IBM Quantum Experience for accessing real quantum computers via C++
+Microsoft Quantum Development Kit with C++ support
+XACC (eXascale Accelerator Compilation Framework) for C++ quantum programming
+Cirq library for quantum computing in C++
+Forest SDK by Rigetti Computing with C++ capabilities
+ProjectQ library for quantum computing in C++
+PennyLane library for C++ quantum machine learning
+Q# language integration with C++ for quantum programming
+OpenQL for C++ quantum circuit compilation
+Qubits.jl library for C++ quantum simulations using Julia
+Google Quantum Computing Playground for C++ programming
+C++ bindings for the Quantum Tinkerer library
+Quantum++ library for C++ quantum programming
+Bracket’s Quantum Development Kit integration with C++
+QFlex library for C++ quantum-classical simulations
+C++ bindings for Qubiter library for quantum simulations
+Qrack library for C++ quantum simulations
+Quantastica library with C++ support for quantum computing
+Microsoft LIQUi|> simulation environment with C++ integration
+Qat4j library with C++ bindings for quantum annealing
+Q# integration with C++ in QDK
+C++ support in the QFTK (Quantum Fourier Transform Kit)
+FeNiCS library for C++ quantum simulations
+C++ bindings for Quantum++ library
+QFlow framework with C++ integration for quantum programming
+VQF (Variational Quantum Factoring) with C++ integration
+C++ support in the QuTiP (Quantum Toolbox in Python)
+Qiskit Metal library with C++ capabilities
+C++ Quantum Computing Program Analysis Framework (QCPAF)
+XACC integration with C++ Photonic Quantum Computing
+Qsim library for C++ quantum circuit simulations
+AQT (Axontes Quantum Tokenization) C++ library
+QMCPACK library with C++ integration for quantum Monte Carlo calculations
+C++ bindings for Quantum Machine Learning Toolbox (QMLT)
+QInfer library with C++ support for quantum estimation and learning
+Qubit Allocation in C++ for Quantum Computers
+C++ integration with QX simulator for quantum circuits
+QubitSquid framework for C++ quantum programming
+Recursive Array Decomposition (RAD) with C++ integration for quantum computing
+CompCert certified C++ quantum programming language
+C++ support in Brig quantum compiler
+Qbsolv library with C++ integration for Ising problem solvers
+Parallel C++ implementation of quantum algorithms with OpenMP
+C++ support in Q# quantum resource estimation
+Qmasm assembler with C++ support for quantum programming
+C++ integration with QWIRE quantum circuit language
+Q-Sim library with C++ capabilities for quantum algorithm simulations
+QTL (Quantum Template Library) for quantum computing in C++
+C++ support in Quantum Information Theory Toolbox (QIT)
+High-performance GPU implementation of C++ quantum algorithms
+QuantLib library with C++ integration for financial quantum computing
+C++ bindings for NuQASM, a quantum assembly language
+Qiskrypt library with C++ capabilities for quantum cryptographic algorithms
+C++ integration with SymbolicCircuit, a symbolic classical-quantum circuit simulator
+C++ support in the Eclipse XACC quantum programming framework
+QPop algorithm with C++ implementation for quantum population synthesis
+C++ bindings for Cirq-compatible PyZX library for quantum circuit rewriting
+Quantum Transport Simulation Toolkit (QTST) with C++ integration
+C++ support in QCraft, a Minecraft mod for quantum simulation
+Qfactor library for C++ quantum circuit factoring
+C++ integration with Quantum Coprocessor Emulation (QuaCoE)
+C++ support in Q-Learned Reinforcement Quantum Annealer (QORA)
+Quantum Computing Program Optimizer (QCPO) with C++ integration
+C++ bindings for Quantum Inspired Numerical Optimization (QINO)
+QOPT optimization library with C++ integration for quantum computing
+C++ support in Quadrupole-based Quantum Circuit Optimizer (Q2CO)
+Quantum Circuit Fuzzer (CirFuzz) with C++ implementation
+C++ integration with Quantum Neural Network Designer (QuaNN Designer)
+QEst framework with C++ support for quantum resource estimation and optimization
+C++ support in Quantum-like Bayesian Networks (QBN)
+Quantum Circuit Rewriter (QCR) with C++ implementation
+C++ bindings for Quantum-in-Motion (QiM) framework for modeling quantum systems
+QSimulate library for C++ quantum circuit simulation
+C++ integration with Quantum Computing Integrated Development Environment (QC IDE)
+Qoku emulator with C++ implementation for quantum circuits
+C++ support in Quantum Logic Emulator (QLE)
+Quantum Computing Neuromorphic Architecture (QCNA) with C++ integration
+C++ bindings for Quantum Circuit Synthesizer (QCS)
+QPy framework with C++ integration for quantum programming in Python
+C++ support in Quantum Deep Convolutional Neural Networks (QDCNN)
+Quantum Architecture Synthesizer (QAS) with C++ implementation
+C++ integration with Quantum Instruction Set Simulator (QISS)
+QWave library for C++ quantum wavefunction simulations
+C++ support in Quantum Forth Interpreter (QFORTH)
+Quantum Circuit Design and Layout (QCDL) with C++ integration
+C++ bindings for Quantum Finite Automata (QFA)
+QFlow Simulator with C++ capabilities
+C++ support in Quantum-driven Bayesian Reasoning (QBR)
+Quantum Computing Code Generator (QCGen) with C++ implementation
+C++ integration with Quantum-inspired Tabu Search algorithm (QTS)
+QCompiler framework with C++ support for quantum circuit compilation
+C++ bindings for Quantum-driven Machine Learning (QML)
+Quantum Fourier Transform Architecture (QFTA) with C++ integration
+C++ support in Quantum DNN (Deep Neural Networks) Compiler
+Qnum library for C++ quantum computing with arbitrary precision arithmetic
+C++ integration with Quantum of the Seas ship-based quantum computer
+Quantum Assembler (QAsm) with C++ implementation
+C++ support in Quantum Analog Computing (QAC)
+QComp library for C++ quantum computer simulations

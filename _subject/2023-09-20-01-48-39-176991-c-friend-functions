@@ -1,0 +1,100 @@
+What are friend functions in C++?
+How to define a friend function in C++?
+What is the purpose of using friend functions in C++?
+Are friend functions part of the class definition?
+Can friend functions access private members of a class in C++?
+How to declare a friend function inside a class?
+How to implement a friend function outside a class in C++?
+Can a friend function be a member of another class?
+How to pass objects as parameters to a friend function in C++?
+Can a friend function be defined inside a namespace in C++?
+How to overload a friend function in C++?
+Can a friend function be virtual in C++?
+How to declare and define a friend class in C++?
+Can a friend function access protected members of a class in C++?
+What are the advantages of using friend functions in C++?
+Can multiple functions be defined as friends of the same class in C++?
+How to instantiate a friend class in C++?
+Can a friend function be static in C++?
+How to make a specific function a friend of a class in C++?
+Can a friend function be a template in C++?
+What are the restrictions for using friend functions in C++?
+How to use friend functions to implement operator overloading in C++?
+Can a friend function be inherited in C++?
+How to use friend functions to implement type conversions in C++?
+Can a friend function be const in C++?
+What is the difference between friend functions and member functions in C++?
+How to define a friend function in a derived class in C++?
+Can a friend function be inline in C++?
+How to declare a friend function inside a base class in C++?
+When should we use friend functions in C++?
+Can a friend function have a different access specifier than the class in C++?
+How to implement friend functions in a namespace in C++?
+Can a friend function be declared and defined separately in C++?
+What is the scope of a friend function in C++?
+How to define a friend function for multiple classes in C++?
+Can a friend function access static members of a class in C++?
+How to declare a friend function in multiple classes in C++?
+Can a friend function be a const member function in C++?
+How to define a friend function for a specific template specialization in C++?
+Can a friend function be restricted to be accessed only by certain classes in C++?
+How to use friend functions for input and output of user-defined types in C++?
+Can a friend function be a member function of a different class in C++?
+How to use friend functions to implement data encapsulation in C++?
+Can a friend function be a lambda function in C++?
+How to define a friend function inside a nested class in C++?
+What is the difference between friend functions and static members in C++?
+Can a friend function be partially specialized in C++?
+How to declare a friend function with a different name than the class in C++?
+Can a friend function be called without an object in C++?
+How to declare a friend function in a different namespace than the class in C++?
+Can a friend function be declared in a derived class and defined in a base class in C++?
+How to make all functions of a namespace friend of a class in C++?
+Can a friend function be a member function of the same class in C++?
+How to define a global friend function in C++?
+Can a friend function be a member template function in C++?
+How to declare a friend function with default arguments in C++?
+Can a friend function have a different return type than the class in C++?
+How to use friend functions to implement deep copy in C++?
+Can a friend function be a member operator function in C++?
+What are the security implications of using friend functions in C++?
+How to implement friend functions for common mathematical operations in C++?
+Can a friend function be a member destructor in C++?
+How to use friend functions to implement type traits in C++?
+Can a friend function be a member conversion function in C++?
+How to define a friend function inside a lambda function in C++?
+What are the potential drawbacks of using friend functions in C++?
+Can a friend function be a member constructor in C++?
+How to use friend functions to implement data validation in C++?
+Can a friend function be a member assignment operator function in C++?
+How to define a friend function inside a member function in C++?
+Can a friend function be declared in a different file than the class in C++?
+How to use friend functions to implement custom memory management in C++?
+Can a friend function be a member subscript operator function in C++?
+How to declare a friend function inside a friend class in C++?
+Can a friend function be a member conversion operator function in C++?
+How to use friend functions to implement custom sorting algorithms in C++?
+Can a friend function be a member virtual function in C++?
+How to define a friend function for a template class in C++?
+Can a friend function be a member static function in C++?
+How to use friend functions to implement custom string manipulation in C++?
+Can a friend function be a member lambda function in C++?
+How to declare a friend function inside a template class in C++?
+Can a friend function be a member template operator function in C++?
+How to use friend functions to implement custom container classes in C++?
+Can a friend function be a member constexpr function in C++?
+How to define a friend function inside an anonymous namespace in C++?
+Can a friend function be a member noexcept function in C++?
+How to use friend functions to implement custom algorithms in C++?
+Can a friend function be a member explicit operator function in C++?
+How to declare a friend function for multiple template specializations in C++?
+Can a friend function be a member volatile function in C++?
+How to declare a friend function with variadic arguments in C++?
+Can a friend function be a member default constructor in C++?
+How to use friend functions to implement custom data structures in C++?
+Can a friend function be a member consteval function in C++?
+How to define a friend function inside an anonymous structure in C++?
+Can a friend function be a member trailing return type function in C++?
+How to use friend functions to implement custom search algorithms in C++?
+Can a friend function be a member explicit specialization function in C++?
+How to declare a friend function with forward declarations in C++?

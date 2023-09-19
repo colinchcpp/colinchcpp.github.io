@@ -1,0 +1,100 @@
+Introduction to C++ Bitset
+Bitwise operations in C++ Bitset
+Working with bit flags using C++ Bitset
+Converting decimal to binary using C++ Bitset
+Converting binary to decimal using C++ Bitset
+Creating a dynamic-sized C++ Bitset
+Setting and clearing bits in C++ Bitset
+Checking if a bit is set in C++ Bitset
+Flipping bits in C++ Bitset
+Counting set bits in C++ Bitset
+Counting unset bits in C++ Bitset
+Finding the first set bit in C++ Bitset
+Finding the first unset bit in C++ Bitset
+Finding the last set bit in C++ Bitset
+Finding the last unset bit in C++ Bitset
+Comparing two C++ Bitsets for equality
+Comparing two C++ Bitsets for inequality
+Performing logical AND operation on two C++ Bitsets
+Performing logical OR operation on two C++ Bitsets
+Performing logical XOR operation on two C++ Bitsets
+Performing logical NOT operation on a C++ Bitset
+Shifting bits to the left in C++ Bitset
+Shifting bits to the right in C++ Bitset
+Rotating bits in C++ Bitset
+Resizing a C++ Bitset
+Accessing individual bits in a C++ Bitset
+Counting the number of bits in a C++ Bitset
+Checking if a C++ Bitset is empty
+Getting the size of a C++ Bitset
+Checking if a C++ Bitset is full
+Converting a C++ Bitset to a string
+Converting a string to a C++ Bitset
+Converting a C++ Bitset to an integer
+Converting an integer to a C++ Bitset
+Converting a C++ Bitset to a decimal number
+Converting a decimal number to a C++ Bitset
+Converting a C++ Bitset to a hexadecimal number
+Converting a hexadecimal number to a C++ Bitset
+Converting a C++ Bitset to an octal number
+Converting an octal number to a C++ Bitset
+Converting a C++ Bitset to a binary string
+Converting a binary string to a C++ Bitset
+Finding the first occurrence of a specific bit pattern in a C++ Bitset
+Finding all occurrences of a specific bit pattern in a C++ Bitset
+Combining multiple C++ Bitsets
+Splitting a C++ Bitset into multiple smaller Bitsets
+Counting the number of contiguous 1s in a C++ Bitset
+Counting the number of contiguous 0s in a C++ Bitset
+Finding the longest sequence of 1s in a C++ Bitset
+Finding the longest sequence of 0s in a C++ Bitset
+Swapping bits between two C++ Bitsets
+Detecting for overlapping bits in two C++ Bitsets
+Reversing the order of bits in a C++ Bitset
+Finding the complement of a C++ Bitset
+Finding the intersection of two C++ Bitsets
+Finding the union of two C++ Bitsets
+Finding the difference between two C++ Bitsets
+Finding the symmetric difference between two C++ Bitsets
+Checking if a C++ Bitset is a subset of another Bitset
+Checking if a C++ Bitset is a superset of another Bitset
+Applying different bit operations on a range of bits in a C++ Bitset
+Setting all bits in a C++ Bitset to 1
+Clearing all bits in a C++ Bitset to 0
+Reversing the bits of a C++ Bitset
+Extending the size of a C++ Bitset by padding with zeros
+Extending the size of a C++ Bitset by padding with ones
+Applying a cyclic shift to the left in a C++ Bitset
+Applying a cyclic shift to the right in a C++ Bitset
+Finding the number of set bits in a specific range of bits in a C++ Bitset
+Finding the number of unset bits in a specific range of bits in a C++ Bitset
+Applying logical AND between multiple C++ Bitsets
+Applying logical OR between multiple C++ Bitsets
+Applying logical XOR between multiple C++ Bitsets
+Finding the position of the least significant 1 bit in a C++ Bitset
+Finding the position of the most significant 1 bit in a C++ Bitset
+Finding the position of the least significant unset bit in a C++ Bitset
+Finding the position of the most significant unset bit in a C++ Bitset
+Counting the number of 1s using a lookup table in a C++ Bitset
+Counting the number of 0s using a lookup table in a C++ Bitset
+Performing arithmetic operations on C++ Bitsets
+Converting a C++ Bitset to a vector or array
+Sorting a C++ Bitset
+Finding the next permutation of a C++ Bitset
+Finding the previous permutation of a C++ Bitset
+Generating random C++ Bitsets
+Applying bitwise operations on different portions of a C++ Bitset
+Applying bitwise operations on odd/even bits in a C++ Bitset
+Counting the number of set bits in the odd/even positions of a C++ Bitset
+Counting the number of unset bits in the odd/even positions of a C++ Bitset
+Applying a mask to a C++ Bitset
+Extracting a specific range of bits from a C++ Bitset
+Finding the hamming distance between two C++ Bitsets
+Finding the levenshtein distance between two C++ Bitsets
+Finding the longest common subsequence between two C++ Bitsets
+Applying bit operations on non-contiguous bits in a C++ Bitset
+Comparing a C++ Bitset with a non-bitset value
+Finding all possible bit combinations of a specific length in a C++ Bitset
+Determining if a C++ Bitset can represent a specific number
+Serializing a C++ Bitset
+Deserializing a C++ Bitset

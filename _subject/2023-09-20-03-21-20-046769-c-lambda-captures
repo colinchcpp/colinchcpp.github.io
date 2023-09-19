@@ -1,0 +1,100 @@
+Value capture in C++ lambda expressions
+Reference capture in C++ lambda expressions
+Mutable keyword in C++ lambda captures
+Capturing by copy in C++ lambda captures
+Capturing by reference in C++ lambda captures
+Implicit capture in C++ lambda expressions
+Explicit capture in C++ lambda expressions
+Capturing local variables in C++ lambda expressions
+Capturing global variables in C++ lambda expressions
+Capturing static variables in C++ lambda expressions
+Capturing member variables in C++ lambda expressions
+Capturing this pointer in C++ lambda expressions
+Capturing parameters in C++ lambda expressions
+Capturing parameter packs in C++ lambda expressions
+Capturing initializer lists in C++ lambda expressions
+Capturing specific variables in C++ lambda expressions
+Lambda captures with function pointers in C++
+Lambda captures with member function pointers in C++
+Lambda captures with functor objects in C++
+Lambda captures with callable objects in C++
+Lambda captures with lambdas in C++
+Capturing by value with move semantics in C++ lambdas
+Capturing by value with copy constructors in C++ lambdas
+Capturing by reference with const qualifier in C++ lambdas
+Capturing by reference with mutable qualifier in C++ lambdas
+Lambda captures with templates in C++
+Lambda captures with template parameters in C++
+Capturing nested variables in C++ lambdas
+Capturing variables from enclosing scopes in C++ lambdas
+Capturing lambda's enclosing function parameters in C++
+Capturing variables from outer lambda expressions in C++
+Lifetime of captured variables in C++ lambdas
+Capturing variables with different scopes in C++ lambdas
+Capturing variables from lambda's enclosing class in C++
+Capturing variables from lambda's enclosing namespace in C++
+Capturing variables from lambda's enclosing block in C++
+Capturing variables from lambda's enclosing function in C++
+Capturing variables from inner lambda expressions in C++
+Capturing variables from outer nested lambda expressions in C++
+Capturing variables from inner nested lambda expressions in C++
+Capturing variables from outer lambda expressions in inner nested lambdas in C++
+Lambda captures with variadic templates in C++
+Lambda captures with perfect forwarding in C++
+Lambda captures with std::move and std::forward in C++
+Capturing variables with reference collapsing in C++ lambdas
+Capturing variables with different qualifiers in C++ lambdas
+Capturing variables using decltype(auto) in C++ lambdas
+Capturing variables with explicit type in C++ lambdas
+Capturing variables with auto type deduction in C++ lambdas
+Capturing variables with decltype type deduction in C++ lambdas
+Capturing variables with trailing return type in C++ lambdas
+Capturing variables with constexpr in C++ lambdas
+Capturing variables with noexcept in C++ lambdas
+Capturing variables with noexcept specification in C++ lambdas
+Capturing variables with const noexcept specification in C++ lambdas
+Capturing variables with const constexpr noexcept specification in C++ lambdas
+Capturing variables with noexcept specification depending on template parameter in C++ lambdas
+Capturing variables with noexcept specification and exception specification in C++ lambdas
+Capturing variables with noexcept specification, exception specification, and trailing return type in C++ lambdas
+Capturing variables with noexcept specification, exception specification, and constexpr in C++ lambdas
+Capturing variables with noexcept specification, exception specification, constexpr, and trailing return type in C++ lambdas
+Capturing variables with different qualifiers and noexcept specification in C++ lambdas
+Capturing variables by value and reference in C++ lambdas
+Capturing variables by value and reference with move semantics in C++ lambdas
+Capturing variables by value and reference with copy constructors in C++ lambdas
+Capturing variables by value and reference with const qualifier in C++ lambdas
+Capturing variables by value and reference with mutable qualifier in C++ lambdas
+Capturing variables by value and reference with different qualifiers in C++ lambdas
+Capturing variables by value and reference with decltype(auto) in C++ lambdas
+Capturing variables by value and reference with explicit type in C++ lambdas
+Capturing variables by value and reference with auto type deduction in C++ lambdas
+Capturing variables by value and reference with decltype type deduction in C++ lambdas
+Capturing variables by value and reference with trailing return type in C++ lambdas
+Capturing variables by value and reference with constexpr in C++ lambdas
+Capturing variables by value and reference with noexcept in C++ lambdas
+Capturing variables by value and reference with noexcept specification in C++ lambdas
+Capturing variables by value and reference with const noexcept specification in C++ lambdas
+Capturing variables by value and reference with const constexpr noexcept specification in C++ lambdas
+Capturing variables by value and reference with noexcept specification depending on template parameter in C++ lambdas
+Capturing variables by value and reference with noexcept specification and exception specification in C++ lambdas
+Capturing variables by value and reference with noexcept specification, exception specification, and trailing return type in C++ lambdas
+Capturing variables by value and reference with noexcept specification, exception specification, and constexpr in C++ lambdas
+Capturing variables by value and reference with noexcept specification, exception specification, constexpr, and trailing return type in C++ lambdas
+Capturing variables by value and reference with different qualifiers and noexcept specification in C++ lambdas
+Lambda captures in generic lambdas in C++
+Lambda captures in lambda expressions with multiple captures in C++
+Lambda captures in lambda expressions with optional captures in C++
+Lambda captures with conditional captures in C++
+Capturing variables with default capture modes in C++ lambdas
+Capturing variables with mixed capture modes in C++ lambdas
+Capturing variables with mixed capture modes and qualifiers in C++ lambdas
+Capturing variables with mixed capture modes and noexcept specifications in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, and noexcept specifications in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, noexcept specifications, and trailing return types in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, noexcept specifications, and constexpr in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, noexcept specifications, constexpr, and trailing return types in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, noexcept specifications, exception specifications in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, noexcept specifications, exception specifications, and trailing return types in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, noexcept specifications, exception specifications, and constexpr in C++ lambdas
+Capturing variables with mixed capture modes, qualifiers, noexcept specifications, exception specifications, constexpr, and trailing return types in C++ lambdas

@@ -1,0 +1,100 @@
+GCC
+Clang
+Visual Studio
+Intel C++ Compiler
+MinGW
+Cygwin
+Xcode
+Code::Blocks
+Eclipse with CDT
+Qt Creator
+Microsoft Visual C++
+GNU Make
+CMake
+Ninja
+Bazel
+SCons
+Autoconf
+Automake
+Meson
+Gradle
+Conan
+Biicode
+Meld
+Valgrind
+GDB
+LLDB
+DDD (Data Display Debugger)
+CodeLLDB
+Xcode Instruments
+Visual Studio Debugger
+MemorySanitizer
+ThreadSanitizer
+UndefinedBehaviorSanitizer
+AddressSanitizer
+Clang Static Analyzer
+Google Test
+Boost.Test
+CppUnit
+Catch2
+gmock
+Cppcheck
+Clang-Tidy
+PVS-Studio
+Intel Inspector
+Lint
+cppcheck-htmlreport
+CppDepend
+Doctest
+JUnit
+lcov
+gcov
+Bullseye Coverage
+CDash
+Jenkins
+Travis CI
+CircleCI
+AppVeyor
+GitLab CI/CD
+SonarQube
+Coverity
+Codacy
+Codecov
+SourceTrail
+CppDepend
+Understand
+Doxygen
+ROBOTC
+SlickEdit
+Embarcadero C++Builder
+CppCon
+ACCU Conference
+Boost
+Eigen
+Qt
+OpenCV
+CGAL
+TBB (Intel Threading Building Blocks)
+Poco
+CppCMS
+Shark
+Pistache
+CPPrestSDK
+Crow
+Wt (Web Toolkit)
+Restbed
+cpp_redis
+Redis-plus-plus
+SQLiteCpp
+SOCI
+ODB
+Simple DirectMedia Layer (SDL)
+SFML (Simple and Fast Multimedia Library)
+Allegro
+OpenAL
+Irrlicht
+Ogre3D
+GLFW
+Qt Quick
+wxWidgets
+Apache Thrift

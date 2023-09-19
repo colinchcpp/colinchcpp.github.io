@@ -1,0 +1,100 @@
+Use try-catch blocks to handle exceptions in C++ code.
+Use structured exception handling using the try-catch-finally construct.
+Catch specific exceptions rather than using a general catch-all block.
+Use exception objects to provide more meaningful error information.
+Avoid throwing exceptions unnecessarily.
+Use custom exception classes for specialized error handling.
+Minimize the use of exceptions for control flow.
+Handle exceptions at the appropriate level of the call stack.
+Use RAII (Resource Acquisition Is Initialization) to ensure proper cleanup in the presence of exceptions.
+Log exceptions to aid in troubleshooting and debugging.
+Use exception specifications to document the types of exceptions that a function can throw.
+Use standard library exceptions whenever possible to improve code interoperability.
+Gracefully handle exceptions that propagate beyond the main function.
+Consider using a centralized exception handling mechanism for global error handling.
+Define error codes and use error handling mechanisms other than exceptions for certain scenarios.
+Ensure proper memory management when using exceptions.
+Use noexcept specifier to indicate that a function does not throw exceptions.
+Catch exceptions by reference to avoid unnecessary copy construction.
+Separate error handling logic from normal program flow for better code organization.
+Provide appropriate error messages to aid in diagnostics and problem resolution.
+Use assertions to validate assumptions and catch programming errors early.
+Utilize error handling frameworks and libraries for a more robust approach.
+Avoid using exceptions as a replacement for regular program logic.
+Use exception-safe coding techniques to prevent resource leaks.
+Leverage object lifetimes to simplify error handling and cleanup operations.
+Avoid ignoring or swallowing exceptions without proper handling.
+Handle exceptions consistently across different components and modules of the program.
+Consider using error codes or return values instead of exceptions in performance-critical sections.
+Use exception handlers to gracefully terminate program execution when necessary.
+Document error handling strategies and procedures in code comments or project documentation.
+Test error handling code to ensure it functions as expected in various scenarios.
+Use exception chaining to preserve the original exception while providing additional context.
+Employ defensive programming techniques to minimize the likelihood of exceptions.
+Avoid relying solely on exceptions for input validation and error checking.
+Address exceptions early in the software development lifecycle to avoid cascading issues.
+Use exception-safe algorithms and data structures to minimize potential errors.
+Handle exceptions outside of hot code paths to improve performance.
+Design error handling mechanisms to be usable by other developers in a team or project.
+Consider localized error handling for multi-threaded or concurrent code.
+Utilize error recovery mechanisms to restore program state after an exception.
+Make error handling code as simple and concise as possible to enhance readability.
+Use error handling strategies appropriate for the specific problem domain.
+Consider using the Null Object Pattern to handle null or empty values without exceptions.
+Use exception-safe streams and file operations to prevent data loss or corruption.
+Provide alternative workflows or fallback options when encountering exceptions.
+Handle exceptions thrown by third-party libraries or components used in your code.
+Understand the performance implications of exceptions and design accordingly.
+Consider using error codes or return values for predictable and expected errors instead of exceptions.
+Implement retry mechanisms to handle transient exceptions in distributed systems.
+Follow consistent naming conventions for error handling functions and variables.
+Employ defensive error handling to mitigate the impact of unpredictable or unrecoverable errors.
+Use exception handling as part of a larger fault tolerance strategy.
+Document and communicate error handling policies and practices within a development team.
+Utilize static analysis tools to identify potential error handling issues.
+Employ unit testing to verify the correctness of error handling logic.
+Use proper scoping and granularity in exception handling to avoid unintended consequences.
+Monitor and analyze error logs to identify common or recurring exceptions.
+Provide users with clear and concise error messages to assist in problem resolution.
+Implement error recovery mechanisms for critical system components or operations.
+Handle errors related to memory allocation and deallocation properly.
+Consider using error propagation techniques to delegate error handling to higher-level components.
+Handle errors caused by resource limitations or external dependencies gracefully.
+Consider using error state objects to encapsulate error information and recovery steps.
+Design error handling mechanisms to be extensible and customizable.
+Use error handling frameworks or libraries that align with industry best practices.
+Implement appropriate fallback or alternative behaviors when an exception occurs.
+Employ error handling practices that ensure data integrity and consistency.
+Handle exceptions in multi-threaded or parallel code to prevent thread termination.
+Provide users with appropriate options for reporting and recovering from errors.
+Leverage exception-safe code patterns and idioms to improve code quality.
+Consider using a centralized error handling module to consolidate error reporting and recovery.
+Implement safety checks and validation to prevent exceptions caused by invalid inputs.
+Use exception-safe containers and data structures to prevent memory leaks or corruption.
+Handle exceptions originating from asynchronous or event-driven programming models.
+Follow system-specific error handling conventions and recommendations.
+Monitor and log performance metrics related to error handling code to identify bottlenecks.
+Implement retry and backoff strategies to handle transient network or communication exceptions.
+Use exception handling to enforce security policies and protect against vulnerabilities.
+Employ defensive programming techniques to handle unexpected or unknown errors.
+Consider using error handling patterns such as the Null Object or the State pattern.
+Design error handling mechanisms to accommodate future expansion or changes in requirements.
+Implement appropriate error handling mechanisms for real-time or safety-critical systems.
+Handle exceptions thrown during initialization or setup procedures.
+Use error handling techniques that allow for easy integration with logging and monitoring systems.
+Perform regular code reviews and inspections to identify error handling issues early.
+Use exception hierarchies to categorize and handle different types of errors.
+Employ exception handling practices that conform to industry or organizational coding standards.
+Handle exceptions caused by external dependencies or service failures.
+Use error handling frameworks or libraries that provide standardized error reporting and recovery mechanisms.
+Consider using error handling patterns such as the Circuit Breaker or the Retry pattern.
+Employ error handling mechanisms that are compatible with debugging and testing tools.
+Develop a comprehensive error handling strategy as part of the overall software architecture.
+Handle operating system or runtime level exceptions gracefully.
+Use error handling techniques that facilitate error diagnostics and troubleshooting.
+Consider using error handling patterns such as the Exception Barrier or the Handled Exception pattern.
+Implement error handling mechanisms that allow for integration with exception logging or monitoring systems.
+Handle exceptions thrown by system or library APIs in a consistent manner.
+Use exception-safe input/output operations to prevent data corruption or loss.
+Employ error handling mechanisms that provide appropriate feedback to end-users.
+Regularly review and update error handling practices to address new technologies or evolving requirements in the software ecosystem.

@@ -1,0 +1,100 @@
+Introduction to C++ file handling
+Creating and opening a file in C++
+Closing a file in C++
+Writing data to a file in C++
+Reading data from a file in C++
+Appending data to a file in C++
+Checking if a file exists in C++
+Renaming a file in C++
+Removing (deleting) a file in C++
+Seeking in a file in C++
+Error handling in C++ file handling
+Binary file handling in C++
+Text file handling in C++
+Writing objects to a file in C++
+Reading objects from a file in C++
+Copying a file in C++
+Moving a file in C++
+Getting the file size in C++
+Checking end-of-file (EOF) in C++
+File positioning in C++
+Random access file handling in C++
+Writing binary data to a file in C++
+Reading binary data from a file in C++
+Error checking in file handling in C++
+Handling file permissions in C++
+Writing strings to a file in C++
+Reading strings from a file in C++
+Appending strings to a file in C++
+Calculating the number of lines in a file in C++
+Counting the number of words in a file in C++
+Counting the number of characters in a file in C++
+Reading and writing integers to a file in C++
+Reading and writing floating-point numbers to a file in C++
+Counting the frequency of a word in a file in C++
+Encrypting and decrypting a file in C++
+Compressing and decompressing a file in C++
+Creating and managing directories in C++
+Writing and reading CSV files in C++
+Writing and reading JSON files in C++
+Creating and reading XML files in C++
+Serializing and deserializing objects in C++
+Handling large files in C++
+File compression techniques in C++
+File encryption algorithms in C++
+File hashing in C++
+File synchronization in C++
+File locking in C++
+File permissions and access rights in C++
+File backup and restore in C++
+Directory traversal in C++
+Listing files in a directory in C++
+Recursive directory traversal in C++
+Creating temporary files in C++
+Memory-mapped file handling in C++
+File I/O manipulation in C++
+File system manipulation in C++
+File I/O performance optimization in C++
+File archiving techniques in C++
+File versioning and revision control in C++
+Database file handling in C++
+Network file handling in C++
+File transfer protocols in C++
+Remote file access in C++
+File synchronization across network in C++
+Distributed file systems in C++
+File sharing in C++
+File replication in C++
+File compression in C++
+File streaming in C++
+File locking mechanisms in C++
+File descriptors in C++
+File event handling in C++
+File manipulation using system calls in C++
+Temporary files handling in C++
+File backup strategies in C++
+File recovery techniques in C++
+File system integrity checks in C++
+File fragmentation analysis in C++
+File parsing and extraction in C++
+File format conversion in C++
+File comparison algorithms in C++
+File searching and indexing in C++
+File compression benchmarks in C++
+File encryption benchmarks in C++
+File I/O error handling techniques in C++
+File access performance analysis in C++
+File system security mechanisms in C++
+File access control lists in C++
+File system quotas in C++
+File system journaling in C++
+File system recovery in C++
+File locking implementation in C++
+File allocation techniques in C++
+File system metadata handling in C++
+File modification timestamps in C++
+File system monitoring in C++
+File change detection in C++
+File system virtualization in C++
+File browsing and navigation in C++
+File system user interfaces in C++

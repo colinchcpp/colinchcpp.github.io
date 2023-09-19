@@ -1,0 +1,100 @@
+Demangling in C++
+C++ symbol mangling
+Name mangling in C++ compilation
+How C++ names are mangled
+C++ function name mangling
+C++ member function mangling
+C++ mangling rules
+C++ mangling schemes
+Mangling in C++ ABI
+C++ name mangling conventions
+Mangling in C++ templates
+Mangled names in C++
+C++ mangling string encoding
+Name mangling for global variables in C++
+C++ class name mangling
+C++ namespace mangling
+C++ mangling for overload resolution
+C++ mangling for function overloading
+C++ mangling for template specialization
+C++ mangling for special member functions
+C++ mangling for virtual functions
+C++ mangling for inline functions
+C++ mangling for static member functions
+C++ mangling for lambda functions
+C++ mangling for overloaded operators
+C++ mangling for member variables
+C++ mangling for const member functions
+C++ mangling for volatile member functions
+C++ mangling for non-static member functions
+C++ mangling for friend functions
+C++ mangling for function pointer types
+C++ mangling for function references
+C++ mangling for function templates
+C++ mangling for member function templates
+C++ mangling for constructor functions
+C++ mangling for destructor functions
+C++ mangling for conversion operators
+C++ mangling for type aliases
+C++ mangling for type templates
+C++ mangling for anonymous namespaces
+C++ mangling for variadic functions
+C++ mangling for decltype types
+C++ mangling for enum types
+C++ mangling for function attributes
+C++ mangling for inline namespaces
+C++ mangling for SFINAE expressions
+C++ mangling for unions
+C++ mangling for declared exceptions
+C++ mangling for explicit template specialization
+C++ mangling for constexpr functions
+C++ mangling for noexcept specifications
+C++ mangling for auto return types
+C++ mangling for default arguments
+C++ mangling for trailing return types
+C++ mangling for inline function definitions
+C++ mangling for user-defined literals
+C++ mangling for lambda captures
+C++ mangling for function-local static variables
+C++ mangling for volatile functions
+C++ mangling for noexcept functions
+C++ mangling for overloaded function pointers
+C++ mangling for overridden functions
+C++ mangling for private member functions
+C++ mangling for protected member functions
+C++ mangling for abstract base classes
+C++ mangling for function declaration order
+C++ mangling for variadic templates
+C++ mangling for function bodies
+C++ mangling for function return types
+C++ mangling for function parameters
+C++ mangling for function local variables
+C++ mangling for function arguments
+C++ mangling for constant expressions
+C++ mangling for array types
+C++ mangling for struct types
+C++ mangling for class types
+C++ mangling for union types
+C++ mangling for pointer types
+C++ mangling for reference types
+C++ mangling for enumeration types
+C++ mangling for function template arguments
+C++ mangling for template type parameters
+C++ mangling for template non-type parameters
+C++ mangling for template template parameters
+C++ mangling for variadic template arguments
+C++ mangling for variadic template parameters
+C++ mangling for specialized template arguments
+C++ mangling for specialized template parameters
+C++ mangling for default template arguments
+C++ mangling for defaulted template arguments
+C++ mangling for non-type template arguments
+C++ mangling for lambda template arguments
+C++ mangling for lambda template parameter packs
+C++ mangling for nested template types
+C++ mangling for nested template functions
+C++ mangling for nested template templates
+C++ mangling for nested template non-type parameters
+C++ mangling for specialization of template templates
+C++ mangling for partial specialization of template templates
+C++ mangling for explicit instantiation of templates

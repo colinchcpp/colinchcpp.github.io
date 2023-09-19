@@ -1,0 +1,100 @@
+Introduction to custom deleters in C++
+Benefits of using custom deleters for smart pointers
+Overview of smart pointers in C++
+How to define a custom deleter for a smart pointer in C++
+Using lambda functions as custom deleters in C++
+Writing a custom deleter class for a smart pointer in C++
+Difference between default deleters and custom deleters in smart pointers
+Custom deleters for unique_ptr in C++
+Custom deleters for shared_ptr in C++
+Custom deleters for weak_ptr in C++
+Memory management with custom deleters for smart pointers
+Implementing custom deleters using function pointers for smart pointers
+Custom deleters for smart pointers in multi-threaded applications
+Using custom deleters to implement resource management in C++
+Common use cases for custom deleters in C++ smart pointers
+Handling dynamically allocated arrays with custom deleters in smart pointers
+Customizing memory deallocation with custom deleters for smart pointers
+Best practices for using custom deleters with smart pointers in C++
+Ensuring exception-safety with custom deleters for smart pointers
+Managing file streams with custom deleters in smart pointers
+Custom deleters for smart pointers in embedded systems programming
+Dealing with leaked resources using custom deleters in smart pointers
+Creating custom deleters for custom memory allocators in C++
+Using custom deleters for managing database connections in C++
+Implementing custom deleters for custom data structures in C++
+Extending the functionality of smart pointers with custom deleters
+Custom deleters for smart pointers in real-time systems programming
+Custom deleters for smart pointers in game development
+Implementing custom deleters for network socket management in C++
+Using custom deleters to clean up resources in GUI programming with smart pointers
+Custom deleters for smart pointers in device driver development
+Best practices for error handling with custom deleters in smart pointers
+Implementing custom deleters for exception-safe code in C++
+Using custom deleters to implement reference counting for smart pointers
+Custom deleters for managing locks and synchronization in multi-threaded programming
+Creating custom deleters to handle memory pools in C++
+Implementing custom deleters for custom data serialization in C++
+Custom deleters for smart pointers in image processing applications
+Managing resources with custom deleters in parallel programming with smart pointers
+Custom deleters for smart pointers in scientific computing applications
+Implementing custom deleters to handle transaction management in C++
+Using custom deleters to handle caching in web development with smart pointers
+Custom deleters for smart pointers in real-time graphics programming
+Implementing custom deleters for managing external libraries in C++
+Custom deleters for smart pointers in machine learning applications
+Using custom deleters to implement memory protection in C++
+Custom deleters for smart pointers in audio processing applications
+Implementing custom deleters for resource cleanup in web server programming with smart pointers
+Custom deleters for smart pointers in embedded graphics programming
+Using custom deleters to handle resource sharing in distributed systems with smart pointers
+Custom deleters for managing hardware resources in C++
+Implementing custom deleters for managing database transactions in C++
+Custom deleters for smart pointers in real-time operating systems programming
+Using custom deleters to implement garbage collection in C++
+Custom deleters for smart pointers in computer vision applications
+Implementing custom deleters for resource management in cloud computing with smart pointers
+Custom deleters for smart pointers in signal processing applications
+Using custom deleters to implement undo-redo functionality in C++
+Custom deleters for smart pointers in robotics programming
+Implementing custom deleters for managing shared memory in C++
+Custom deleters for smart pointers in natural language processing applications
+Using custom deleters to implement caching in database programming with smart pointers
+Custom deleters for smart pointers in virtual reality applications
+Implementing custom deleters for handling interrupts in C++
+Custom deleters for smart pointers in data compression applications
+Using custom deleters to implement resource pooling in C++
+Custom deleters for smart pointers in cryptography applications
+Implementing custom deleters for managing file I/O in C++
+Custom deleters for smart pointers in augmented reality applications
+Using custom deleters to implement memory profiling in C++
+Custom deleters for smart pointers in computer graphics programming
+Implementing custom deleters for managing network connections in C++
+Custom deleters for smart pointers in numerical computing applications
+Using custom deleters to implement memory tracking in C++
+Custom deleters for smart pointers in fault-tolerant systems programming
+Implementing custom deleters for managing thread pools in C++
+Custom deleters for smart pointers in computer-aided design applications
+Using custom deleters to implement stack trace logging in C++
+Custom deleters for smart pointers in bioinformatics applications
+Implementing custom deleters for managing distributed transactions in C++
+Custom deleters for smart pointers in quantum computing applications
+Using custom deleters to implement memory optimizations in C++
+Custom deleters for smart pointers in finance and trading applications
+Implementing custom deleters for managing process pools in C++
+Custom deleters for smart pointers in data mining applications
+Using custom deleters to implement memory leak detection in C++
+Custom deleters for smart pointers in computer simulation applications
+Implementing custom deleters for managing resource contention in C++
+Custom deleters for smart pointers in industrial automation applications
+Using custom deleters to implement memory profiling tools in C++
+Custom deleters for smart pointers in geospatial applications
+Implementing custom deleters for managing shared caches in C++
+Custom deleters for smart pointers in compiler development
+Using custom deleters to implement performance optimizations in C++
+Custom deleters for smart pointers in embedded firmware programming
+Implementing custom deleters for managing connection pools in C++
+Custom deleters for smart pointers in natural resource management applications
+Using custom deleters to implement memory replay debugging in C++
+Custom deleters for smart pointers in automotive systems programming
+Implementing custom deleters for managing task queues in C++

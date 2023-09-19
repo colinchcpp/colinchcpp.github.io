@@ -1,0 +1,100 @@
+Introduction to C++17 parallel algorithms
+Benefits of using parallel algorithms in C++17
+Multithreading in C++17 parallel algorithms
+How to enable parallel execution in C++17
+Overview of the C++17 parallel algorithms library
+Parallel versions of common algorithms in C++17
+Examples of using parallel algorithms in C++17
+Performance considerations when using C++17 parallel algorithms
+Parallel versions of sorting algorithms in C++17
+Parallel versions of searching algorithms in C++17
+Parallel versions of merging algorithms in C++17
+Parallel versions of partitioning algorithms in C++17
+Parallel versions of transform algorithms in C++17
+Parallel versions of counting algorithms in C++17
+Parallel versions of generating algorithms in C++17
+Parallel versions of min/max algorithms in C++17
+Parallel versions of numeric algorithms in C++17
+Parallel versions of set algorithms in C++17
+Parallel versions of heap algorithms in C++17
+Parallel versions of relational algorithms in C++17
+Parallel versions of logical algorithms in C++17
+Parallel versions of bitwise algorithms in C++17
+Parallel versions of permutation algorithms in C++17
+How to handle exceptions in C++17 parallel algorithms
+How to use futures and promises with C++17 parallel algorithms
+How to use atomic operations with C++17 parallel algorithms
+How to synchronize threads in C++17 parallel algorithms
+How to control the degree of parallelism in C++17
+How to use parallel algorithms with custom data structures in C++17
+How to handle data dependencies in C++17 parallel algorithms
+How to handle race conditions in C++17 parallel algorithms
+How to choose between sequential and parallel algorithms in C++17
+How to optimize performance of C++17 parallel algorithms
+How to measure the speedup achieved with C++17 parallel algorithms
+How to debug issues with C++17 parallel algorithms
+How to troubleshoot performance problems with C++17 parallel algorithms
+How to deal with load balancing in C++17 parallel algorithms
+How to manage thread creation and destruction in C++17 parallel algorithms
+Potential pitfalls to watch out for when using C++17 parallel algorithms
+Common mistakes to avoid when using C++17 parallel algorithms
+How to handle synchronization and data sharing in C++17 parallel algorithms
+How to align memory for optimal performance in C++17 parallel algorithms
+How to use manual parallelization techniques in C++17
+How to implement custom parallel algorithms in C++17
+How to handle cancellation in C++17 parallel algorithms
+How to deal with oversubscription in C++17 parallel algorithms
+How to use task-based parallelism with C++17
+How to use data parallelism with C++17
+How to use loop parallelism with C++17
+How to use parallel reduction with C++17
+How to use parallel scan with C++17
+How to use parallel sort with C++17
+How to use parallel searching with C++17
+How to use parallel partitioning with C++17
+How to use parallel transform with C++17
+How to use parallel counting with C++17
+How to use parallel generating with C++17
+How to use parallel min/max with C++17
+How to use parallel numeric algorithms with C++17
+How to use parallel set algorithms with C++17
+How to use parallel heap algorithms with C++17
+How to use parallel relational algorithms with C++17
+How to use parallel logical algorithms with C++17
+How to use parallel bitwise algorithms with C++17
+How to use parallel permutation algorithms with C++17
+How to use parallel merge sort with C++17
+How to use parallel quicksort with C++17
+How to use parallel bubble sort with C++17
+How to use parallel insertion sort with C++17
+How to use parallel selection sort with C++17
+How to use parallel radix sort with C++17
+How to use parallel bucket sort with C++17
+How to use parallel counting sort with C++17
+How to use parallel binary search with C++17
+How to use parallel linear search with C++17
+How to use parallel interpolation search with C++17
+How to use parallel hash search with C++17
+How to use parallel binary tree search with C++17
+How to use parallel merge with C++17
+How to use parallel in-place merge with C++17
+How to use parallel stable sort with C++17
+How to use parallel partial sort with C++17
+How to use parallel nth element with C++17
+How to use parallel partition with C++17
+How to use parallel stable partition with C++17
+How to use parallel transform reduce with C++17
+How to use parallel inclusive scan with C++17
+How to use parallel exclusive scan with C++17
+How to use parallel transform scan with C++17
+How to use parallel partial sum with C++17
+How to use parallel accumulate with C++17
+How to use parallel inner product with C++17
+How to use parallel adjacent difference with C++17
+How to use parallel exclusive scan with C++17
+How to use parallel partial sum with C++17
+How to use parallel adjacent find with C++17
+How to use parallel equal range with C++17
+How to use parallel includes with C++17
+How to use parallel set union with C++17
+How to use parallel inplace merge with C++17

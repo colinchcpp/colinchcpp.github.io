@@ -1,0 +1,100 @@
+Introduction to C++ dependency managers
+Overview of Conan
+Key features of Conan
+Step-by-step guide to setting up Conan
+Pros and cons of using Conan
+Conan vs other C++ package managers
+Conan vs vcpkg - a comparison
+Overview of vcpkg
+Key features of vcpkg
+Step-by-step guide to setting up vcpkg
+Pros and cons of using vcpkg
+vcpkg vs other C++ package managers
+vcpkg vs Conan - a comparison
+How to install packages with Conan
+How to install packages with vcpkg
+How to manage dependencies with Conan
+How to manage dependencies with vcpkg
+Solving dependency conflicts with Conan
+Solving dependency conflicts with vcpkg
+Creating and sharing packages with Conan
+Creating and sharing packages with vcpkg
+Understanding package manifests in Conan
+Understanding package manifests in vcpkg
+How Conan and vcpkg handle binary packages
+Integrating Conan with CMake
+Integrating vcpkg with CMake
+Conan profiles - managing build configurations
+vcpkg triplets - managing build configurations
+Creating custom Conan recipes
+Creating custom vcpkg portfiles
+Building projects with Conan
+Building projects with vcpkg
+C++ package caching in Conan
+C++ package caching in vcpkg
+Configuring remote repositories with Conan
+Configuring remote repositories with vcpkg
+Versioning packages with Conan
+Versioning packages with vcpkg
+Conan's package graph visualization
+vcpkg's dependency graph visualization
+Debugging and troubleshooting in Conan
+Debugging and troubleshooting in vcpkg
+Handling package updates with Conan
+Handling package updates with vcpkg
+Tips and best practices for using Conan
+Tips and best practices for using vcpkg
+Managing platform-specific dependencies with Conan
+Managing platform-specific dependencies with vcpkg
+Integrating Conan with Continuous Integration
+Integrating vcpkg with Continuous Integration
+Using Conan in multi-module projects
+Using vcpkg in multi-module projects
+Conan virtual environments for isolated builds
+vcpkg workspaces for isolated builds
+Advanced configuration options in Conan
+Advanced configuration options in vcpkg
+Conan package development workflow
+vcpkg package development workflow
+Securing packages and dependencies with Conan
+Securing packages and dependencies with vcpkg
+Overview of Biicode - another C++ package manager
+Key features of Biicode
+Step-by-step guide to setting up Biicode
+Pros and cons of using Biicode
+Biicode vs Conan vs vcpkg - a comparison
+How to migrate from Biicode to Conan
+How to migrate from Biicode to vcpkg
+Overview of Hunter - another C++ package manager
+Key features of Hunter
+Step-by-step guide to setting up Hunter
+Pros and cons of using Hunter
+Hunter vs Conan vs vcpkg - a comparison
+Insights into C++ package management trends
+Challenges and future prospects of dependency management in C++
+How to contribute to Conan
+How to contribute to vcpkg
+How to contribute to Biicode
+How to contribute to Hunter
+Overview of other C++ package managers (Buckaroo, spm, etc.)
+Choosing the right C++ dependency manager for your project
+Using multiple C++ package managers together
+Common issues and solutions in C++ dependency management
+Exploring community support and resources for Conan
+Exploring community support and resources for vcpkg
+Exploring community support and resources for Biicode
+Exploring community support and resources for Hunter
+Case studies of successful C++ dependency management in real-world projects
+Practical tips for optimizing C++ dependency management
+Managing licenses and legal compliance in C++ dependencies with Conan
+Managing licenses and legal compliance in C++ dependencies with vcpkg
+Benchmarking performance of C++ dependency managers
+Integrating Conan and vcpkg for hybrid package management
+Using C++ dependency managers in cross-platform development
+Exploring alternatives to traditional C++ dependency managers
+Managing C++ dependencies in embedded systems with Conan
+Managing C++ dependencies in game development with vcpkg
+How C++ dependency managers impact build times and compilation efficiency
+Sharing and discovering community-created packages in Conan
+Sharing and discovering community-created packages in vcpkg
+The future of C++ dependency managers - emerging trends and technologies.

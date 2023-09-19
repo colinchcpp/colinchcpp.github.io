@@ -1,0 +1,100 @@
+Introduction to C++ Sets
+Basic operations on C++ Sets
+Difference between C++ Sets and other containers
+Creating and initializing a C++ Set
+Adding elements to a C++ Set
+Removing elements from a C++ Set
+Checking the size of a C++ Set
+Finding elements in a C++ Set
+Iterating over elements in a C++ Set
+Clearing a C++ Set
+Checking if a C++ Set is empty
+Converting a C++ Set to other containers
+Union of two C++ Sets
+Intersection of two C++ Sets
+Difference of two C++ Sets
+Checking if two C++ Sets are equal
+Finding the maximum element in a C++ Set
+Finding the minimum element in a C++ Set
+Finding the range of elements in a C++ Set
+Inserting elements into a C++ Set at a specific position
+Erasing elements from a C++ Set at a specific position
+Counting the occurrences of an element in a C++ Set
+Removing duplicate elements from a C++ Set
+Sorting elements in a C++ Set
+Reversing elements in a C++ Set
+Finding the smallest and largest element in a C++ Set
+Performing mathematical operations on elements in a C++ Set
+Finding the sum of all elements in a C++ Set
+Finding the average of elements in a C++ Set
+Removing elements divisible by a certain number from a C++ Set
+Finding the median of elements in a C++ Set
+Checking if elements in a C++ Set satisfy a certain condition
+Converting elements in a C++ Set to lowercase
+Converting elements in a C++ Set to uppercase
+Finding the number of elements between two values in a C++ Set
+Checking if all elements in a C++ Set are unique
+Finding the number of unique elements in a C++ Set
+Counting the number of elements greater than a specified value in a C++ Set
+Counting the number of elements smaller than a specified value in a C++ Set
+Checking if a C++ Set contains a specific pattern of elements
+Finding the difference between two C++ Sets based on a specific criterion
+Converting a C++ Set to a vector
+Converting a C++ Set to an array
+Converting a C++ Set to a string
+Finding the common elements in multiple C++ Sets
+Merging multiple C++ Sets into one
+Removing elements from multiple C++ Sets based on a specific criterion
+Inserting elements into multiple C++ Sets in a specific order
+Finding the number of elements that occur at least n times in a C++ Set
+Splitting a C++ Set into multiple smaller Sets
+Finding the difference between the union and intersection of two C++ Sets
+Finding the difference between the union and difference of two C++ Sets
+Finding the difference between the intersection and difference of two C++ Sets
+Finding the symmetric difference between two C++ Sets
+Finding the subset of a C++ Set based on a specific condition
+Checking if a C++ Set is a proper subset of another Set
+Checking if a C++ Set is a superset of another Set
+Finding the power set of a C++ Set
+Combining elements from two C++ Sets to create a new Set
+Checking if two C++ Sets have any common elements
+Finding the largest common subset of multiple C++ Sets
+Finding the smallest common superset of multiple C++ Sets
+Counting the number of distinct elements in a C++ Set
+Checking if a C++ Set is a perfect square Set
+Checking if a C++ Set forms a geometric progression
+Checking if a C++ Set forms an arithmetic progression
+Finding the element with the highest frequency in a C++ Set
+Finding the element with the lowest frequency in a C++ Set
+Counting the number of elements that occur exactly once in a C++ Set
+Counting the number of elements that occur exactly twice in a C++ Set
+Counting the number of elements that occur more than twice in a C++ Set
+Counting the number of elements that occur less than twice in a C++ Set
+Counting the number of elements that occur an odd number of times in a C++ Set
+Counting the number of elements that occur an even number of times in a C++ Set
+Finding the element that occurs the most in a C++ Set
+Finding the element that occurs the least in a C++ Set
+Finding all subsets of a C++ Set with a specific sum
+Counting the number of subsets of a C++ Set with a specific sum
+Checking if a C++ Set contains a subsequence of another Set
+Removing elements from a C++ Set that appear in another Set
+Counting the number of elements between the smallest and largest elements in a C++ Set
+Checking if a C++ Set is a permutation of another Set
+Finding the number of elements that are multiple of all elements in a C++ Set
+Finding the maximum product of elements in a C++ Set
+Finding the minimum product of elements in a C++ Set
+Finding the product of elements in a C++ Set
+Finding the sum of squares of elements in a C++ Set
+Checking if a C++ Set is a subarray of another array
+Finding the number of elements that are factors of all elements in a C++ Set
+Checking if a C++ Set is a superarray of another array
+Checking if a C++ Set is a proper subarray of another array
+Counting the number of elements that are prime numbers in a C++ Set
+Finding subsets of a C++ Set with a specific product
+Checking if a C++ Set forms a palindrome sequence
+Finding the number of elements that are perfect squares in a C++ Set
+Finding the number of elements that are perfect cubes in a C++ Set
+Finding the number of elements that are prime factors of a given number in a C++ Set
+Checking if a C++ Set forms a Fibonacci sequence
+Counting the number of subsets of a C++ Set that have equal sums
+Checking if a C++ Set forms a geometric sequence

@@ -1,0 +1,100 @@
+Introduction to C++ casts
+Understanding casting in C++
+What is `static_cast` in C++?
+How does `static_cast` work in C++?
+Examples of using `static_cast` in C++
+Limitations of `static_cast` in C++
+What is `dynamic_cast` in C++?
+How does `dynamic_cast` work in C++?
+Examples of using `dynamic_cast` in C++
+Limitations of `dynamic_cast` in C++
+What is `const_cast` in C++?
+How does `const_cast` work in C++?
+Examples of using `const_cast` in C++
+Limitations of `const_cast` in C++
+What is `reinterpret_cast` in C++?
+How does `reinterpret_cast` work in C++?
+Examples of using `reinterpret_cast` in C++
+Limitations of `reinterpret_cast` in C++
+Comparison of different C++ casts
+Best practices for using C++ casts
+Implicit casting in C++
+Explicit casting in C++
+Advantages of using C++ casts
+Type safety in C++ casts
+When to use `static_cast` in C++
+When to use `dynamic_cast` in C++
+When to use `const_cast` in C++
+When to use `reinterpret_cast` in C++
+Casting pointers in C++
+Implicit object type conversion in C++
+Explicit object type conversion in C++
+Casting between related classes in C++
+Casting between unrelated classes in C++
+Casting between built-in types in C++
+Casting to const in C++
+Casting to volatile in C++
+Casting away constness in C++
+Casting away volatility in C++
+Casting to a different pointer type in C++
+Casting to void pointer in C++
+Casting from void pointer in C++
+Casting to function pointer in C++
+Casting from function pointer in C++
+Casting to member function pointer in C++
+Casting from member function pointer in C++
+Casting to array type in C++
+Casting from array type in C++
+Casting to reference type in C++
+Casting to lvalue reference in C++
+Casting to rvalue reference in C++
+Casting from reference type in C++
+Casting from lvalue reference in C++
+Casting from rvalue reference in C++
+Casting to const reference in C++
+Casting to volatile reference in C++
+Casting away constness from reference in C++
+Casting away volatility from reference in C++
+Casting to const volatile reference in C++
+Casting away const volatility from reference in C++
+Casting to smart pointer type in C++
+Casting from smart pointer type in C++
+Casting to shared_ptr in C++
+Casting to unique_ptr in C++
+Casting to weak_ptr in C++
+Casting from shared_ptr in C++
+Casting from unique_ptr in C++
+Casting from weak_ptr in C++
+Casting to array reference in C++
+Casting from array reference in C++
+Casting to member reference in C++
+Casting from member reference in C++
+Casting to function reference in C++
+Casting from function reference in C++
+Casting to const function reference in C++
+Casting to volatile function reference in C++
+Casting away constness from function reference in C++
+Casting away volatility from function reference in C++
+Casting to const volatile function reference in C++
+Casting away const volatility from function reference in C++
+Casting to array function reference in C++
+Casting from array function reference in C++
+Limitations of casting in C++
+Common mistakes to avoid when using C++ casts
+Type safety vs. performance in C++ casts
+Casting and object slicing in C++
+Casting base class to derived class in C++
+Casting derived class to base class in C++
+Casting pointers to member in C++
+Casting from nullptr in C++
+Casting between different enum types in C++
+Casting between enums and numerical types in C++
+Casting between character types in C++
+Casting between integer types in C++
+Casting between floating-point types in C++
+Casting between boolean types in C++
+Casting between pointer and integer types in C++
+Casting between pointer and enum types in C++
+Casting between pointer and function types in C++
+Casting between pointer and member pointer types in C++
+Casting between pointer and smart pointer types in C++

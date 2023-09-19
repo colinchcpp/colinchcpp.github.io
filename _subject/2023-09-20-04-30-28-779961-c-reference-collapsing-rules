@@ -1,0 +1,100 @@
+Introduction to C++ reference collapsing rules
+What are reference collapsing rules in C++?
+Explanation of C++ rvalue references
+Understanding C++ lvalue references
+Basic syntax for reference collapsing in C++
+Example of reference collapsing in C++
+Implications of reference collapsing in C++
+Common errors and pitfalls with reference collapsing in C++
+Benefits of reference collapsing in C++
+Situations where reference collapsing is useful in C++
+Reference collapsing in function templates
+Reference collapsing with const and volatile qualifiers
+How reference collapsing affects function overloading
+Reference collapsing with templates and type deduction
+Differences between reference collapsing and type deduction in C++
+Techniques for handling reference collapsing in C++ code
+Reference collapsing in lambda functions
+Reference collapsing with move semantics
+Reference collapsing and perfect forwarding in C++
+Reference collapsing in constructor and destructor calls
+Reference collapsing in object initialization
+Implementing reference collapsing in user-defined types
+Reference collapsing and template specialization
+Reference collapsing and template metaprogramming
+Reference collapsing in return type deduction
+Reference collapsing and const-correctness in C++
+Reference collapsing in member function declarations
+Reference collapsing with type aliases and typedefs
+Reference collapsing and function pointers in C++
+Reference collapsing in smart pointers
+Reference collapsing with multiple inheritance
+Reference collapsing and the const ref qualifier
+Reference collapsing and the universal reference syntax
+Reference collapsing and type traits in C++
+Reference collapsing in non-template functions
+Reference collapsing and std::forward in C++
+Differences between reference collapsing and reference wrangling
+Reference collapsing and function argument binding
+Reference collapsing and copy elision in C++
+Reference collapsing and the auto keyword in C++
+Reference collapsing in class and struct definitions
+Reference collapsing and type erasure in C++
+Reference collapsing with variadic templates
+Reference collapsing and noexcept specifier in C++
+Reference collapsing and template deduction guides
+Reference collapsing and the new C++20 concepts
+Reference collapsing and SFINAE (Substitution Failure Is Not An Error)
+Reference collapsing and operator overloading in C++
+Reference collapsing in C++ standard library algorithms
+Reference collapsing and enabling/disabling overload sets
+Reference collapsing and implicit conversions in C++
+Reference collapsing and explicit type conversion operators
+Reference collapsing with constexpr and template evaluation
+Reference collapsing and member function references in C++
+Reference collapsing with function objects and functors
+Reference collapsing and type traits in standard library
+Reference collapsing and move-only types in C++
+Reference collapsing and non-template member functions
+Reference collapsing and ref-qualifiers in C++
+Reference collapsing and perfect forwarding in class templates
+Reference collapsing and the sizeof operator in C++
+Reference collapsing and template argument deduction
+Reference collapsing and specialization of function templates
+Reference collapsing with pointers and arrays
+Reference collapsing and function-like objects in C++
+Reference collapsing and qualified name lookup in C++
+Reference collapsing in noexcept-specifiers
+Reference collapsing and non-type template parameters
+Reference collapsing and function-like template parameters
+Reference collapsing and binary literals in C++
+Reference collapsing in user-defined literals
+Reference collapsing and template instantiation errors
+Reference collapsing and template non-type arguments
+Reference collapsing with variadic function templates
+Reference collapsing and anonymous namespaces in C++
+Reference collapsing and trailing return type syntax
+Reference collapsing and uniform initialization syntax
+Reference collapsing in struct specialization
+Reference collapsing in class inheritance
+Reference collapsing and template metaprogramming techniques
+Reference collapsing with deleted and defaulted special member functions
+Reference collapsing and type-safe conversion operators
+Reference collapsing and partial template specialization
+Reference collapsing and variadic non-type template parameters
+Reference collapsing and complex type hierarchies
+Reference collapsing and the as-if rule in C++
+Reference collapsing and structured binding declaration
+Reference collapsing and fold expressions in C++17
+Reference collapsing and trailing-return-type in function templates
+Reference collapsing and type traits in type traits templates
+Reference collapsing and type deduction in lambdas
+Reference collapsing and template argument deduction guides
+Reference collapsing and type safety in template specialization
+Reference collapsing and type matching in function templates
+Reference collapsing and type deduction in non-template functions
+Reference collapsing and type inference in range-based for loops
+Reference collapsing and type trait constraints in concepts
+Reference collapsing and type deduction in user-defined literals
+Reference collapsing and type negotiation in overloaded operators
+Reference collapsing and type resolution in class templates

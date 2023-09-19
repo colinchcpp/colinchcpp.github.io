@@ -1,0 +1,100 @@
+Inline expansion optimization
+Loop unrolling optimization
+Dead code elimination optimization
+Constant folding optimization
+Common subexpression elimination optimization
+Function inlining optimization
+Control flow optimization
+Register allocation optimization
+Instruction scheduling optimization
+Loop interchange optimization
+Loop fusion optimization
+Loop distribution optimization
+Loop blocking optimization
+Loop tiling optimization
+Induction variable elimination optimization
+Strength reduction optimization
+Code motion optimization
+Loop peeling optimization
+Loop unswitching optimization
+Loop vectorization optimization
+Loop interchange optimization
+Loop fission optimization
+Loop splitting optimization
+Loop unrolling and jamming optimization
+Loop skewing optimization
+Function specialization optimization
+Tail recursion optimization
+Control dependency optimization
+Data dependency optimization
+Loop unrolling and jamming optimization
+Loop stripping optimization
+Function reordering optimization
+Loop deletion optimization
+Scalar replacement optimization
+Value range propagation optimization
+Invariant code hoisting optimization
+Loop invariant code motion optimization
+Constant propagation optimization
+Constant folding optimization
+Loop induction variable optimization
+Phi elimination optimization
+Loop linearization optimization
+Loop strength reduction optimization
+Loop pre-header optimization
+Loop trip count optimization
+Loop trip count and exit condition optimization
+Loop trip count and loop exit optimization
+Loop invariant elimination optimization
+Loop variant propagation optimization
+Loop control variable optimization
+Loop exit condition optimization
+Loop comparison optimization
+Loop induction variable elimination optimization
+Loop iterator optimization
+Loop indexing optimization
+Loop upper bound optimization
+Loop bound check elimination optimization
+Loop condition evaluation optimization
+Loop increment optimization
+Loop decrement optimization
+Loop variable optimization
+Loop tail duplication optimization
+Loop iteration optimization
+Loop scaling optimization
+Loop termination optimization
+Loop indexing optimization
+Loop iteration count optimization
+Loop induction optimization
+Loop counter optimization
+Loop trip count optimization
+Conditional loop folding optimization
+Unconditional loop folding optimization
+Loop tile size optimization
+Loop loopnests optimization
+Loop permutation optimization
+Loop blocking optimization
+Loop tiling optimization
+Indexing optimization
+Vectorization optimization
+Global variable optimization
+Function call optimization
+Function return optimization
+Function parameter optimization
+Function argument optimization
+Function result optimization
+Function stack optimization
+Function local variable optimization
+Function interprocedural optimization
+Function compiler optimizations
+Function optimization hierarchy
+Function optimization levels
+Function optimization techniques
+Function optimization strategies
+Function optimization algorithms
+Function optimization heuristics
+Function optimization patterns
+Function optimization guidelines
+Function optimization process
+Function optimization challenges
+Function optimization tools

@@ -1,0 +1,100 @@
+Indentation
+Naming conventions for variables
+Naming conventions for functions
+Naming conventions for classes
+Naming conventions for constants
+Naming conventions for namespaces
+Naming conventions for files
+Use of whitespace
+Use of comments
+Use of header guards
+Use of preprocessor directives
+Use of typedefs
+Use of enums
+Use of inline functions
+Use of const correctness
+Use of smart pointers
+Use of RAII (Resource Acquisition Is Initialization) principle
+Use of exceptions
+Use of assert statements
+Use of design patterns
+Use of templates
+Use of operator overloading
+Use of function overloading
+Use of function templates
+Use of class templates
+Use of inheritance
+Use of virtual functions
+Use of abstract classes
+Use of polymorphism
+Use of encapsulation
+Use of access modifiers
+Use of friend functions/classes
+Use of static members
+Use of const member functions
+Use of default arguments in functions
+Use of namespaces
+Ordering of function parameters
+Formatting of control structures (if/for/while)
+Formatting of switch statements
+Use of scope resolution operator
+Use of nullptr instead of NULL
+Use of the auto keyword
+Use of range-based for loops
+Use of brace initialization
+Use of default constructors
+Use of copy constructors
+Use of assignment operators
+Use of move constructors/operators
+Use of deleted/deprecated functions
+Use of exceptions in constructors
+Use of explicit keyword
+Use of override and final keywords
+Use of constexpr
+Use of lambda expressions
+Use of static cast
+Use of dynamic cast
+Use of typeid operator
+Use of pure virtual functions
+Use of abstract base classes
+Use of multiple inheritance
+Use of operator precedence parentheses
+Use of bit manipulation
+Use of bitwise operators
+Use of bitwise shifting
+Use of bitwise masking
+Use of unsigned integers for bitwise operations
+Use of volatile keyword
+Use of inline assembly
+Use of function pointers
+Use of functors
+Use of function objects
+Use of pass-by-reference instead of pass-by-value
+Use of const references in function parameters
+Use of rvalue references
+Use of move semantics
+Use of noexcept specifier
+Use of templates specialization
+Use of template metaprogramming
+Use of variadic templates
+Use of conditional compilation
+Use of compiler flags and optimization options
+Use of standard libraries
+Use of external libraries
+Use of multi-threading
+Use of parallel programming techniques
+Use of memory management techniques
+Use of debugging techniques
+Use of profiling techniques
+Use of unit testing frameworks
+Use of version control systems
+Use of automated build systems
+Use of coding standards enforcement tools
+Use of code review processes
+Use of documentation tools
+Use of error handling strategies
+Use of performance optimization techniques
+Use of memory allocation strategies
+Use of refactoring techniques
+Use of code reuse techniques
+Use of code documentation techniques

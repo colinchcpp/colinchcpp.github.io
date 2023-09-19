@@ -1,0 +1,100 @@
+Accessing an uninitialized variable in C++
+Using a null pointer in C++
+Dereferencing an invalid pointer in C++
+Reading from or writing to an array out of bounds in C++
+Division by zero in C++
+Modifying a const variable in C++
+Using a dangling pointer in C++
+Double-freeing or deleting an object in C++
+Performing an illegal type conversion in C++
+Accessing an array with an index that is greater than the size of the array in C++
+Accessing a deleted object in C++
+Use of an uninitialized reference in C++
+Using an invalid iterator in C++
+Running out of stack space in C++
+Overflowing an int or floating-point variable in C++
+Using a null termination character ('\0') in an array of characters that doesn't have enough space in C++
+Accessing a union member that wasn't the last one assigned in C++
+Using a bitwise shift on a negative number in C++
+Accessing a private member of a class in C++
+Using a non-const reference to a temporary object in C++
+Mixing signed and unsigned integers in C++
+Implementing a function without a return statement in C++
+Using the wrong format specifier in a printf or scanf function in C++
+Dereferencing an invalid iterator in C++
+Using an uninitialized function pointer in C++
+Accessing a file that doesn't exist in C++
+Using an invalid identifier name in C++
+Modifying a constant string in C++
+Using an uninitialized local static variable in C++
+Changing the size of an array using realloc without updating the corresponding pointer in C++
+Using a partial initialization of a struct or class in C++
+Performing an arithmetic operation on a void pointer in C++
+Using an uninitialized mutex or condition variable in C++
+Reading input beyond the end of file in C++
+Casting a pointer to a function type that doesn't match its definition in C++
+Using a variable before it is defined in C++
+Assigning a value to an array instead of copying its elements individually in C++
+Overwriting a memory buffer in C++
+Using a wrong number of arguments in a function call in C++
+Performing an out-of-range string subscript in C++
+Using an uninitialized shared_ptr in C++
+Mixing different calling conventions in C++
+Using a wrong comparator function in sorting algorithms in C++
+Creating a recursive function without a base case in C++
+Accessing a member variable or function of a null object pointer in C++
+Performing an undefined floating-point operation in C++
+Modifying a string literal in C++
+Using a dangling reference in C++
+Using the pre-decrement or post-decrement operator on a const variable in C++
+Modifying the size of a vector while iterating over it in C++
+Mixing different exception specifications in C++
+Using the wrong argument count for a variadic function in C++
+Performing an illegal operation on a bit field in C++
+Overwriting a virtual function in a derived class with a different signature in C++
+Using an invalid conversion specifier in a sscanf function in C++
+Calling a pure virtual function that wasn't overridden in a derived class in C++
+Using an uninitialized volatile variable in C++
+Re-throwing an exception without catching it in C++
+Assigning a value to a variable that is declared as const in C++
+Using an uninitialized array of objects in C++
+Using a mismatched argument type in a function pointer call in C++
+Modifying a global object in a multithreaded environment in C++
+Accessing an object after its lifetime has ended in C++
+Performing an illegal operation on a const_cast in C++
+Using an invalid escape sequence in a character or string literal in C++
+Calling a function that has already returned in C++
+Mixing different allocation and deallocation mechanisms in C++
+Using the wrong operator precedence in an expression in C++
+Accessing a member function or variable through a null pointer-to-member in C++
+Using an uninitialized vector iterator in C++
+Modifying an enum variable with a value outside its defined range in C++
+Using an invalid operator for a user-defined type in C++
+Accessing a memory location directly through its address without casting in C++
+Mixing different character sets in string operations in C++
+Using an uninitialized stringstream or istringstream in C++
+Dereferencing an invalid weak_ptr in C++
+Accessing a base class member through a derived class pointer in C++
+Using a wrong format specifier in a scanf function in C++
+Performing an illegal operation on a nullptr in C++
+Using an uninitialized atomic variable in C++
+Modifying a container while iterating over it in C++
+Using an implicit conversion between unrelated types in C++
+Overloading a function with a different return type but the same argument types in C++
+Accessing a member of a class through a null object pointer in C++
+Using an uninitialized unique_ptr in C++
+Modifying a constant variable in C++
+Using incorrect casting between different pointer types in C++
+Initializing a variable with an ambiguous type in C++
+Accessing a non-existent element of a std::map or std::unordered_map in C++
+Performing an illegal operation on a reinterpret_cast in C++
+Using an uninitialized optional in C++
+Modifying a constant object reference in C++
+Using an incorrect qualifier on a function pointer in C++
+Accessing a member of a moved-from object in C++
+Modifying a constant local variable in C++
+Using an invalid format specifier in a printf function in C++
+Accessing an invalid specialization of a template in C++
+Modifying a constant shared_ptr in C++
+Using an incorrect argument order in a function call in C++
+Accessing a member of a deleted object in C++

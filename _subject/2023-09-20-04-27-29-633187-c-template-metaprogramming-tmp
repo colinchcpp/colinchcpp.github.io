@@ -1,0 +1,100 @@
+Introduction to C++ template metaprogramming (TMP)
+Basics of TMP: templates and type deduction
+Type traits in TMP: std::is_same, std::is_pointer, etc.
+Template specialization in TMP: partial specialization, full specialization
+Using TMP to achieve compile-time computation
+Recursion in TMP: recursive template functions, recursive template structs
+TMP and conditional compilation: using std::conditional, #ifdef, etc.
+Using TMP to implement compile-time data structures
+TMP and static polymorphism: CRTP (Curiously Recurring Template Pattern)
+TMP and constexpr: using constexpr functions in template metaprogramming
+TMP and variadic templates: variadic template parameters, template parameter packs
+TMP and type manipulation: type lists, type concatenation, type extraction
+TMP and type deduction: decltype, std::declval, std::decay, etc.
+TMP and type traits: extending type traits with custom implementations
+TMP and expression templates: using TMP to optimize expressions at compile-time
+TMP and SFINAE (Substitution Failure Is Not An Error)
+TMP and non-type template parameters: integer, floating-point, and enum parameters
+TMP and function templates: template template parameters, template specialization
+TMP and variadic template argument packs: expanding parameter packs, pack expansions
+TMP and metaprogramming libraries: Boost.MPL, Boost.Hana, Brigand, etc.
+Using TMP to generate code at compile-time: code generation techniques
+TMP and constexpr if: conditional compilation based on evaluated conditions
+Type-based conditional execution in TMP
+TMP and compile-time code optimization: constexpr evaluation, constant propagation
+TMP and compile-time type inspection: type introspection, type introspection macros
+TMP and template metaprogramming idioms: type lists, type factories, etc.
+TMP and compile-time error checking: static assertions, type traits
+TMP and template metaprogramming design patterns
+TMP and function dispatch: overloading, specialization, tag dispatching
+TMP and type-safe runtime reflection: using TMP to generate reflection metadata
+TMP and type-safe serialization: generating serialization code at compile-time
+TMP and type-safe deserialization: generating deserialization code at compile-time
+TMP and compile-time configuration: generating configuration files at compile-time
+TMP and loop unrolling: unrolling loops at compile-time for performance optimization
+TMP and compile-time expression evaluation: evaluating complex expressions at compile-time
+TMP and compile-time code generation: generating code based on compile-time conditions
+TMP and compile-time validation: validating data structures at compile-time
+TMP and compile-time transformations: transforming data structures at compile-time
+TMP and compile-time code analysis: analyzing code patterns at compile-time
+TMP and compile-time debugging: generating debug output at compile-time
+TMP and compile-time logging: generating log output at compile-time
+TMP and compile-time profiling: generating profiling information at compile-time
+TMP and compile-time resource management: managing resources at compile-time
+TMP and compile-time parallelization: generating parallel code at compile-time
+TMP and compile-time scheduling: scheduling tasks at compile-time
+TMP and compile-time optimization: optimizing code at compile-time
+TMP and compile-time memory management: managing memory at compile-time
+TMP and compile-time security: ensuring secure code at compile-time
+TMP and compile-time testing: generating test cases at compile-time
+TMP and compile-time documentation generation: generating documentation at compile-time
+TMP and compile-time error handling: handling errors at compile-time
+TMP and compile-time exception handling: handling exceptions at compile-time
+TMP and compile-time performance analysis: analyzing performance at compile-time
+TMP and compile-time code review: reviewing code at compile-time
+TMP and compile-time code generation: generating code based on compile-time analysis
+TMP and compile-time code refactoring: refactoring code at compile-time
+TMP and compile-time code transformation: transforming code at compile-time
+TMP and compile-time code optimization: optimizing code at compile-time
+TMP and compile-time code instrumentation: instrumenting code at compile-time
+TMP and compile-time code visualization: visualizing code at compile-time
+TMP and compile-time code reusability: reusing code at compile-time
+TMP and compile-time code portability: ensuring code portability at compile-time
+TMP and compile-time code maintenance: maintaining code at compile-time
+TMP and compile-time code evolution: evolving code at compile-time
+TMP and compile-time code integration: integrating code at compile-time
+TMP and compile-time code deployment: deploying code at compile-time
+TMP and compile-time code versioning: managing code versions at compile-time
+TMP and compile-time code organization: organizing code at compile-time
+TMP and compile-time code analysis: analyzing code at compile-time
+TMP and compile-time code generation: generating code at compile-time
+TMP and compile-time code documentation: documenting code at compile-time
+TMP and compile-time code testing: testing code at compile-time
+TMP and compile-time code debugging: debugging code at compile-time
+TMP and compile-time code profiling: profiling code at compile-time
+TMP and compile-time code optimization: optimizing code at compile-time
+TMP and compile-time code refactoring: refactoring code at compile-time
+TMP and compile-time code transformation: transforming code at compile-time
+TMP and compile-time code visualization: visualizing code at compile-time
+TMP and compile-time code reusability: reusing code at compile-time
+TMP and compile-time code portability: ensuring code portability at compile-time
+TMP and compile-time code maintenance: maintaining code at compile-time
+TMP and compile-time code evolution: evolving code at compile-time
+TMP and compile-time code integration: integrating code at compile-time
+TMP and compile-time code deployment: deploying code at compile-time
+TMP and compile-time code versioning: managing code versions at compile-time
+TMP and compile-time code organization: organizing code at compile-time
+TMP and compile-time code analysis: analyzing code at compile-time
+TMP and compile-time code generation: generating code at compile-time
+TMP and compile-time code documentation: documenting code at compile-time
+TMP and compile-time code testing: testing code at compile-time
+TMP and compile-time code debugging: debugging code at compile-time
+TMP and compile-time code profiling: profiling code at compile-time
+TMP and compile-time code optimization: optimizing code at compile-time
+TMP and compile-time code refactoring: refactoring code at compile-time
+TMP and compile-time code transformation: transforming code at compile-time
+TMP and compile-time code visualization: visualizing code at compile-time
+TMP and compile-time code reusability: reusing code at compile-time
+TMP and compile-time code portability: ensuring code portability at compile-time
+TMP and compile-time code maintenance: maintaining code at compile-time
+TMP and compile-time code evolution: evolving code at compile-time

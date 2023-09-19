@@ -1,0 +1,95 @@
+Structured Bindings
+if constexpr
+Fold Expressions
+Parallel Algorithms
+Namespace Aliases
+Attribute Specifiers
+constexpr lambdas
+constexpr if
+Nested namespaces
+Template argument deduction for class templates
+Removing `[[noreturn]]` for `main`
+Inline variables
+Class template argument deduction
+Polymorphic memory resources
+UTF-8 character literals
+Non-member size() and empty() for std::array
+std::variant improvements
+[[maybe_unused]] attribute
+And/or for ASAN/UBSAN
+Disabling the Summary message in SEH events
+Conditionally trivial special member functions
+std::invoke support for callable objects
+Compile-time vector operations
+Support for disallowed friend declarations
+Improved support for constant evaluation context for constexpr function
+Inline namespaces
+extensible attribute syntax
+constexpr library additions
+std::optional improvements
+Comparison category types
+Removal of volatile for constinit characters
+std::raw_storage_iterator
+Template argument deduction guides for aggregate and non-aggregate classes
+deleted virtual functions
+Standard Library support for the Filesystem Technical Specification
+Propagating constant evaluation context
+std::numbers
+Default constructability and reference types
+[[nodiscard]] attribute for user defined types
+inline constexpr variables
+TriviallyCopyable requirements relaxed
+Nested inline namespaces
+Class enumerators
+Streamlining the range-based for loop
+Bitwise shifting of negative values
+New algorithms for text formatting
+Cleaner integer literals
+Template instantiation as part of simplified type checking
+Arithmetic operations on nullptr
+Removing restrictions on constant expressions
+Subscribe/Unsubscribe operations in the Observable concept
+Template type deduction for constructors of user-defined literals
+[[nodiscard]] attribute for enum values and uninterpreted functions
+New Memory Management Functions
+constexpr default constructors
+Operator new handling over-aligned types
+Synchronized Standard Output
+Deduction guides and explicit template arguments
+Operator <=> for three-way comparison
+Uniform visibility for inline namespaces
+Allocator support in std::shared_mutex
+Remove default CTAD for aggregates with public non-explicit constructors
+Array size deduction in new-expressions
+noexcept and attributes in function type syntax
+Relaxing the Requirements for Aggregate Initialization
+operator== and operator!= for std::pair
+Support for Parallel Execution Policies
+Wording fixes for constexpr constructors and destructors
+Instantiation of traits
+Pack expansions in using-declarations
+Where-clauses for template parameters
+The iterator_traits member type void
+Enable the use of not_fn with C++11 compilers
+Non-trailing unnamed function parameters
+Introduction of std::clamp
+Simplified wording for noexcept
+EBCO for stateless allocators
+Potentially overlapping contract bindings
+Default constructible and assignable lambdas
+Sized deallocation
+Removal of [[fallthrough]] attribute
+Generalizing associations for iterators from before the first element
+Improved support for constexpr lambda captures
+Wording improvements for the noexcept specification in the C++ standard
+Simpler implicit move
+Allowing `static` member functions as template arguments
+Specialization of class templates with no partial ordering
+Fixing the atomic_flag type
+Template member function pointer support for user-defined literals
+Disallowing default initialization of a lambda object capture
+Hierarchical directory iteration support
+Partial Transparent Comparisons
+Immediate lambda functions
+Template
+skewing

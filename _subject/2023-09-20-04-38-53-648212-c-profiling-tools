@@ -1,0 +1,100 @@
+gprof - GNU profiler for C++ programs
+Valgrind - memory profiler and debugger for C++ programs
+Perf - performance profiler for C++ programs
+Google Performance Tools (gperftools) - collection of profiling tools for C++ programs
+Intel VTune Amplifier - performance profiling tool for C++ programs
+PAPI - Performance Application Programming Interface for profiling C++ programs
+OProfile - system-wide profiler for C++ programs
+GNU gprof2dot - utility to visualize gprof output for C++ programs
+Callgrind - profiling tool that generates callgraph for C++ programs
+CodeXL - GPU profiler for C++ programs
+Zoom - advanced performance profiler for C++ programs
+VTune Profiler - performance profiling tool for C++ programs running on Intel processors
+Shark - profiling tool for C++ programs with dynamic instrumentation capabilities
+ANTS Performance Profiler - profiler for C++ programs on Windows platform
+AMD CodeAnalyst - performance profiler for C++ programs running on AMD processors
+Very Sleepy - lightweight CPU profiler for C++ programs
+AQTime - performance profiling and memory analysis tool for C++ programs
+Intel Inspector - profiling and debugging tool for C++ programs
+CppCheck - static analysis tool for C++ programs with profiling capabilities
+cprof - lightweight profiler for C++ programs
+dotTrace - performance and memory profiler for C++ programs
+GlowCode - performance profiler for C++ programs
+Scalasca - performance analyzer for C++ programs
+CodeSonar - static analysis and profiling tool for C++ programs
+Taskinfo - system-wide profiler for C++ programs
+xperf - low-level profiling tool for C++ programs on Windows platform
+NCProf - profiling and debugging tool for C++ programs running on IBM i platform
+Sysprof - system-wide profiler for C++ programs on Linux system
+Cachegrind - cache and branch profiler for C++ programs
+AQtime - profiling and debug tool for C++ programs on Windows platform
+Xdebug - profiler and debugger for C++ programs
+Vtune - performance profiling tool for C++ programs running on Intel processors
+Zoom or Sleepy - lightweight profiler for C++ programs
+Glowcode - performance profiler for C++ programs
+AQTime - performance profiling and memory analysis tool for C++ programs
+Very Sleepy - open-source CPU profiler for C++ programs
+Intel Inspector - profiler and debugger for C++ programs
+CodeSonar - static analysis and profiling tool for C++ programs
+Xdebug - C++ profiler for PHP scripts
+VTune Amplifier - performance profiling tool for C++ programs
+Zoom - advanced CPU profiler for C++ programs
+gprof - profiler for C++ programs
+Valgrind - memory profiler and debugger for C++ programs
+Perf - performance profiler for C++ programs
+Apitrace - tracing tool for graphics APIs used in C++ programs
+PAPI - Performance Application Programming Interface for profiling C++ programs
+Intel VTune Amplifier - performance profiler for C++ programs
+OProfile - system-wide profiler for C++ programs
+GNU gprof2dot - utility to convert gprof output to a graphical dot file for C++ programs
+Callgrind - call graph profiler for C++ programs
+CodeXL - GPU profiler for C++ programs
+Shark - dynamic instrumentation-based profiler for C++ programs
+ANTS Performance Profiler - profiler for C++ programs on Windows platform
+AMD CodeAnalyst - performance profiler for C++ programs running on AMD processors
+Very Sleepy - lightweight CPU profiler for C++ programs
+AQTime - performance profiler and memory analysis tool for C++ programs
+Intel Inspector - profiling and debugging tool for C++ programs
+CppCheck - static analysis tool for C++ programs with profiling capabilities
+cprof - lightweight profiler for C++ programs
+dotTrace - performance and memory profiler for C++ programs
+GlowCode - performance profiler for C++ programs
+Scalasca - performance analyzer for C++ programs
+CodeSonar - static analysis and profiling tool for C++ programs
+Taskinfo - system-wide profiler for C++ programs
+xperf - low-level profiling tool for C++ programs on Windows platform
+NCProf - profiling and debugging tool for C++ programs running on IBM i platform
+Sysprof - system-wide profiler for C++ programs on Linux system
+Cachegrind - cache and branch profiler for C++ programs
+AQtime - profiling and debug tool for C++ programs on Windows platform
+Xdebug - profiler and debugger for C++ programs
+Vtune - performance profiling tool for C++ programs running on Intel processors
+Zoom or Sleepy - lightweight profiler for C++ programs
+Glowcode - performance profiler for C++ programs
+AQTime - performance profiling and memory analysis tool for C++ programs
+Very Sleepy - open-source CPU profiler for C++ programs
+Intel Inspector - profiler and debugger for C++ programs
+CodeSonar - static analysis and profiling tool for C++ programs
+Xdebug - C++ profiler for PHP scripts
+VTune Amplifier - performance profiling tool for C++ programs
+Zoom - advanced CPU profiler for C++ programs
+gprof - GNU profiler for C++ programs
+Valgrind - memory profiler and debugger for C++ programs
+Perf - performance profiler for C++ programs
+Google Performance Tools (gperftools) - collection of profiling tools for C++ programs
+Intel VTune Amplifier - performance profiling tool for C++ programs
+PAPI - Performance Application Programming Interface for profiling C++ programs
+OProfile - system-wide profiler for C++ programs
+GNU gprof2dot - utility to visualize gprof output for C++ programs
+Callgrind - profiling tool that generates callgraph for C++ programs
+CodeXL - GPU profiler for C++ programs
+Zoom - advanced performance profiler for C++ programs
+VTune Profiler - performance profiling tool for C++ programs running on Intel processors
+Shark - profiling tool for C++ programs with dynamic instrumentation capabilities
+ANTS Performance Profiler - profiler for C++ programs on Windows platform
+AMD CodeAnalyst - performance profiler for C++ programs running on AMD processors
+Very Sleepy - lightweight CPU profiler for C++ programs
+AQTime - performance profiling and memory analysis tool for C++ programs
+Intel Inspector - profiling and debugging tool for C++ programs
+CppCheck - static analysis tool for C++ programs with profiling capabilities
+cprof - lightweight profiler for C++ programs

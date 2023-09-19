@@ -1,0 +1,100 @@
+Introduction to stacks in C++
+Implementing a stack using arrays in C++
+Implementing a stack using linked lists in C++
+Push operation in stack using arrays in C++
+Pop operation in stack using arrays in C++
+Push operation in stack using linked lists in C++
+Pop operation in stack using linked lists in C++
+Checking if a stack is empty in C++
+Checking if a stack is full in C++
+Peeking at the top element of a stack in C++
+Size of a stack in C++
+Clearing a stack in C++
+Reversing a stack in C++
+Reversing a string using a stack in C++
+Evaluating postfix expressions using a stack in C++
+Infix to postfix conversion using a stack in C++
+Evaluating infix expressions using a stack in C++
+Converting decimal numbers to binary using a stack in C++
+Converting decimal numbers to octal using a stack in C++
+Converting decimal numbers to hexadecimal using a stack in C++
+Converting infix expression to prefix using a stack in C++
+Evaluating prefix expressions using a stack in C++
+Converting infix expression to prefix without using a stack in C++
+Evaluating prefix expressions without using a stack in C++
+Converting infix expression to postfix without using a stack in C++
+Evaluating postfix expressions without using a stack in C++
+Implementation of stack using std::stack in C++
+Reversing a stack using an auxiliary stack in C++
+Finding the minimum element in a stack in C++
+Finding the maximum element in a stack in C++
+Determining if two stacks are equal in C++
+Determining if a given string is a palindrome using a stack in C++
+Sorting elements in a stack in ascending order using an auxiliary stack in C++
+Sorting elements in a stack in descending order using an auxiliary stack in C++
+Finding the middle element in a stack in C++
+Implementing multiple stacks in a single array in C++
+Merging two stacks in C++
+Splitting a stack into two equal halves in C++
+Counting the number of elements in a stack in C++
+Finding the sum of elements in a stack in C++
+Copying a stack to another stack in C++
+Swapping two elements in a stack in C++
+Converting a stack into a queue in C++
+Converting a queue into a stack in C++
+Implementing a stack with minimum element query in C++
+Implementing a stack with maximum element query in C++
+Finding the k-th element from the top in a stack in C++
+Finding the k-th element from the bottom in a stack in C++
+Removing the middle element from a stack in C++
+Implementing a stack with limited capacity in C++
+Checking if a given postfix expression is valid in C++
+Converting a stack to a priority queue in C++
+Converting a stack to a deque in C++
+Converting a stack to a list in C++
+Converting a stack to a vector in C++
+Finding the second smallest element in a stack in C++
+Sorting a stack using recursion in C++
+Converting an infix expression to binary tree in C++
+Reversing alternate k elements in a stack in C++
+Finding the largest rectangular area in a histogram using a stack in C++
+Evaluating prefix expressions using recursion in C++
+Implementing a stack with efficient search operation in C++
+Implementing a stack with maximum element fetch in constant time in C++
+Implementing a stack with minimum element fetch in constant time in C++
+Generating all possible subsets of a given set using a stack in C++
+Finding the nearest smaller element for each element in an array using a stack in C++
+Implementing a stack with middle element fetch in constant time in C++
+Implementing a stack with efficient retrieval of the minimum and maximum element in C++
+Modifying a stack to support efficient retrieval of the k-th smallest element in C++
+Finding the maximum sum subarray in a given array using a stack in C++
+Implementing a stack with efficient retrieval of the median element in C++
+Finding the next greater element for each element in an array using a stack in C++
+Implementing a stack with efficient retrieval of the median element in constant time in C++
+Implementing a stack with efficient retrieval of the k-th largest element in C++
+Determining the minimum number of bracket reversals required to balance a string using a stack in C++
+Finding the largest rectangular area in a binary matrix using a stack in C++
+Evaluating postfix expressions with operands and operators having multiple digits in C++
+Converting a prefix expression to an infix expression using a stack in C++
+Finding the maximum area of a rectangle with all 1s in a binary matrix using a stack in C++
+Checking if an arithmetic expression has balanced parentheses using a stack in C++
+Solving the Tower of Hanoi problem using a stack in C++
+Reversing a sentence using a stack in C++
+Checking if a given expression contains redundant parentheses using a stack in C++
+Evaluating an expression with postfix operators and multiple digits using a stack in C++
+Reversing the order of words in a sentence using a stack in C++
+Finding the longest valid parentheses substring in a given string using a stack in C++
+Solving the celebrity problem using a stack in C++
+Solving the stock span problem using a stack in C++
+Evaluating a prefix expression with operands and operators having multiple digits using a stack in C++
+Evaluating a postfix expression with operands and operators having multiple digits without using a stack in C++
+Using a stack to implement an undo-redo mechanism in C++
+Implementing a stack that supports efficient search operation and removal of specific elements in C++
+Determining if a given expression is a fully parenthesized expression using a stack in C++
+Finding the maximum and minimum depths of nested parentheses in a given expression using a stack in C++
+Implementing a stack that supports efficient merging and splitting of stack contents in C++
+Checking if a given expression is balanced and properly nested using a stack in C++
+Implementing a stack with efficient retrieval of the middle element at any point in C++
+Implementing a stack with efficient retrieval of the maximum and minimum elements at any point in C++
+Solving the Longest Valid Parentheses problem using a stack in C++
+Implementing a stack with efficient retrieval of the k-th largest and smallest elements in C++

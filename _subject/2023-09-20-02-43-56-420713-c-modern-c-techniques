@@ -1,0 +1,100 @@
+Lambda expressions in C++
+Smart pointers in C++
+Move semantics in C++
+Range-based for loops in C++
+Type inference with auto in C++
+constexpr in C++
+Template metaprogramming in C++
+Variadic templates in C++
+RAII (Resource Acquisition Is Initialization) in C++
+Rvalue references in C++
+Non-owning references in C++
+User-defined literals in C++
+Uniform initialization in C++
+Smart containers in C++
+Exception handling in C++
+Multithreading in C++
+Concurrency in C++
+Atomic operations in C++
+Asynchronous programming in C++
+Coroutine support in C++
+Type traits in C++
+Tag dispatching in C++
+Regular expressions in C++
+File handling in C++
+Networking in C++
+Stream support in C++
+Metaprogramming with reflection in C++
+Memory management techniques in C++
+Container classes in C++
+STL algorithms in C++
+Custom allocators in C++
+floating-point arithmetic in C++
+constexpr functions in C++
+Variadic macros in C++
+Type deduction in C++
+Move semantics for resource management in C++
+Threading libraries in C++
+Object-oriented programming in C++
+Functional programming in C++
+Design patterns in C++
+Template specialization in C++
+Type aliasing in C++
+Exception-safety guarantees in C++
+Operator overloading in C++
+Standard Template Library (STL) containers in C++
+STL algorithms and their usage in C++
+Memory allocation and deallocation in C++
+Function pointers in C++
+Designing custom iterators in C++
+SFINAE (Substitution Failure Is Not An Error) in C++
+Multi-threading support in C++
+Synchronization primitives in C++
+Thread safety in C++
+Immutable objects in C++
+Parallel algorithms in C++
+C++17 features for parallelism
+SIMD (Single Instruction, Multiple Data) programming in C++
+Exploiting hardware features for performance in C++
+Preprocessor directives in C++
+Bit manipulation in C++
+Anonymous namespaces in C++
+Compile-time vs runtime polymorphism in C++
+Function overloading in C++
+Exception handling strategies in C++
+Debugging techniques in C++
+Go-style defer statement in C++
+Dynamic memory allocation in C++
+Memory leaks and how to avoid them in C++
+C++20 features and improvements
+Multithreading synchronization mechanisms in C++
+Performance optimization techniques in C++
+C++ libraries for numerical computing
+High-performance computing with C++
+C++ Unit testing frameworks
+Profiling and benchmarking in C++
+Implementing custom data structures in C++
+Audio and video processing in C++
+Code optimization techniques in C++
+Error handling strategies in C++
+Graph algorithms in C++
+C++ libraries for graphics programming
+GUI development in C++
+C++ libraries for web development
+Parallel computing in C++
+String manipulation in C++
+C++ libraries for machine learning
+3D graphics programming in C++
+Multithreaded network programming in C++
+Creating plugins and extensions in C++
+C++ tools for code refactoring
+C++ bindings for other programming languages
+C++ libraries for data serialization
+C++ code generation techniques
+C++ for embedded systems development
+Interfacing with hardware in C++
+C++ libraries for game development
+Optimization techniques for low-level programming in C++
+GUI testing frameworks in C++
+C++ libraries for image processing
+Creating DSLs (Domain-Specific Languages) in C++

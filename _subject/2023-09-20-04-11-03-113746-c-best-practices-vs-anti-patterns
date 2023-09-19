@@ -1,0 +1,100 @@
+Using meaningful variable and function names
+Avoiding global variables
+Applying encapsulation and data hiding
+Following the single responsibility principle
+Minimizing code duplication
+Writing modular and reusable code
+Utilizing proper error handling and exception handling
+Implementing appropriate code comments and documentation
+Using appropriate data structures and algorithms
+Ensuring proper memory management
+Taking advantage of object-oriented programming principles
+Applying design patterns where appropriate
+Writing clean and readable code
+Following naming conventions and formatting guidelines
+Separating interface from implementation
+Utilizing const and constexpr qualifiers
+Avoiding unnecessary type-casting
+Writing efficient and optimized code
+Testing code extensively
+Utilizing continuous integration and automated testing
+Avoiding unnecessary dependencies
+Using the appropriate level of abstraction
+Following the open-closed principle
+Implementing proper input and output handling
+Following established coding standards and guidelines
+Avoiding hardcoding values
+Properly handling exceptions and error conditions
+Using appropriate libraries and frameworks
+Employing defensive programming techniques
+Following the DRY (Don't Repeat Yourself) principle
+Considering performance implications of code
+Following the principle of least astonishment
+Ensuring code readability and clarity over cleverness
+Implementing proper error logging and reporting
+Using static code analyzers and linters
+Employing proper resource cleanup and releasing
+Using appropriate standard library functions
+Avoiding premature optimizations
+Properly handling concurrency and multi-threading
+Writing code that is easy to maintain and refactor
+Following SOLID principles
+Avoiding magic numbers and hard-coded values
+Using appropriate data types and containers
+Minimizing code complexity
+Applying security best practices
+Following the principle of least privilege
+Optimizing memory usage
+Utilizing appropriate error codes and messages
+Properly handling and validating user input
+Writing readable and meaningful unit tests
+Considering performance trade-offs when making design decisions
+Using version control effectively
+Avoiding code smells and code redundancy
+Avoiding long and convoluted functions
+Following proper file and directory organization
+Using appropriate software architecture patterns
+Conducting code reviews and seeking feedback from peers
+Using appropriate and descriptive function and method signatures
+Properly documenting code and its usage
+Avoiding unnecessary or excessive use of macros
+Implementing proper exception safety
+Ensuring code and data integrity
+Applying modularization and separation of concerns
+Using appropriate data validation techniques
+Employing code profiling and optimization tools
+Avoiding unnecessary memory allocations
+Following best practices for code review comments
+Considering portability and platform compatibility
+Properly handling and logging runtime errors
+Optimizing code for maintainability
+Using appropriate and descriptive variable and constant names
+Avoiding code duplication and redundancy
+Employing appropriate code organization and structuring
+Using proper mechanisms for input and output buffering
+Considering scalability and performance implications
+Properly documenting and maintaining code documentation
+Ensuring consistent and reliable code behavior
+Implementing proper concurrency control and synchronization
+Using appropriate logging and debugging techniques
+Following best practices for exception handling and error recovery
+Employing proper unit testing frameworks and methodologies
+Considering security vulnerabilities and best practices
+Implementing proper resource management and cleanup
+Utilizing appropriate coding idioms and conventions
+Avoiding premature generalization and over-abstraction
+Employing proper design and architectural principles
+Properly handling and managing external dependencies
+Optimizing code for performance and responsiveness
+Following best practices for overloading and polymorphism
+Employing appropriate data serialization and deserialization techniques
+Following best practices for code organization and separation of concerns
+Creating meaningful and informative error messages
+Utilizing appropriate logging and error reporting mechanisms
+Following best practices for data validation and sanitization
+Ensuring code compatibility and interoperability
+Employing proper code profiling and optimization techniques
+Following best practices for string manipulation and formatting
+Using appropriate and efficient algorithms and data structures
+Applying proper error handling and recovery mechanisms
+Employing proper library and API usage conventions

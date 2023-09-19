@@ -1,0 +1,100 @@
+Introduction to C++ initializer lists
+Syntax and usage of initializer lists in C++
+Initializing a single variable using an initializer list
+Initializing multiple variables using an initializer list
+Initializing an array using an initializer list
+Initializing a struct using an initializer list
+Initializing a class object using an initializer list
+Initializing class member variables using an initializer list
+Initializing object references using an initializer list
+Initializing const variables using an initializer list
+Initializing static variables using an initializer list
+Nested initializer lists in C++
+C++11 enhanced initializer list features
+Using initializer lists with constructor overloading
+Differences between initializer lists and assignment in C++
+Common errors and pitfalls when using initializer lists in C++
+Benefits of using initializer lists in C++
+Performance considerations with initializer lists in C++
+Limitations and restrictions of initializer lists in C++
+Using initializer lists for user-defined types in C++
+Initializing standard library containers using initializer lists
+Initializing std::vector using an initializer list
+Initializing std::array using an initializer list
+Initializing std::list using an initializer list
+Initializing std::set using an initializer list
+Initializing std::map using an initializer list
+Initializing std::unordered_set using an initializer list
+Initializing std::unordered_map using an initializer list
+Initializing std::tuple using an initializer list
+Using initializer lists with function templates in C++
+Initializing function parameters using initializer lists
+Initializing function return values using initializer lists
+Initializing class templates using initializer lists
+Initializing template specializations using initializer lists
+Initializing nested templates using initializer lists
+Using initializer lists with smart pointers in C++
+Initializing std::unique_ptr using an initializer list
+Initializing std::shared_ptr using an initializer list
+Initializing std::weak_ptr using an initializer list
+Using initializer lists with custom container classes in C++
+Initializing custom container class using an initializer list
+Implementing initializer list support for custom container class
+Initializing custom iterator using an initializer list
+Initializing custom reference wrapper using an initializer list
+Initializing custom smart pointer using an initializer list
+Using initializer lists with inheritance and polymorphism in C++
+Initializing base class members using an initializer list
+Initializing derived class members using an initializer list
+Initializing virtual base class members using an initializer list
+Calling base class constructors using an initializer list
+Initializing virtual function pointers using an initializer list
+Initializing abstract base classes using an initializer list
+Using initializer lists for exception handling in C++
+Initializing exception objects using an initializer list
+Initializing exception class members using an initializer list
+Initializing exception data using an initializer list
+Using initializer lists with lambda functions in C++
+Initializing lambda function capture variables using an initializer list
+Initializing lambda function parameters using an initializer list
+Initializing lambda function return values using an initializer list
+Using initializer lists with variadic templates in C++
+Initializing variadic template function parameters using an initializer list
+Initializing variadic template class members using an initializer list
+Initializing variadic template function return values using an initializer list
+Using initializer lists with default arguments in C++
+Initializing function default arguments using an initializer list
+Initializing constructor default arguments using an initializer list
+Initializing function template default arguments using an initializer list
+Initializing class template default arguments using an initializer list
+Using initializer lists with macros in C++
+Initializing macro variables using an initializer list
+Initializing macro functions using an initializer list
+Initializing macro templates using an initializer list
+Initializing macro constants using an initializer list
+Using initializer lists with preprocessor directives in C++
+Initializing conditional compilation flags using an initializer list
+Initializing macro conditional statements using an initializer list
+Initializing macro include guards using an initializer list
+Using initializer lists with inline assembly in C++
+Initializing assembly variables using an initializer list
+Initializing assembly registers using an initializer list
+Initializing assembly stack frames using an initializer list
+Initializing assembly function parameters using an initializer list
+Using initializer lists with multi-threading in C++
+Initializing thread objects using an initializer list
+Initializing mutex objects using an initializer list
+Initializing condition variables using an initializer list
+Initializing thread synchronization primitives using an initializer list
+Using initializer lists with file I/O in C++
+Initializing file objects using an initializer list
+Initializing file modes using an initializer list
+Initializing file buffers using an initializer list
+Initializing file input/output streams using an initializer list
+Using initializer lists with networking in C++
+Initializing socket objects using an initializer list
+Initializing network addresses using an initializer list
+Initializing network protocol options using an initializer list
+Initializing network connections using an initializer list
+Using initializer lists with user-defined literals in C++
+Initializing user-defined literals using an initializer list
