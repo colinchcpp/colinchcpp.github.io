@@ -3,7 +3,7 @@ layout: post
 title: "Type inference and the impact on code modularity and reusability in C++"
 description: " "
 date: 2023-09-15
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

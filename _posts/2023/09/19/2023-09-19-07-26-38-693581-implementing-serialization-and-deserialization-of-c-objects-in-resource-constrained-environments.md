@@ -3,7 +3,7 @@ layout: post
 title: "Implementing serialization and deserialization of C++ objects in resource-constrained environments"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, include, serialization, deserialization]
+tags: [serialization, deserialization]
 comments: true
 share: true
 ---

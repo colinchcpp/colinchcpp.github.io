@@ -3,7 +3,7 @@ layout: post
 title: "C++ programming for landslide prediction and risk assessment"
 description: " "
 date: 2023-09-20
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

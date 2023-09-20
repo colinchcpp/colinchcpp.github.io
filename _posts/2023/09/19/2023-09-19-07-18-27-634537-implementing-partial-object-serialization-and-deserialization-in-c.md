@@ -3,7 +3,7 @@ layout: post
 title: "Implementing partial object serialization and deserialization in C++"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, include, include, include, serialization, deserialization]
+tags: [serialization, deserialization]
 comments: true
 share: true
 ---

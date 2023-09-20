@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging C++ for developing intelligent shopping recommendation features in virtual personal assistants"
 description: " "
 date: 2023-09-18
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

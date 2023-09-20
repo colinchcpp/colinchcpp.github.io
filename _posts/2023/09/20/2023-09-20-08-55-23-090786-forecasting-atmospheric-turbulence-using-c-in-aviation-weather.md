@@ -3,7 +3,7 @@ layout: post
 title: "Forecasting atmospheric turbulence using C++ in aviation weather"
 description: " "
 date: 2023-09-20
-tags: [include, aviationweather]
+tags: [aviationweather]
 comments: true
 share: true
 ---

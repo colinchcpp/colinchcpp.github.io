@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing C++ objects across different platforms and architectures"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, include, Serialization]
+tags: [Serialization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "High-performance computing using SIMD instructions in C++"
 description: " "
 date: 2023-09-13
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

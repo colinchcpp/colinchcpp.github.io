@@ -3,7 +3,7 @@ layout: post
 title: "Implementing intelligent context-awareness in virtual personal assistants using C++"
 description: " "
 date: 2023-09-18
-tags: [include, programming]
+tags: [programming]
 comments: true
 share: true
 ---

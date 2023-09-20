@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging functors for efficient memory caching in C++"
 description: " "
 date: 2023-09-14
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

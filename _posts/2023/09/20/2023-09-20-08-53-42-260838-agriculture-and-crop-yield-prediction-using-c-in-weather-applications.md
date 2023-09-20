@@ -3,7 +3,7 @@ layout: post
 title: "Agriculture and crop yield prediction using C++ in weather applications"
 description: " "
 date: 2023-09-20
-tags: [include, agriculture]
+tags: [agriculture]
 comments: true
 share: true
 ---

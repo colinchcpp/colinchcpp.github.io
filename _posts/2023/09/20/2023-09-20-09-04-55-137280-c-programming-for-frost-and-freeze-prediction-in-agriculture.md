@@ -3,7 +3,7 @@ layout: post
 title: "C++ programming for frost and freeze prediction in agriculture"
 description: " "
 date: 2023-09-20
-tags: [include, frostprediction]
+tags: [frostprediction]
 comments: true
 share: true
 ---

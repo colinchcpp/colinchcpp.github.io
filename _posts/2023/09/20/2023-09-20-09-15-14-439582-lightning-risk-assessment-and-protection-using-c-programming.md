@@ -3,7 +3,7 @@ layout: post
 title: "Lightning risk assessment and protection using C++ programming"
 description: " "
 date: 2023-09-20
-tags: [include, lightningriskassessment]
+tags: [lightningriskassessment]
 comments: true
 share: true
 ---

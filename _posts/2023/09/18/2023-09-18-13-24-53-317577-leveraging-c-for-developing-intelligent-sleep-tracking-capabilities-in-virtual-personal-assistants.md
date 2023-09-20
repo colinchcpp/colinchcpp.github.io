@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging C++ for developing intelligent sleep tracking capabilities in virtual personal assistants"
 description: " "
 date: 2023-09-18
-tags: [include, tech]
+tags: [tech]
 comments: true
 share: true
 ---

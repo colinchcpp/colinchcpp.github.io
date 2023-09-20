@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling versioning and backward compatibility in C++ object serialization"
 description: " "
 date: 2023-09-19
-tags: [include, include, serialization]
+tags: [serialization]
 comments: true
 share: true
 ---

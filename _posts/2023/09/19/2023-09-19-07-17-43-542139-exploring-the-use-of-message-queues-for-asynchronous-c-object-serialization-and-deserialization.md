@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the use of message queues for asynchronous C++ object serialization and deserialization"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, include, include, include, Serialization, Deserialization]
+tags: [Serialization, Deserialization]
 comments: true
 share: true
 ---

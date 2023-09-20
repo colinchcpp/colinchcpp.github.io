@@ -3,7 +3,7 @@ layout: post
 title: "Incorporating computer vision capabilities in virtual personal assistants with C++"
 description: " "
 date: 2023-09-18
-tags: [include, computerVision]
+tags: [computerVision]
 comments: true
 share: true
 ---

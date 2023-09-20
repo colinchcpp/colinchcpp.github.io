@@ -3,7 +3,7 @@ layout: post
 title: "Integrating C++ object serialization with database storage and retrieval"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, include, include, serialization, database]
+tags: [serialization, database]
 comments: true
 share: true
 ---

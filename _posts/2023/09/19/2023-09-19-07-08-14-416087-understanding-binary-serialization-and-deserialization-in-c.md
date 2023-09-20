@@ -3,7 +3,7 @@ layout: post
 title: "Understanding binary serialization and deserialization in C++"
 description: " "
 date: 2023-09-19
-tags: [include, include, programming]
+tags: [programming]
 comments: true
 share: true
 ---

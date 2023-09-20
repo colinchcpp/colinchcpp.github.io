@@ -3,7 +3,7 @@ layout: post
 title: "Qt for smart home devices: Developing control interfaces"
 description: " "
 date: 2023-09-18
-tags: [include, SmartHome]
+tags: [SmartHome]
 comments: true
 share: true
 ---

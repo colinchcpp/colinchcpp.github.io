@@ -3,7 +3,7 @@ layout: post
 title: "C++ programming for sea ice modeling and prediction in polar regions"
 description: " "
 date: 2023-09-20
-tags: [include, seaicemodeling]
+tags: [seaicemodeling]
 comments: true
 share: true
 ---

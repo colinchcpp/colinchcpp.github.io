@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling data compression and decompression during C++ object serialization and deserialization"
 description: " "
 date: 2023-09-19
-tags: [include, include, compression, serialization]
+tags: [compression, serialization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the use of serialization as a persistence mechanism in C++ software development"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, include, serialization]
+tags: [serialization]
 comments: true
 share: true
 ---

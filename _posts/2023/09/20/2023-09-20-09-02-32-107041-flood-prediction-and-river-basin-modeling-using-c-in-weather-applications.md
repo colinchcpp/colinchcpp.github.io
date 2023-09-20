@@ -3,7 +3,7 @@ layout: post
 title: "Flood prediction and river basin modeling using C++ in weather applications"
 description: " "
 date: 2023-09-20
-tags: [include, weatherapplications]
+tags: [weatherapplications]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Practical tips for optimizing the performance of C++ object serialization and deserialization"
 description: " "
 date: 2023-09-19
-tags: [#serialization, performance, serialization, deserialization]
+tags: [serialization, performance, serialization, deserialization]
 comments: true
 share: true
 ---

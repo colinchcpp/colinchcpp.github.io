@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the use of different serialization protocols in distributed systems development in C++"
 description: " "
 date: 2023-09-19
-tags: [include, ProtocolBuffers, Serialization), include, ApacheAvro, Serialization)]
+tags: [ProtocolBuffers, Serialization), ApacheAvro, Serialization)]
 comments: true
 share: true
 ---

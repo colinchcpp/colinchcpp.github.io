@@ -3,7 +3,7 @@ layout: post
 title: "Geographical information systems (GIS) with C++"
 description: " "
 date: 2023-09-13
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

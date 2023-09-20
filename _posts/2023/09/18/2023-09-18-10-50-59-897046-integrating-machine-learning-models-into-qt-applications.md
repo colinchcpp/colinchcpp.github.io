@@ -3,7 +3,7 @@ layout: post
 title: "Integrating machine learning models into Qt applications"
 description: " "
 date: 2023-09-18
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

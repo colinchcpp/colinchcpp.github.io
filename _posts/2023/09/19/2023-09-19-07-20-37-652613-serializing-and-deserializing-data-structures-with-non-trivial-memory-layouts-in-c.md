@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing data structures with non-trivial memory layouts in C++"
 description: " "
 date: 2023-09-19
-tags: [include, include, Serialization, Deserialization]
+tags: [Serialization, Deserialization]
 comments: true
 share: true
 ---

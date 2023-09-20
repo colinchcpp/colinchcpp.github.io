@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for efficiently serializing and deserializing C++ objects"
 description: " "
 date: 2023-09-19
-tags: [include, serialization, deserialization]
+tags: [serialization, deserialization]
 comments: true
 share: true
 ---

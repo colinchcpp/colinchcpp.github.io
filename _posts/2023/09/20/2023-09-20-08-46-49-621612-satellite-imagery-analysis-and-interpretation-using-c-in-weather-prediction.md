@@ -3,7 +3,7 @@ layout: post
 title: "Satellite imagery analysis and interpretation using C++ in weather prediction"
 description: " "
 date: 2023-09-20
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

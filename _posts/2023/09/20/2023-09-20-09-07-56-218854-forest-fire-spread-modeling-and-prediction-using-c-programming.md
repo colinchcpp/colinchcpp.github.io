@@ -3,7 +3,7 @@ layout: post
 title: "Forest fire spread modeling and prediction using C++ programming"
 description: " "
 date: 2023-09-20
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

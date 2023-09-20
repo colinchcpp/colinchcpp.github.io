@@ -3,7 +3,7 @@ layout: post
 title: "Qt for IoT: Building connected applications"
 description: " "
 date: 2023-09-18
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

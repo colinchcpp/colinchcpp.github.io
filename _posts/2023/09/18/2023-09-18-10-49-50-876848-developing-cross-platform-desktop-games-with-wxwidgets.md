@@ -3,7 +3,7 @@ layout: post
 title: "Developing cross-platform desktop games with wxWidgets"
 description: " "
 date: 2023-09-18
-tags: [include, wxWidgets]
+tags: [wxWidgets]
 comments: true
 share: true
 ---

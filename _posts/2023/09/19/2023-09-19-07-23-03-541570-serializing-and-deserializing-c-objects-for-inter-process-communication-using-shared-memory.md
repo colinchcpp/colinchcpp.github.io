@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing C++ objects for inter-process communication using shared memory"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, include, include, include, include, Serialization, SharedMemory]
+tags: [Serialization, SharedMemory]
 comments: true
 share: true
 ---

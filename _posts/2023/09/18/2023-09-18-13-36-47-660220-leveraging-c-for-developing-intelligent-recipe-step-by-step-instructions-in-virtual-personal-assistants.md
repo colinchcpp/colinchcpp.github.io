@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging C++ for developing intelligent recipe step-by-step instructions in virtual personal assistants"
 description: " "
 date: 2023-09-18
-tags: [include, techblog]
+tags: [techblog]
 comments: true
 share: true
 ---

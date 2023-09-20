@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing code size with `auto` in resource-constrained environments"
 description: " "
 date: 2023-09-15
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

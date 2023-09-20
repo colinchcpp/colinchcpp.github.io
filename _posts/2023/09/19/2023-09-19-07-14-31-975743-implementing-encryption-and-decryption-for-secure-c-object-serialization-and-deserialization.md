@@ -3,7 +3,7 @@ layout: post
 title: "Implementing encryption and decryption for secure C++ object serialization and deserialization"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, encryption]
+tags: [encryption]
 comments: true
 share: true
 ---

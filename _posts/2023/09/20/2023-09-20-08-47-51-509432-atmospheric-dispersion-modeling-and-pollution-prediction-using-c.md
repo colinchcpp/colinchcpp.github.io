@@ -3,7 +3,7 @@ layout: post
 title: "Atmospheric dispersion modeling and pollution prediction using C++"
 description: " "
 date: 2023-09-20
-tags: [include, AirPollution]
+tags: [AirPollution]
 comments: true
 share: true
 ---

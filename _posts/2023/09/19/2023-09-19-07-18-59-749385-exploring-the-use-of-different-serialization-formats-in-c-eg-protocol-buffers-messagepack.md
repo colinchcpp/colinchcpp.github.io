@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the use of different serialization formats in C++ (e.g., Protocol Buffers, MessagePack)"
 description: " "
 date: 2023-09-19
-tags: [include, serialization]
+tags: [serialization]
 comments: true
 share: true
 ---

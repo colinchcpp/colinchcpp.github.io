@@ -3,7 +3,7 @@ layout: post
 title: "Designing personalized virtual personal assistants using C++"
 description: " "
 date: 2023-09-18
-tags: [include, virtualassistant]
+tags: [virtualassistant]
 comments: true
 share: true
 ---

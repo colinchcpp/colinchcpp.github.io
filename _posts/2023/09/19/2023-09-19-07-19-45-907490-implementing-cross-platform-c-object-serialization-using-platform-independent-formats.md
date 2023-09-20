@@ -3,7 +3,7 @@ layout: post
 title: "Implementing cross-platform C++ object serialization using platform-independent formats"
 description: " "
 date: 2023-09-19
-tags: [include, include, include, serialization]
+tags: [serialization]
 comments: true
 share: true
 ---

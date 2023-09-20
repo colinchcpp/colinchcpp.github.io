@@ -3,7 +3,7 @@ layout: post
 title: "Designing virtual personal assistants with intelligent travel expense management using C++"
 description: " "
 date: 2023-09-18
-tags: [include, intelligentassistants]
+tags: [intelligentassistants]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Internet of Things (IoT) applications with C++"
 description: " "
 date: 2023-09-13
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

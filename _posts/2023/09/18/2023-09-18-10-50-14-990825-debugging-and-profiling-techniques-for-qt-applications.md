@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and profiling techniques for Qt applications"
 description: " "
 date: 2023-09-18
-tags: [include, DebuggingTechniques]
+tags: [DebuggingTechniques]
 comments: true
 share: true
 ---

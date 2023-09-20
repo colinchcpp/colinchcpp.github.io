@@ -3,7 +3,7 @@ layout: post
 title: "Developing cross-platform games with Qt's game engine module"
 description: " "
 date: 2023-09-18
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

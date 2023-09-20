@@ -3,7 +3,7 @@ layout: post
 title: "Designing virtual personal assistants with personalized health monitoring capabilities using C++"
 description: " "
 date: 2023-09-18
-tags: [include, virtualpersonalassistants]
+tags: [virtualpersonalassistants]
 comments: true
 share: true
 ---
