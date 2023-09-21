@@ -15,6 +15,7 @@ In algorithmic trading, high-frequency pairs selection plays a crucial role in m
 Mean reversion is a popular strategy in pairs trading that aims to capitalize on the reversion of asset prices to their mean. The algorithm involves selecting pairs of assets that have historically moved together but have deviated from their average relationship. Here's an example implementation in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <cmath>
@@ -65,6 +66,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## 2. Co-Integration
@@ -72,6 +74,7 @@ int main() {
 Co-integration is another powerful technique used in pairs trading. It involves identifying pairs of assets that have a long-term relationship, even though their individual prices may exhibit short-term divergence. Here's an example implementation of co-integration algorithm in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <cmath>
@@ -134,6 +137,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## Conclusion

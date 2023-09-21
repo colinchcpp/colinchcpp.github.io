@@ -54,6 +54,7 @@ tensorflow::Output loss = tensorflow::ops::MeanSquaredError(scope.WithOpName("lo
 We can then proceed to train the model using the training data:
 
 ```cpp
+{% raw %}
 // Create a session and initialize variables
 tensorflow::ClientSession session(scope);
 TF_CHECK_OK(session.Run({}, {}, {"init_all_vars_op"}, nullptr));
@@ -64,17 +65,20 @@ tensorflow::Tensor y(tensorflow::DT_FLOAT, tensorflow::TensorShape({batch_size, 
 // ... fill tensors with training data
 
 tensorflow::run(session, {{"input", x}, {"output", y}}, {"train_op", "loss"}, &outputs);
+{% endraw %}
 ```
 
 Finally, we can use the trained model for making predictions:
 
 ```cpp
+{% raw %}
 // Create inference data
 tensorflow::Tensor inference_data(tensorflow::DT_FLOAT, tensorflow::TensorShape({num_samples, num_features}));
 // ... fill inference data with test data
 
 // Get predictions
 tensorflow::run(session, {{"input", inference_data}}, {"output"}, &outputs);
+{% endraw %}
 ```
 
 ## Conclusion
