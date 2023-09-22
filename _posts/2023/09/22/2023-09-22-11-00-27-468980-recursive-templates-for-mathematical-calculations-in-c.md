@@ -3,7 +3,7 @@ layout: post
 title: "Recursive templates for mathematical calculations in C++"
 description: " "
 date: 2023-09-22
-tags: [include, MathComputations]
+tags: [MathComputations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading capabilities of C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, include, programming, multithreading]
+tags: [programming, multithreading]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading system deployment and maintenance in C++"
 description: " "
 date: 2023-09-21
-tags: [include, finance, trading]
+tags: [finance, trading]
 comments: true
 share: true
 ---

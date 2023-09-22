@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading infrastructure using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, include]
+tags: [include]
 comments: true
 share: true
 ---

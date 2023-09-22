@@ -3,7 +3,7 @@ layout: post
 title: "Machine learning in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, machinelearning, highfrequencytrading]
+tags: [machinelearning, highfrequencytrading]
 comments: true
 share: true
 ---

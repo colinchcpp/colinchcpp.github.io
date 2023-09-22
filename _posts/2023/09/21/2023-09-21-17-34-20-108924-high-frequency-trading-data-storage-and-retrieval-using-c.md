@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading data storage and retrieval using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, DataStorage]
+tags: [DataStorage]
 comments: true
 share: true
 ---

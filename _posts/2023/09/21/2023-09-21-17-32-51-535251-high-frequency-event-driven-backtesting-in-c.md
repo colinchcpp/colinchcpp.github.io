@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency event-driven backtesting in C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, programming, backtesting]
+tags: [programming, backtesting]
 comments: true
 share: true
 ---

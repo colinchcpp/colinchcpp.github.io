@@ -3,7 +3,7 @@ layout: post
 title: "Risk management systems in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, Finance, HighFrequencyTrading]
+tags: [Finance, HighFrequencyTrading]
 comments: true
 share: true
 ---

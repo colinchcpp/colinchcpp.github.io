@@ -3,7 +3,7 @@ layout: post
 title: "Financial time series forecasting in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, finance]
+tags: [finance]
 comments: true
 share: true
 ---

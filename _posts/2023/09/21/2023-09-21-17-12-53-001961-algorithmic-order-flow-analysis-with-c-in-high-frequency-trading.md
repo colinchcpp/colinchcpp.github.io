@@ -3,7 +3,7 @@ layout: post
 title: "Algorithmic order flow analysis with C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, algorithmictrading, orderflowanalysis]
+tags: [algorithmictrading, orderflowanalysis]
 comments: true
 share: true
 ---

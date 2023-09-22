@@ -3,7 +3,7 @@ layout: post
 title: "How does C++ handle runtime type identification?"
 description: " "
 date: 2023-09-21
-tags: [include, include, Cplusplus, RTTI]
+tags: [Cplusplus, RTTI]
 comments: true
 share: true
 ---

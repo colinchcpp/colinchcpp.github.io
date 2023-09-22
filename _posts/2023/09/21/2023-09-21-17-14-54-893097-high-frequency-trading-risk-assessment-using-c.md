@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading risk assessment using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, include, include, RiskAssessment]
+tags: [RiskAssessment]
 comments: true
 share: true
 ---

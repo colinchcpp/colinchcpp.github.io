@@ -3,7 +3,7 @@ layout: post
 title: "Real-time slippage estimation and modeling in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, HighFrequencyTrading]
+tags: [HighFrequencyTrading]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Statistical arbitrage techniques in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, StatisticalArbitrage, PairsTrading, TimeSeriesAnalysis]
+tags: [StatisticalArbitrage, PairsTrading, TimeSeriesAnalysis]
 comments: true
 share: true
 ---

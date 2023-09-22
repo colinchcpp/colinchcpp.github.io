@@ -3,7 +3,7 @@ layout: post
 title: "Real-time sentiment analysis in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, FinTech, HighFrequencyTrading]
+tags: [FinTech, HighFrequencyTrading]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Reflection and implementing reactive programming or event-driven architectures in C++."
 description: " "
 date: 2023-09-21
-tags: [include, include, include, ReactiveProgramming, EventDrivenArchitectures]
+tags: [ReactiveProgramming, EventDrivenArchitectures]
 comments: true
 share: true
 ---

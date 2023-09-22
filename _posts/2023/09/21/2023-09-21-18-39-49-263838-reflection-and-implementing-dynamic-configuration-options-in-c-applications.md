@@ -3,7 +3,7 @@ layout: post
 title: "Reflection and implementing dynamic configuration options in C++ applications."
 description: " "
 date: 2023-09-21
-tags: [include, reflection, dynamicconfiguration, boost]
+tags: [reflection, dynamicconfiguration, boost]
 comments: true
 share: true
 ---

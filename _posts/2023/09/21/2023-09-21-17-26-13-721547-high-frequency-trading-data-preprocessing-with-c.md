@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading data preprocessing with C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, techblog, dataPreprocessing]
+tags: [techblog, dataPreprocessing]
 comments: true
 share: true
 ---

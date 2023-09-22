@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency order flow forecasting with C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, finance, trading, orderflow]
+tags: [finance, trading, orderflow]
 comments: true
 share: true
 ---

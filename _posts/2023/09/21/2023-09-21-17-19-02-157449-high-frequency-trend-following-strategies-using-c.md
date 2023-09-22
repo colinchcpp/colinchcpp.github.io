@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trend following strategies using C++"
 description: " "
 date: 2023-09-21
-tags: [include, trendfollowing]
+tags: [trendfollowing]
 comments: true
 share: true
 ---

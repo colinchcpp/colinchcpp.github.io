@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the concept of runtime type information (RTTI) in C++."
 description: " "
 date: 2023-09-21
-tags: [include, include, RTTI]
+tags: [RTTI]
 comments: true
 share: true
 ---

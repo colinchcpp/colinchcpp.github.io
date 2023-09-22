@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency alpha model construction using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, include, include, AlphaModel, HighFrequencyTrading, CppProgramming]
+tags: [AlphaModel, HighFrequencyTrading, CppProgramming]
 comments: true
 share: true
 ---

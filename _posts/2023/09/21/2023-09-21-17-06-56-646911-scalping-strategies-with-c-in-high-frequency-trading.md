@@ -3,7 +3,7 @@ layout: post
 title: "Scalping strategies with C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, trading, scalping]
+tags: [trading, scalping]
 comments: true
 share: true
 ---

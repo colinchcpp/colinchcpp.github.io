@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency market impact analysis with C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, finance, highfrequencytrading]
+tags: [finance, highfrequencytrading]
 comments: true
 share: true
 ---

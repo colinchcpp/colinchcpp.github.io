@@ -3,7 +3,7 @@ layout: post
 title: "Reflection and implementing dynamic graphical user interface (GUI) layout or composition in C++."
 description: " "
 date: 2023-09-21
-tags: [include, include, programming, reflection, dynamicGUI]
+tags: [programming, reflection, dynamicGUI]
 comments: true
 share: true
 ---

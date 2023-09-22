@@ -3,7 +3,7 @@ layout: post
 title: "Market surveillance systems with C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, finance, surveillance, highfrequencytrading, marketintegrity]
+tags: [finance, surveillance, highfrequencytrading, marketintegrity]
 comments: true
 share: true
 ---

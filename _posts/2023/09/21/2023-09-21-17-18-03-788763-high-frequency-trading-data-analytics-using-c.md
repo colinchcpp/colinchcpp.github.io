@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading data analytics using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, DataAnalytics]
+tags: [DataAnalytics]
 comments: true
 share: true
 ---

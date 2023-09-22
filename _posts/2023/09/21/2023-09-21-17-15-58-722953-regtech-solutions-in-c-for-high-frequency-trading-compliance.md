@@ -3,7 +3,7 @@ layout: post
 title: "RegTech solutions in C++ for high-frequency trading compliance"
 description: " "
 date: 2023-09-21
-tags: [include, include, RegTech, Compliance]
+tags: [RegTech, Compliance]
 comments: true
 share: true
 ---

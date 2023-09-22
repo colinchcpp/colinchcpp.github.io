@@ -3,7 +3,7 @@ layout: post
 title: "Market impact modeling in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, trading]
+tags: [trading]
 comments: true
 share: true
 ---

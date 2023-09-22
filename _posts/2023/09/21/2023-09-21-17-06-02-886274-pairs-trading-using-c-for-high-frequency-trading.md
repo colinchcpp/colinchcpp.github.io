@@ -3,7 +3,7 @@ layout: post
 title: "Pairs trading using C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, PairsTrading, CppProgramming, PairsTrading, CppProgramming]
+tags: [PairsTrading, CppProgramming, PairsTrading, CppProgramming]
 comments: true
 share: true
 ---

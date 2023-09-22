@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency arbitrage strategies using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, finance, algorithmictrading]
+tags: [finance, algorithmictrading]
 comments: true
 share: true
 ---

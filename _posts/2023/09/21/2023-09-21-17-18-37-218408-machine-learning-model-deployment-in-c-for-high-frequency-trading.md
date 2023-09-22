@@ -3,7 +3,7 @@ layout: post
 title: "Machine learning model deployment in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, MachineLearning, ModelDeployment]
+tags: [MachineLearning, ModelDeployment]
 comments: true
 share: true
 ---

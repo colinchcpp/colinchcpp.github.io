@@ -3,7 +3,7 @@ layout: post
 title: "Big data analysis in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, highfrequencytrading, bigdataanalysis]
+tags: [highfrequencytrading, bigdataanalysis]
 comments: true
 share: true
 ---

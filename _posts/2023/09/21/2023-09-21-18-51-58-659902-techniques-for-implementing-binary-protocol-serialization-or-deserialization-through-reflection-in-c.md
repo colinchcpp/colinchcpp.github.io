@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing binary protocol serialization or deserialization through reflection in C++."
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, include, include, Reflection, Serialization, Deserialization]
+tags: [Reflection, Serialization, Deserialization]
 comments: true
 share: true
 ---

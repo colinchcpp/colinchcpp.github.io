@@ -3,7 +3,7 @@ layout: post
 title: "Real-time quote stuffing detection and prevention in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, quoteStuffing, highFrequencyTrading]
+tags: [quoteStuffing, highFrequencyTrading]
 comments: true
 share: true
 ---

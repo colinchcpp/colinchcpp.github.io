@@ -3,7 +3,7 @@ layout: post
 title: "Trend detection and filtering techniques in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, finance, trading, trenddetection, movingaverages, technicalanalysis]
+tags: [finance, trading, trenddetection, movingaverages, technicalanalysis]
 comments: true
 share: true
 ---

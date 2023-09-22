@@ -3,7 +3,7 @@ layout: post
 title: "Networking and connectivity in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, Networking, Connectivity]
+tags: [Networking, Connectivity]
 comments: true
 share: true
 ---

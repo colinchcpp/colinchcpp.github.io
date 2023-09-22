@@ -3,7 +3,7 @@ layout: post
 title: "Time series analysis in C++ for high-frequency trading signals"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, trading, time, analysis]
+tags: [trading, time, analysis]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Reflection and implementing scripting languages for C++ applications."
 description: " "
 date: 2023-09-21
-tags: [include, ScriptingLanguages]
+tags: [ScriptingLanguages]
 comments: true
 share: true
 ---

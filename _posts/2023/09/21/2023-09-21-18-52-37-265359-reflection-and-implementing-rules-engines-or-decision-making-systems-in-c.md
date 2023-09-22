@@ -3,7 +3,7 @@ layout: post
 title: "Reflection and implementing rules engines or decision-making systems in C++."
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, Reflection]
+tags: [Reflection]
 comments: true
 share: true
 ---

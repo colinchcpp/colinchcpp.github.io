@@ -3,7 +3,7 @@ layout: post
 title: "Real-time risk monitoring and control in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, tags, highfrequencytrading, riskmonitoring]
+tags: [tags, highfrequencytrading, riskmonitoring]
 comments: true
 share: true
 ---

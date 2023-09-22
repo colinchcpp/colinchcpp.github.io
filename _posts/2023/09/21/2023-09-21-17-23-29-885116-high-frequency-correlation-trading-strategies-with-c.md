@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency correlation trading strategies with C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, include, include, programming, correlationtrading, highfrequencytrading, tradingstrategies]
+tags: [programming, correlationtrading, highfrequencytrading, tradingstrategies]
 comments: true
 share: true
 ---

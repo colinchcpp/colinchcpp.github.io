@@ -3,7 +3,7 @@ layout: post
 title: "C++ programming best practices for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, include]
+tags: [include]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Automated trading strategies using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, trading, algorithmictrading]
+tags: [trading, algorithmictrading]
 comments: true
 share: true
 ---

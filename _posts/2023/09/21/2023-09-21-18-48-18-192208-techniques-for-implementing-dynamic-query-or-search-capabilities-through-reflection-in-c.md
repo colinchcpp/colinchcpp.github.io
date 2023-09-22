@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing dynamic query or search capabilities through reflection in C++."
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, coding, reflection, dynamicquery, programming]
+tags: [coding, reflection, dynamicquery, programming]
 comments: true
 share: true
 ---

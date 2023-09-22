@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency stop-loss and take-profit strategies using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, programming]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Running live trading systems in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, include, include]
+tags: [include]
 comments: true
 share: true
 ---

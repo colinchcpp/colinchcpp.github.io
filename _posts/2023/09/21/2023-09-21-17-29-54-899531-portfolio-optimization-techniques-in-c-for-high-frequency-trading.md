@@ -3,7 +3,7 @@ layout: post
 title: "Portfolio optimization techniques in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, portfoliooptimization]
+tags: [portfoliooptimization]
 comments: true
 share: true
 ---

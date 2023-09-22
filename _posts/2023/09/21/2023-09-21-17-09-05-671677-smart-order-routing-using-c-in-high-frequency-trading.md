@@ -3,7 +3,7 @@ layout: post
 title: "Smart order routing using C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, hashtags, smartorderrouting]
+tags: [hashtags, smartorderrouting]
 comments: true
 share: true
 ---

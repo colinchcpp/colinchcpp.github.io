@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency order book imbalance strategies using C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, trading, highfrequencytrading]
+tags: [trading, highfrequencytrading]
 comments: true
 share: true
 ---

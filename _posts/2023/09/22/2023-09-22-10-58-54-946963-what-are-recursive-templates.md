@@ -15,6 +15,7 @@ To understand how recursive templates work, consider a file directory structure.
 Here is an example of a recursive template for rendering a file directory:
 
 ```html
+{% raw %}
 {% template directory %}
   <ul>
     {% for file in directory.files %}
@@ -29,6 +30,7 @@ Here is an example of a recursive template for rendering a file directory:
     {% endfor %}
   </ul>
 {% endtemplate %}
+{% endraw %}
 ```
 
 In this example, the `directory` template is defined to render a list of files. It checks if each file is a directory and if so, includes the `directory` template again for the subdirectory. This process continues recursively until all levels of the directory structure are rendered.

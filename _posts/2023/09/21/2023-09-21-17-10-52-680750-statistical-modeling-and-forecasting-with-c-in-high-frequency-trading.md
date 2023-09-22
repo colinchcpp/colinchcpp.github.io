@@ -3,7 +3,7 @@ layout: post
 title: "Statistical modeling and forecasting with C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, StatisticalModeling]
+tags: [StatisticalModeling]
 comments: true
 share: true
 ---

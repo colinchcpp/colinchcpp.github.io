@@ -3,7 +3,7 @@ layout: post
 title: "Backtesting and simulation using C++ for high-frequency trading strategies"
 description: " "
 date: 2023-09-21
-tags: [include, include, Backtesting]
+tags: [Backtesting]
 comments: true
 share: true
 ---

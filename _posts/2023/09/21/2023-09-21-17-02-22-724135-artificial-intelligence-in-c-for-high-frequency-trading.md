@@ -3,7 +3,7 @@ layout: post
 title: "Artificial intelligence in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, artificialintelligence, highfrequencytrading]
+tags: [artificialintelligence, highfrequencytrading]
 comments: true
 share: true
 ---

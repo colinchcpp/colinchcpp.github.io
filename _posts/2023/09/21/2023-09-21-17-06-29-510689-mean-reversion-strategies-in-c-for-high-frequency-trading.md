@@ -3,7 +3,7 @@ layout: post
 title: "Mean reversion strategies in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

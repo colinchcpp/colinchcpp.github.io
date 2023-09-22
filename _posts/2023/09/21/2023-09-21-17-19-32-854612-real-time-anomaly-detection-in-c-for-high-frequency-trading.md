@@ -3,7 +3,7 @@ layout: post
 title: "Real-time anomaly detection in C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, AnomalyDetection, RealTime]
+tags: [AnomalyDetection, RealTime]
 comments: true
 share: true
 ---

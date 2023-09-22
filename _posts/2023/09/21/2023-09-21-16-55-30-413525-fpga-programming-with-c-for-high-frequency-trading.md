@@ -3,7 +3,7 @@ layout: post
 title: "FPGA programming with C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, FPGA]
+tags: [FPGA]
 comments: true
 share: true
 ---

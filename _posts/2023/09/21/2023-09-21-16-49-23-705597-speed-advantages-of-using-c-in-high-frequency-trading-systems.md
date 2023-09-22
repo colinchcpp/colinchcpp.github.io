@@ -3,7 +3,7 @@ layout: post
 title: "Speed advantages of using C++ in high-frequency trading systems"
 description: " "
 date: 2023-09-21
-tags: [include, include]
+tags: [include]
 comments: true
 share: true
 ---

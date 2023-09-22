@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency deep learning approaches in C++ for trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, include, include, deeplearning, algorithmictrading]
+tags: [deeplearning, algorithmictrading]
 comments: true
 share: true
 ---

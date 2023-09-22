@@ -3,7 +3,7 @@ layout: post
 title: "Real-time order routing optimization using C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, OrderRouting]
+tags: [OrderRouting]
 comments: true
 share: true
 ---

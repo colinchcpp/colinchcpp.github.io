@@ -3,7 +3,7 @@ layout: post
 title: "Real-time trade monitoring systems with C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, highfrequencytrading, realtime]
+tags: [highfrequencytrading, realtime]
 comments: true
 share: true
 ---

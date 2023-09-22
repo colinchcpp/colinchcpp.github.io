@@ -3,7 +3,7 @@ layout: post
 title: "GPU programming with C++ for high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include, include, GPUProgramming]
+tags: [GPUProgramming]
 comments: true
 share: true
 ---
