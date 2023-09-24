@@ -56,8 +56,10 @@ In the updated version, we added a new template function that handles the case w
 With this recursive template approach, we can now use our `print` function with nested containers as well. For example:
 
 ```cpp
+{% raw %}
 std::vector<std::vector<int>> nested = {{1, 2}, {3, 4, 5}, {6}};
 print(nested); // Output: 1 2 3 4 5 6
+{% endraw %}
 ```
 
 By using recursive templates, we can achieve template code compatibility and handle complex container types without compromising the flexibility and power of C++ templates.

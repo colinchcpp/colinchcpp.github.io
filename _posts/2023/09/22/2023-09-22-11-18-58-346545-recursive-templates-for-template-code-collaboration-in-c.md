@@ -68,12 +68,14 @@ In the above code, we define a `Vector` template that takes two parameters: the 
 By using this template, we can create vectors of different types and sizes and perform operations on them. For example:
 
 ```cpp
+{% raw %}
 Vector<int, 3> v1{{1, 2, 3}};
 Vector<int, 3> v2{{4, 5, 6}};
 
 auto sum = v1 + v2;                // Vector<int, 3> - sum of v1 and v2
 auto difference = v2 - v1;         // Vector<int, 3> - difference between v2 and v1
 auto dot = v1.dotProduct(v2);      // int - dot product of v1 and v2
+{% endraw %}
 ```
 
 ## Conclusion

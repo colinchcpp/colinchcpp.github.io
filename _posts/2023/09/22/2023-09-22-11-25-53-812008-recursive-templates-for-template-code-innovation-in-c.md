@@ -52,6 +52,7 @@ Recursive templates enable code innovation by allowing the creation of generic c
 For example, you can define a recursive template function to flatten a nested structure, regardless of its complexity. This single function can handle nested containers, arrays, or any other custom data structure:
 
 ```cpp
+{% raw %}
 template <typename T>
 void flatten(T& container, std::vector<typename T::value_type>& result)
 {
@@ -71,6 +72,7 @@ void flatten(const T& value, std::vector<T>& result)
 std::vector<std::vector<int>> nested{{1, 2}, {3, 4}};
 std::vector<int> flattened;
 flatten(nested, flattened);    // flattened = {1, 2, 3, 4}
+{% endraw %}
 ```
 
 In this example, the `flatten` template function recursively flattens a nested structure into a flat `std::vector`. It handles nested containers by iterating over the elements and recursively calling itself for each element until it reaches a non-container type.
