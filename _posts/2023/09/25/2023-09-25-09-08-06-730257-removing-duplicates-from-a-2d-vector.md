@@ -13,18 +13,22 @@ share: true
 Let's say you have a 2D vector containing integers:
 
 ```cpp
+{% raw %}
 std::vector<std::vector<int>> matrix = {{1, 2, 3},
                                          {4, 5, 6},
                                          {1, 2, 3},
                                          {7, 8, 9}};
+{% endraw %}
 ```
 
 Your goal is to remove the duplicate sub-vectors from this matrix, resulting in the following unique elements:
 
 ```cpp
+{% raw %}
 {{1, 2, 3},
  {4, 5, 6},
  {7, 8, 9}};
+ {% endraw %}
 ```
 
 ## The Solution
