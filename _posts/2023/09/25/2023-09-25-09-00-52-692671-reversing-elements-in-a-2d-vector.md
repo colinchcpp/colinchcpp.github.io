@@ -46,6 +46,7 @@ In this code snippet, we have a 2D vector `vec` initialized with some values. We
 If you want more control over the reversal process, you can also implement a custom reversal algorithm. Here's an example implementation:
 
 ```c++
+{% raw %}
 #include <iostream>
 #include <vector>
 
@@ -70,6 +71,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this code snippet, we define a templated function `reverseVector` that takes a 2D vector as a parameter and reverses the elements in each row using the `reverse` function. We then call this function on our vector in the `main` function and print the modified vector.
