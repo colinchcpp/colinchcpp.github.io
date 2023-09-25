@@ -21,6 +21,7 @@ To access the first element of a 2D vector in C++, we can use the `at()` functio
 Here's an example:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 
@@ -37,6 +38,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In the code above, we create a 2D vector `myVector` and initialize it with some values. We then access the first element using both the `at()` function and the index operator `[]`. The output will be:
