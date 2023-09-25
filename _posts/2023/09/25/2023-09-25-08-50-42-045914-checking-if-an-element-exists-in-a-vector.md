@@ -3,7 +3,7 @@ layout: post
 title: "Checking if an element exists in a vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing graph algorithms with vectors"
 description: " "
 date: 2023-09-25
-tags: [include, graph]
+tags: [graph]
 comments: true
 share: true
 ---

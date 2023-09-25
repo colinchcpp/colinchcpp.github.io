@@ -3,7 +3,7 @@ layout: post
 title: "Removing duplicates from a 2D vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -34,6 +34,7 @@ To remove duplicates from the 2D vector, we can use a hash set to keep track of 
 Here's an example implementation in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <unordered_set>
@@ -69,6 +70,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## Conclusion

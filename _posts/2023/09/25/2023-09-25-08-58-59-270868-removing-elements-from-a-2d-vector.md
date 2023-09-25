@@ -3,7 +3,7 @@ layout: post
 title: "Removing elements from a 2D vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -15,6 +15,7 @@ Removing elements from a 2D vector can be approached in several ways, depending 
 If you are using C++, the `erase` function can be utilized to remove elements from a 2D vector. This method is ideal when you know the exact position of the element you want to remove.
 
 ```cpp
+{% raw %}
 #include <vector>
 
 int main() {
@@ -28,6 +29,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this example, the second row (`rowToRemove = 1`) is removed using the `erase` function, which takes an iterator as an argument. To remove a specific column, you can use the `erase` function on individual rows.
@@ -37,6 +39,7 @@ In this example, the second row (`rowToRemove = 1`) is removed using the `erase`
 The `remove_if` algorithm in C++ is another powerful tool for removing elements based on a certain condition. This method is useful when you want to remove elements that meet specific criteria.
 
 ```cpp
+{% raw %}
 #include <vector>
 #include <algorithm>
 
@@ -55,6 +58,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this example, the `isEven` function is used as the condition to remove even numbers from the second row. The `remove_if` algorithm returns an iterator pointing to the new end of the vector, and then the `erase` function is used to delete the elements.

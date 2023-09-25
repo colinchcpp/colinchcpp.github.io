@@ -35,6 +35,7 @@ We have a 2D vector `data` of custom objects, where each object has several attr
 Let's see how we can implement a solution to this problem using C++:
 
 ```cpp
+{% raw %}
 // Define the custom object structure
 struct CustomObject {
     int id;
@@ -72,6 +73,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this example, we define a `CustomObject` structure representing our custom object with `id` and `name` attributes. We then define the `removeObjectsWithValue` function that takes the 2D vector `data` and the `value` parameter. 

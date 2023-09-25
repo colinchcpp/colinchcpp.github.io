@@ -3,7 +3,7 @@ layout: post
 title: "Erasing elements at a specific position in a 2D vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -13,6 +13,7 @@ When working with a 2D vector in C++ and you need to remove elements at a specif
 Here's an example code snippet demonstrating how to erase elements at a specific position in a 2D vector:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 
@@ -32,6 +33,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this code, we have a 2D vector `matrix` containing the numbers 1 to 9 arranged in a 3x3 grid. We want to remove the element at position (1, 1), which corresponds to the number 5. 

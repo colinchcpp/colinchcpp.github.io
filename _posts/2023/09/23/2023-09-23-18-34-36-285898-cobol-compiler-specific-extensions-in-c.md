@@ -3,7 +3,7 @@ layout: post
 title: "COBOL Compiler-specific extensions in C++"
 description: " "
 date: 2023-09-23
-tags: [include, cobol]
+tags: [cobol]
 comments: true
 share: true
 ---

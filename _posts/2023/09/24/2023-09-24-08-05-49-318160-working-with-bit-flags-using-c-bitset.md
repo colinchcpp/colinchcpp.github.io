@@ -3,7 +3,7 @@ layout: post
 title: "Working with bit flags using C++ Bitset"
 description: " "
 date: 2023-09-24
-tags: [include, cplusplus]
+tags: [cplusplus]
 comments: true
 share: true
 ---

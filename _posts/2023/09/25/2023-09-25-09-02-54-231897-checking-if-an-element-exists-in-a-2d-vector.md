@@ -9,6 +9,7 @@ share: true
 ---
 
 ```cpp
+{% raw %}
 std::vector<std::vector<int>> matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
 int target = 5;
 bool elementExists = false;
@@ -28,6 +29,7 @@ for (int i = 0; i < matrix.size(); i++) {
         break;
     }
 }
+{% endraw %}
 ```
 
 Here, we use a boolean variable `elementExists` to keep track of whether the element has been found or not. If the element is found, we set `elementExists` to `true` and break out of both loops.

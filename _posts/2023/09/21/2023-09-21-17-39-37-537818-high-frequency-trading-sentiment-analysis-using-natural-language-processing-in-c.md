@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency trading sentiment analysis using natural language processing in C++"
 description: " "
 date: 2023-09-21
-tags: [include, include, algorithm]
+tags: [algorithm]
 comments: true
 share: true
 ---

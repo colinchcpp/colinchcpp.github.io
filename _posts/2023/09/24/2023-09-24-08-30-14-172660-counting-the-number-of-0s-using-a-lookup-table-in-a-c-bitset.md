@@ -3,7 +3,7 @@ layout: post
 title: "Counting the number of 0s using a lookup table in a C++ Bitset"
 description: " "
 date: 2023-09-24
-tags: [include, techblog]
+tags: [techblog]
 comments: true
 share: true
 ---

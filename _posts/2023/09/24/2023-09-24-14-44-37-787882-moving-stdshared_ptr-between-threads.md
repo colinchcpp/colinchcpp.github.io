@@ -3,7 +3,7 @@ layout: post
 title: "Moving `std::shared_ptr` between threads"
 description: " "
 date: 2023-09-24
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

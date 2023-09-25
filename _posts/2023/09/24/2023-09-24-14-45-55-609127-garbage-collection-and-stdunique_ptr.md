@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection and `std::unique_ptr`"
 description: " "
 date: 2023-09-24
-tags: [include, smartpointers]
+tags: [smartpointers]
 comments: true
 share: true
 ---

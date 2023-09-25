@@ -3,7 +3,7 @@ layout: post
 title: "Accessing the first and last element of a 2D vector"
 description: " "
 date: 2023-09-25
-tags: [Vectors, include]
+tags: [Vectors]
 comments: true
 share: true
 ---
@@ -53,6 +53,7 @@ Accessing the last element of a 2D vector can be done in a similar way to access
 Let's see an example:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 
@@ -69,6 +70,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In the code above, we again create a 2D vector `myVector` and initialize it with some values. We then access the last element using both the `back()` function and the index operator `[]`. The output will be:

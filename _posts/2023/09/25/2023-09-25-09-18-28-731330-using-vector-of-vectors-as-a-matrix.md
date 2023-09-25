@@ -3,7 +3,7 @@ layout: post
 title: "Using vector of vectors as a matrix"
 description: " "
 date: 2023-09-25
-tags: [include, cplusplus]
+tags: [cplusplus]
 comments: true
 share: true
 ---
@@ -50,6 +50,7 @@ Since we are using a vector of vectors to represent a matrix, we can perform var
 To perform these operations, we simply need to loop through the matrices and apply the corresponding operations to each element.
 
 ```cpp
+{% raw %}
 std::vector<std::vector<int>> matrix1 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
 std::vector<std::vector<int>> matrix2 = {{9, 8, 7}, {6, 5, 4}, {3, 2, 1}};
 std::vector<std::vector<int>> result(3, std::vector<int>(3));
@@ -59,6 +60,7 @@ for (int i = 0; i < 3; ++i) {
         result[i][j] = matrix1[i][j] + matrix2[i][j]; // Perform addition
     }
 }
+{% endraw %}
 ```
 
 ## Conclusion

@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to C++ vectors"
 description: " "
 date: 2023-09-25
-tags: [include, cplusplus]
+tags: [cplusplus]
 comments: true
 share: true
 ---

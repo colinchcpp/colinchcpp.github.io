@@ -3,7 +3,7 @@ layout: post
 title: "Removing elements from a vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

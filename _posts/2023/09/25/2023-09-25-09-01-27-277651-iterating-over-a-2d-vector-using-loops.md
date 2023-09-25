@@ -3,7 +3,7 @@ layout: post
 title: "Iterating over a 2D vector using loops"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -13,6 +13,7 @@ share: true
 In C++, you can iterate over a 2D vector using nested for loops. Here's an example:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 
@@ -28,6 +29,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In the above code, we use two nested for loops to iterate over each element in the 2D vector. The outer loop iterates over each row, and the inner loop iterates over each column within that row. We access the elements using `matrix[row][col]`, where `row` is the current row and `col` is the current column.

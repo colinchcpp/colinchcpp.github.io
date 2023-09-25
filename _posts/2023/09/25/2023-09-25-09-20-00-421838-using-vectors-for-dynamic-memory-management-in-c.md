@@ -3,7 +3,7 @@ layout: post
 title: "Using vectors for dynamic memory management in C++"
 description: " "
 date: 2023-09-25
-tags: [include, cplusplus]
+tags: [cplusplus]
 comments: true
 share: true
 ---

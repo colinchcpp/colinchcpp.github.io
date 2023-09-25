@@ -3,7 +3,7 @@ layout: post
 title: "FASM Compiler-specific extensions in C++"
 description: " "
 date: 2023-09-23
-tags: [include, assembly]
+tags: [assembly]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a 2D vector is empty"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -29,6 +29,7 @@ In the above example, the `not` operator is used to check if the `matrix` list i
 In C++, checking if a 2D vector is empty involves using the `empty()` function provided by the `std::vector` library. Here's an example:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 
@@ -43,6 +44,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In the C++ example, the `empty()` function is used to check if `matrix` and `empty_matrix` are empty or not. The function returns `true` if the vector is empty and `false` otherwise. By using `std::boolalpha` with `std::cout`, we print `true` and `false` instead of `1` and `0`, respectively.

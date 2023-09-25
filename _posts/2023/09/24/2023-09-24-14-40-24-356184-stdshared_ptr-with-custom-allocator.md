@@ -3,7 +3,7 @@ layout: post
 title: "`std::shared_ptr` with custom allocator"
 description: " "
 date: 2023-09-24
-tags: [include, stdsharedptr]
+tags: [stdsharedptr]
 comments: true
 share: true
 ---

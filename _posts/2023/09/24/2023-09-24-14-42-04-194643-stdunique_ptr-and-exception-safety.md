@@ -3,7 +3,7 @@ layout: post
 title: "`std::unique_ptr` and exception safety"
 description: " "
 date: 2023-09-24
-tags: [include, smartpointers]
+tags: [smartpointers]
 comments: true
 share: true
 ---

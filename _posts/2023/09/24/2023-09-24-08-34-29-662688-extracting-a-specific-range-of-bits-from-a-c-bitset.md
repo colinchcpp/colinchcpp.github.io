@@ -3,7 +3,7 @@ layout: post
 title: "Extracting a specific range of bits from a C++ Bitset"
 description: " "
 date: 2023-09-24
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

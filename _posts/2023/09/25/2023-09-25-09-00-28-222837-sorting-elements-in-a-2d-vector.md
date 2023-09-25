@@ -3,7 +3,7 @@ layout: post
 title: "Sorting elements in a 2D vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -31,6 +31,7 @@ In this example, the `sort()` method is called on the `my_vector` list, with the
 In C++, sorting a 2D vector can be achieved by using the `std::sort()` function from the `<algorithm>` library. Here's an example:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -56,6 +57,7 @@ int main() {
     
     return 0;
 }
+{% endraw %}
 ```
 
 Output:

@@ -3,7 +3,7 @@ layout: post
 title: "Constructor Not Called for Temporary Objects in C++"
 description: " "
 date: 2023-09-23
-tags: [include, Constructors]
+tags: [Constructors]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Finding the minimum and maximum values in a 2D vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

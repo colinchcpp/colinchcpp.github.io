@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and testing tools for C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [debugging, testing, include]
+tags: [debugging, testing]
 comments: true
 share: true
 ---

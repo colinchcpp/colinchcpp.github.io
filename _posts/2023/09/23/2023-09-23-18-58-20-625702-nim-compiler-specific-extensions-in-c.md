@@ -3,7 +3,7 @@ layout: post
 title: "Nim Compiler-specific extensions in C++"
 description: " "
 date: 2023-09-23
-tags: [pragma, include]
+tags: [pragma]
 comments: true
 share: true
 ---

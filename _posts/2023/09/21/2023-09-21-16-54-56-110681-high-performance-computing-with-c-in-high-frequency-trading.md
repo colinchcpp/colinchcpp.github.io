@@ -3,7 +3,7 @@ layout: post
 title: "High-performance computing with C++ in high-frequency trading"
 description: " "
 date: 2023-09-21
-tags: [include]
+tags: []
 comments: true
 share: true
 ---

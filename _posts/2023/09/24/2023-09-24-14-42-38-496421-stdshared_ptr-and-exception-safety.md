@@ -3,7 +3,7 @@ layout: post
 title: "`std::shared_ptr` and exception safety"
 description: " "
 date: 2023-09-24
-tags: [include, exception]
+tags: [exception]
 comments: true
 share: true
 ---

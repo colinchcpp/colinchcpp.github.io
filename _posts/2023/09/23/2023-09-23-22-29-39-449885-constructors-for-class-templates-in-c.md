@@ -3,7 +3,7 @@ layout: post
 title: "Constructors for Class Templates in C++"
 description: " "
 date: 2023-09-23
-tags: [include, ClassTemplates]
+tags: [ClassTemplates]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Solaris Studio C++ compiler-specific extensions"
 description: " "
 date: 2023-09-23
-tags: [pragma, include]
+tags: [pragma]
 comments: true
 share: true
 ---

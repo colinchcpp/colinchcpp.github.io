@@ -3,7 +3,7 @@ layout: post
 title: "How to create and initialize a `std::shared_ptr` object"
 description: " "
 date: 2023-09-24
-tags: [include, CPlusPlus]
+tags: [CPlusPlus]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Constructors for Static Constructors in C++"
 description: " "
 date: 2023-09-23
-tags: [include, StaticConstructors]
+tags: [StaticConstructors]
 comments: true
 share: true
 ---

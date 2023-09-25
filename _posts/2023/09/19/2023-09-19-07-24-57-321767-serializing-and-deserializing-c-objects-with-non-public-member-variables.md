@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing C++ objects with non-public member variables"
 description: " "
 date: 2023-09-19
-tags: [serialization, include]
+tags: [serialization]
 comments: true
 share: true
 ---

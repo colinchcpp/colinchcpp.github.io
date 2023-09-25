@@ -3,7 +3,7 @@ layout: post
 title: "GCC C Compiler-specific extensions"
 description: " "
 date: 2023-09-23
-tags: [include, programming]
+tags: [programming]
 comments: true
 share: true
 ---

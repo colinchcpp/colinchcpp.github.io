@@ -3,7 +3,7 @@ layout: post
 title: "Polymorphism and `std::unique_ptr`"
 description: " "
 date: 2023-09-24
-tags: [include, polymorphism]
+tags: [polymorphism]
 comments: true
 share: true
 ---

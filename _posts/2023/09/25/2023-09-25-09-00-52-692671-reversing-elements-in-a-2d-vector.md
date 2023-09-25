@@ -3,7 +3,7 @@ layout: post
 title: "Reversing elements in a 2D vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -15,6 +15,7 @@ Reversing the elements in a 2D vector can be useful in various scenarios where y
 The simplest way to reverse the elements in a 2D vector is by using the built-in `reverse` function provided by the C++ Standard Library. This function allows us to reverse a range of elements in a container. Here's an example of how you can use it:
 
 ```c++
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -35,6 +36,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this code snippet, we have a 2D vector `vec` initialized with some values. We then iterate over each row of the vector using a range-based for loop and apply the `reverse` function from the `<algorithm>` header to reverse the elements in each row. Finally, we print the modified vector to verify the results.

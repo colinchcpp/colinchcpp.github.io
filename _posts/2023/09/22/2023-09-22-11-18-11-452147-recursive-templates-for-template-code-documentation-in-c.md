@@ -3,7 +3,7 @@ layout: post
 title: "Recursive templates for template code documentation in C++"
 description: " "
 date: 2023-09-22
-tags: [tech, include]
+tags: [tech]
 comments: true
 share: true
 ---

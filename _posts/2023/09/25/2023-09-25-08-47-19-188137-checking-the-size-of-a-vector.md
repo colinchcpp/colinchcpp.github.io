@@ -3,7 +3,7 @@ layout: post
 title: "Checking the size of a vector"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

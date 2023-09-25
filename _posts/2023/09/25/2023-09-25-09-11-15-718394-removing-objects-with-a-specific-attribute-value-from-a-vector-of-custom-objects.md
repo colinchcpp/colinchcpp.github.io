@@ -3,7 +3,7 @@ layout: post
 title: "Removing objects with a specific attribute value from a vector of custom objects"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

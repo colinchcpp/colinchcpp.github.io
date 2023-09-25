@@ -3,7 +3,7 @@ layout: post
 title: "Using `std::shared_ptr` with raw pointers"
 description: " "
 date: 2023-09-24
-tags: [include, SmartPointers]
+tags: [SmartPointers]
 comments: true
 share: true
 ---

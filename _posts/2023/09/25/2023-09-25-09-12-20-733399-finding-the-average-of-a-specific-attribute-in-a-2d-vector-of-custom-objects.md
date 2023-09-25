@@ -3,7 +3,7 @@ layout: post
 title: "Finding the average of a specific attribute in a 2D vector of custom objects"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

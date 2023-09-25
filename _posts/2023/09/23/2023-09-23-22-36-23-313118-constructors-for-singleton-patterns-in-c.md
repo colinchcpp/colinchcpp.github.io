@@ -3,7 +3,7 @@ layout: post
 title: "Constructors for Singleton Patterns in C++"
 description: " "
 date: 2023-09-23
-tags: [include, SingletonPattern]
+tags: [SingletonPattern]
 comments: true
 share: true
 ---

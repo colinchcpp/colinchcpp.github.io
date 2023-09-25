@@ -3,7 +3,7 @@ layout: post
 title: "Counting occurrences of a specific attribute in a 2D vector of custom objects"
 description: " "
 date: 2023-09-25
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---
@@ -15,6 +15,7 @@ Here's an example scenario: let's say we have a 2D vector `myVector` of `Person`
 To accomplish this, we can use a `std::map` to store the counts for each age value. The `std::map` will associate each age with its occurrence count.
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <map>
@@ -46,6 +47,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this code, we initialize the 2D vector `myVector` with some sample data containing multiple rows of `Person` objects. Then, we define a `std::map` named `ageCount` to store the counts for each age.

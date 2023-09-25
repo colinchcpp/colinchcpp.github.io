@@ -3,7 +3,7 @@ layout: post
 title: "Counting the number of bits in a C++ Bitset"
 description: " "
 date: 2023-09-24
-tags: [Bitset, include]
+tags: [Bitset]
 comments: true
 share: true
 ---

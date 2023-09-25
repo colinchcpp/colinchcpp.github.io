@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing limited reflection in C++."
 description: " "
 date: 2023-09-21
-tags: [define, #NAME(), #NAME(TYPE, include, programming, reflection]
+tags: [define, reflection]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Constructors with Base Class Initialization in C++"
 description: " "
 date: 2023-09-23
-tags: [include, inheritance]
+tags: [inheritance]
 comments: true
 share: true
 ---

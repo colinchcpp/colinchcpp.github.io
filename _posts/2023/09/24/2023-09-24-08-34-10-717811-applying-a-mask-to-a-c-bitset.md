@@ -3,7 +3,7 @@ layout: post
 title: "Applying a mask to a C++ Bitset"
 description: " "
 date: 2023-09-24
-tags: [include, include]
+tags: []
 comments: true
 share: true
 ---

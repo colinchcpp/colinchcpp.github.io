@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to C++ in weather prediction systems"
 description: " "
 date: 2023-09-20
-tags: [WeatherPrediction, include]
+tags: [WeatherPrediction]
 comments: true
 share: true
 ---

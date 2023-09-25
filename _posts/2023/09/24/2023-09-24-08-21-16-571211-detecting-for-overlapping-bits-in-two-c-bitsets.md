@@ -3,7 +3,7 @@ layout: post
 title: "Detecting for overlapping bits in two C++ Bitsets"
 description: " "
 date: 2023-09-24
-tags: [include, bitset]
+tags: [bitset]
 comments: true
 share: true
 ---

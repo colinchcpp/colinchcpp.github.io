@@ -20,11 +20,13 @@ struct Person {
 Now, let's assume that we have a vector of `Person` objects called `people`. We want to sort this vector based on the `age` property in ascending order. To achieve this, we can use the `std::sort` function from the C++ standard library.
 
 ```cpp
+{% raw %}
 std::vector<Person> people = {{"Alice", 25}, {"Bob", 30}, {"Charlie", 20}};
 
 std::sort(people.begin(), people.end(), [](const Person& a, const Person& b) {
     return a.age < b.age;
 });
+{% endraw %}
 ```
 
 In the code above, we pass a lambda function as the third argument to `std::sort`. This lambda function compares two `Person` objects based on their `age` property and returns `true` if the first object should come before the second object in the sorted sequence.
