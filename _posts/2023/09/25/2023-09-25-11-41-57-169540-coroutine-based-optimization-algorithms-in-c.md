@@ -3,7 +3,7 @@ layout: post
 title: "Coroutine-based optimization algorithms in C++"
 description: " "
 date: 2023-09-25
-tags: [include, optimization]
+tags: [optimization]
 comments: true
 share: true
 ---

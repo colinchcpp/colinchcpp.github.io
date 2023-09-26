@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for simplifying and reducing boilerplate code when using reflection in C++."
 description: " "
 date: 2023-09-21
-tags: [define, #name(), #name(type, reflection, codegeneration]
+tags: [define]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "High-frequency pairs trading risk assessment with C++"
 description: " "
 date: 2023-09-21
-tags: [hashtags,include,hashtags, trading, riskassessment]
+tags: [hashtags, trading, riskassessment]
 comments: true
 share: true
 ---

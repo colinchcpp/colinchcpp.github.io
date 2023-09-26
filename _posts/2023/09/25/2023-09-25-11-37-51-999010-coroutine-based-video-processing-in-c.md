@@ -3,7 +3,7 @@ layout: post
 title: "Coroutine-based video processing in C++"
 description: " "
 date: 2023-09-25
-tags: [include, video]
+tags: [video]
 comments: true
 share: true
 ---
