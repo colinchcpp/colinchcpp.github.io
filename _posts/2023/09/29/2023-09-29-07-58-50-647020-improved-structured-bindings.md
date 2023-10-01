@@ -13,11 +13,13 @@ In C++20, structured bindings have been enhanced to offer even more flexibility 
 1. **Support for non-constant expressions**: In C++20, structured bindings can be used with non-constant expressions. This means we can now use structured bindings with objects that are not declared as `const`. This allows for better code organization and flexibility.
 
 ```cpp
+{% raw %}
 std::map<int, std::string> students{{1, "John"}, {2, "Alice"}, {3, "Bob"}};
 
 for (auto& [id, name] : students) {
     name += " Doe";
 }
+{% endraw %}
 ```
 
 2. **Initializer list support**: C++20 allows structured bindings to be used with initializer lists. This means that we can easily decompose an initializer list into its individual elements without having to manually access them by index.
