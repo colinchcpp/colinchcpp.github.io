@@ -3,7 +3,7 @@ layout: post
 title: "Implementing object counting algorithms in C++"
 description: " "
 date: 2023-10-04
-tags: [introduction), background)]
+tags: [background)]
 comments: true
 share: true
 ---

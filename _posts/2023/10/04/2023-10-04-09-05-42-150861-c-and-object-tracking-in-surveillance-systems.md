@@ -3,7 +3,7 @@ layout: post
 title: "C++ and object tracking in surveillance systems"
 description: " "
 date: 2023-10-04
-tags: [introduction), object]
+tags: [object]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image classification algorithms in C++"
 description: " "
 date: 2023-10-04
-tags: [introduction), preparing]
+tags: [preparing]
 comments: true
 share: true
 ---

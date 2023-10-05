@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image deblurring techniques in C++"
 description: " "
 date: 2023-10-04
-tags: [introduction), traditional]
+tags: [traditional]
 comments: true
 share: true
 ---

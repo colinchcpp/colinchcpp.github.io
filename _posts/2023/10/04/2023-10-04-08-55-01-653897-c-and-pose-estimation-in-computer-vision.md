@@ -3,7 +3,7 @@ layout: post
 title: "C++ and pose estimation in computer vision"
 description: " "
 date: 2023-10-04
-tags: [PoseEstimation), PoseEstimation)]
+tags: [ PoseEstimation)]
 comments: true
 share: true
 ---

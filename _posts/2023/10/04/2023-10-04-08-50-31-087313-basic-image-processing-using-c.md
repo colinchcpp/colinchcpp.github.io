@@ -3,7 +3,7 @@ layout: post
 title: "Basic image processing using C++"
 description: " "
 date: 2023-10-04
-tags: [introduction), reading]
+tags: [reading]
 comments: true
 share: true
 ---

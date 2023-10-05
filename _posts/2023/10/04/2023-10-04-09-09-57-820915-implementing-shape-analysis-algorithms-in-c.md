@@ -3,7 +3,7 @@ layout: post
 title: "Implementing shape analysis algorithms in C++"
 description: " "
 date: 2023-10-04
-tags: [introduction), extracting]
+tags: [extracting]
 comments: true
 share: true
 ---

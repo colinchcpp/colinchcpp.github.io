@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image quality assessment in C++"
 description: " "
 date: 2023-10-04
-tags: [introduction), psnr)]
+tags: [psnr)]
 comments: true
 share: true
 ---

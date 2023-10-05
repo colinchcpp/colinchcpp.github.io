@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image restoration techniques in C++"
 description: " "
 date: 2023-10-04
-tags: [introduction), noise]
+tags: [noise]
 comments: true
 share: true
 ---

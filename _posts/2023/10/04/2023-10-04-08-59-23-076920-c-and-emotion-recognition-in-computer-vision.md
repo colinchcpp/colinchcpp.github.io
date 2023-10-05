@@ -3,7 +3,7 @@ layout: post
 title: "C++ and emotion recognition in computer vision"
 description: " "
 date: 2023-10-04
-tags: [introduction), preprocessing)]
+tags: [preprocessing)]
 comments: true
 share: true
 ---
