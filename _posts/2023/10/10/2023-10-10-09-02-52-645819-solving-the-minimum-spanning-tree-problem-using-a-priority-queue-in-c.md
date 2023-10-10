@@ -41,6 +41,7 @@ Here are the implementation steps for solving the MST problem using Prim's algor
 ### Example Code
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <queue>
 #include <vector>
@@ -118,6 +119,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ### Conclusion

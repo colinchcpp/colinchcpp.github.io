@@ -32,6 +32,7 @@ The algorithm for topological sorting using a queue works as follows:
 Let's see the code implementation of the topological sort algorithm using a queue in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -88,6 +89,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## Conclusion

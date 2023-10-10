@@ -21,6 +21,7 @@ The DFS algorithm can be implemented using a stack or recursion. However, for a 
 Here's an implementation of the queue-based DFS algorithm in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <queue>
 #include <vector>
@@ -61,6 +62,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## How the Algorithm Works

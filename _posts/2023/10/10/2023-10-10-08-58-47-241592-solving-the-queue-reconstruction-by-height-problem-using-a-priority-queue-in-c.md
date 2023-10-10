@@ -28,6 +28,7 @@ To solve this problem, we can use a priority queue as our main data structure. T
 Here's the C++ implementation of the above approach:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -69,6 +70,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 ## Conclusion
