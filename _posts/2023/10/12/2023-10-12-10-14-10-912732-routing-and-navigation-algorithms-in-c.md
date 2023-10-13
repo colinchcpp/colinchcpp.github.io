@@ -93,6 +93,7 @@ The A* (A-star) algorithm is an informed search algorithm that aims to find the 
 Below is an example implementation of the A* algorithm in C++:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -187,6 +188,7 @@ int main() {
     
     return 0;
 }
+{% endraw %}
 ```
 
 ### Explanation
