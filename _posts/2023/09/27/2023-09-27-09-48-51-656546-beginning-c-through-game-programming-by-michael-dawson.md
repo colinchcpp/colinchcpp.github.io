@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Beginning C++ Through Game Programming" by Michael Dawson"
+title: "Beginning C++ Through Game Programming by Michael Dawson"
 description: " "
 date: 2023-09-27
 tags: [gameprogramming]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you interested in learning C++ programming? Are you a gamer who wants to understand how to develop your own games? If so, then "Beginning C++ Through Game Programming" by Michael Dawson is the perfect book for you. This comprehensive guide takes you on a journey from the basics of C++ syntax to creating your own game projects.
+Are you interested in learning C++ programming? Are you a gamer who wants to understand how to develop your own games? If so, then "Beginning C++ Through Game Programming by Michael Dawson is the perfect book for you. This comprehensive guide takes you on a journey from the basics of C++ syntax to creating your own game projects.
 
 ## Why Choose "Beginning C++ Through Game Programming"?
 

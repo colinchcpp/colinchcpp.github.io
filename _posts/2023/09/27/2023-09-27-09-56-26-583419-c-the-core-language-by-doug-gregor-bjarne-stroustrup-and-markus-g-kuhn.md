@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++: The Core Language" by Doug Gregor, Bjarne Stroustrup, and Markus G. Kuhn"
+title: "C++: The Core Language by Doug Gregor, Bjarne Stroustrup, and Markus G. Kuhn"
 description: " "
 date: 2023-09-27
 tags: [bookreview]

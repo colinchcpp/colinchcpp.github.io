@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Fundamentals of Data Structures in C++" by Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed"
+title: "Fundamentals of Data Structures in C++ by Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed"
 description: " "
 date: 2023-09-27
 tags: [DataStructures, CplusplusBooks]
@@ -10,7 +10,7 @@ share: true
 
 ![Data Structures](https://example.com/data_structures.jpg)
 
-In today's blog post, we will review the book "Fundamentals of Data Structures in C++" by Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed. This comprehensive book serves as a foundational resource for understanding data structures and their implementation in the C++ programming language.
+In today's blog post, we will review the book "Fundamentals of Data Structures in C++ by Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed. This comprehensive book serves as a foundational resource for understanding data structures and their implementation in the C++ programming language.
 
 ## Overview of the Book
 
@@ -39,7 +39,7 @@ The book starts by introducing the basic concepts of data structures and their i
 
 ## Conclusion
 
-"Fundamentals of Data Structures in C++" by Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed is an excellent resource for programmers who want to deepen their understanding of data structures and their implementation in C++. With its comprehensive coverage, algorithmic approach, and practical examples, this book serves as a valuable reference for students, engineers, and software developers.
+"Fundamentals of Data Structures in C++ by Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed is an excellent resource for programmers who want to deepen their understanding of data structures and their implementation in C++. With its comprehensive coverage, algorithmic approach, and practical examples, this book serves as a valuable reference for students, engineers, and software developers.
 
 ## Let's Discuss
 

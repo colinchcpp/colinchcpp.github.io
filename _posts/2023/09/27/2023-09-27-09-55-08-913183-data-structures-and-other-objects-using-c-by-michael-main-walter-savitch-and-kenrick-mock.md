@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ""Data Structures and Other Objects Using C++" by Michael Main, Walter Savitch, and Kenrick Mock"
+title: "Data Structures and Other Objects Using C++ by Michael Main, Walter Savitch, and Kenrick Mock"
 description: " "
 date: 2023-09-27
-tags: [#DataStructures]
+tags: [DataStructures]
 comments: true
 share: true
 ---
@@ -12,7 +12,7 @@ share: true
 
 ## Introduction
 
-In the world of software development, mastering data structures is essential for building efficient and scalable solutions. One of the go-to resources for learning data structures and their implementation in C++ is the book "Data Structures and Other Objects Using C++" by Michael Main, Walter Savitch, and Kenrick Mock.
+In the world of software development, mastering data structures is essential for building efficient and scalable solutions. One of the go-to resources for learning data structures and their implementation in C++ is the book "Data Structures and Other Objects Using C++ by Michael Main, Walter Savitch, and Kenrick Mock.
 
 ## Overview
 

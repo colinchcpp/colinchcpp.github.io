@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Scientific Software Design: The Object-Oriented Way in C++" by Damian Rouson, Jim Xia, and Xiaofeng Xu"
+title: "Scientific Software Design: The Object-Oriented Way in C++ by Damian Rouson, Jim Xia, and Xiaofeng Xu"
 description: " "
 date: 2023-09-27
 tags: [ScientificSoftwareDesign, ObjectOrientedProgramming]

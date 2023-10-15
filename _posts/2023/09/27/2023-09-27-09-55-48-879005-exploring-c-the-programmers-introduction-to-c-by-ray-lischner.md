@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Exploring C++: The Programmer's Introduction to C++" by Ray Lischner"
+title: "Exploring C++: The Programmer's Introduction to C++ by Ray Lischner"
 description: " "
 date: 2023-09-27
 tags: [ExploringC, RayLischner]

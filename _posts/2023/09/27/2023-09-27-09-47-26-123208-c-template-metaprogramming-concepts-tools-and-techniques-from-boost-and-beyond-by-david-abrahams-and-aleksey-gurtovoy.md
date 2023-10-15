@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond" by David Abrahams and Aleksey Gurtovoy"
+title: "C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond by David Abrahams and Aleksey Gurtovoy"
 description: " "
 date: 2023-09-27
 tags: [Cplusplus, TemplateMetaprogramming]
@@ -10,7 +10,7 @@ share: true
 
 ![C++ Template Metaprogramming](https://images.pexels.com/photos/2097/business-computer-connection-contemporary-2097.jpg)
 
-Are you interested in taking your C++ programming skills to the next level? Do you want to learn how to leverage the power of templates for metaprogramming? Look no further! In this blog post, we will be exploring the book "C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond" by David Abrahams and Aleksey Gurtovoy.
+Are you interested in taking your C++ programming skills to the next level? Do you want to learn how to leverage the power of templates for metaprogramming? Look no further! In this blog post, we will be exploring the book "C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond by David Abrahams and Aleksey Gurtovoy.
 
 ## Overview of the Book
 

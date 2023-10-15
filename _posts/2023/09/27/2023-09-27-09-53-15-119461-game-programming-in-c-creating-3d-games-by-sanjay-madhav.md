@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Game Programming in C++: Creating 3D Games" by Sanjay Madhav"
+title: "Game Programming in C++: Creating 3D Games by Sanjay Madhav"
 description: " "
 date: 2023-09-27
 tags: [gameprogramming]

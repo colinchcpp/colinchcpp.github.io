@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Without Fear: A Beginner's Guide That Makes You Feel Smart, Third Edition" by Brian Overland"
+title: "C++ Without Fear: A Beginner's Guide That Makes You Feel Smart, Third Edition by Brian Overland"
 description: " "
 date: 2023-09-27
 tags: [programming, bookreview]

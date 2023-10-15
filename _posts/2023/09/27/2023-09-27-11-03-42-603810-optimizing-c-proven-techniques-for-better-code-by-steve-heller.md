@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Optimizing C++: Proven Techniques for Better Code" by Steve Heller"
+title: "Optimizing C++: Proven Techniques for Better Code by Steve Heller"
 description: " "
 date: 2023-09-27
 tags: [tech, optimization]
@@ -10,7 +10,7 @@ share: true
 
 ![Optimizing C++ Book](https://example.com/optimize-c++-book.jpg)
 
-Are you a C++ developer looking to enhance the performance of your code? Look no further than "Optimizing C++: Proven Techniques for Better Code" by Steve Heller. This book offers valuable insights and practical tips on how to optimize your C++ programs for speed, memory usage, and efficiency.
+Are you a C++ developer looking to enhance the performance of your code? Look no further than "Optimizing C++: Proven Techniques for Better Code by Steve Heller. This book offers valuable insights and practical tips on how to optimize your C++ programs for speed, memory usage, and efficiency.
 
 ## What Makes This Book Special?
 

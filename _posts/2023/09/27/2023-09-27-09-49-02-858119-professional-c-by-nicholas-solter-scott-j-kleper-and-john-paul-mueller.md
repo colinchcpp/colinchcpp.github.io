@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Professional C++" by Nicholas Solter, Scott J. Kleper, and John Paul Mueller"
+title: "Professional C++ by Nicholas Solter, Scott J. Kleper, and John Paul Mueller"
 description: " "
 date: 2023-09-27
 tags: [programming, bookreview]

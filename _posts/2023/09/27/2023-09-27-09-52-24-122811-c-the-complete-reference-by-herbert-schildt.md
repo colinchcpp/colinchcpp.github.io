@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++: The Complete Reference" by Herbert Schildt"
+title: "C++: The Complete Reference by Herbert Schildt"
 description: " "
 date: 2023-09-27
 tags: [programming, bookreview]
@@ -10,7 +10,7 @@ share: true
 
 ![C++: The Complete Reference](https://images-na.ssl-images-amazon.com/images/I/51JpUn4OLmL._SX396_BO1,204,203,200_.jpg)
 
-If you're looking for a comprehensive guide to mastering the C++ programming language, look no further than "C++: The Complete Reference" by Herbert Schildt. This book is a must-have for both beginner and experienced C++ programmers, providing a detailed and in-depth exploration of the language's features and capabilities.
+If you're looking for a comprehensive guide to mastering the C++ programming language, look no further than "C++: The Complete Reference by Herbert Schildt. This book is a must-have for both beginner and experienced C++ programmers, providing a detailed and in-depth exploration of the language's features and capabilities.
 
 ## About the Author
 
@@ -36,6 +36,6 @@ This book is regularly updated to reflect the latest standards and features of t
 
 ## Conclusion
 
-"C++: The Complete Reference" by Herbert Schildt is a comprehensive and authoritative guide to C++ programming. With its clear explanations, practical examples, and up-to-date content, this book is a valuable resource for both novice and experienced programmers. Grab a copy and take your C++ skills to the next level!
+"C++: The Complete Reference by Herbert Schildt is a comprehensive and authoritative guide to C++ programming. With its clear explanations, practical examples, and up-to-date content, this book is a valuable resource for both novice and experienced programmers. Grab a copy and take your C++ skills to the next level!
 
 #C++ #programming #bookreview

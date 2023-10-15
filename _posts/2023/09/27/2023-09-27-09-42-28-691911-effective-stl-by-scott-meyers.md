@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Effective STL" by Scott Meyers"
+title: "Effective STL by Scott Meyers"
 description: " "
 date: 2023-09-27
 tags: [bookreview]
@@ -34,6 +34,6 @@ The book emphasizes writing exception-safe code when using the STL. Meyers expla
 
 ## Conclusion
 
-"Effective STL" by Scott Meyers is a must-read for any C++ developer seeking to master the complexities of the STL. Meyers' writing style is clear and concise, making the book accessible even for intermediate programmers. By following the techniques and best practices outlined in this book, developers can leverage the full potential of the STL and write efficient and robust code.
+"Effective STL by Scott Meyers is a must-read for any C++ developer seeking to master the complexities of the STL. Meyers' writing style is clear and concise, making the book accessible even for intermediate programmers. By following the techniques and best practices outlined in this book, developers can leverage the full potential of the STL and write efficient and robust code.
 
 #bookreview #STL #C++

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Fundamentals: Mastering Regular Expressions" by Damian Conway"
+title: "C++ Fundamentals: Mastering Regular Expressions by Damian Conway"
 description: " "
 date: 2023-09-27
 tags: [regular]

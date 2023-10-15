@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Mathematicians: An Introduction for Students and Professionals" by Edward Scheinerman"
+title: "C++ for Mathematicians: An Introduction for Students and Professionals by Edward Scheinerman"
 description: " "
 date: 2023-09-27
 tags: [LowLevelControl, LowLevelControl]

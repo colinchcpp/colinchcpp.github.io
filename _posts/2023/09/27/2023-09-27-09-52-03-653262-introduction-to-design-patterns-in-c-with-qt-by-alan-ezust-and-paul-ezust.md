@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Introduction to Design Patterns in C++ with Qt" by Alan Ezust and Paul Ezust"
+title: "Introduction to Design Patterns in C++ with Qt by Alan Ezust and Paul Ezust"
 description: " "
 date: 2023-09-27
 tags: [designpatterns, cplusplus]

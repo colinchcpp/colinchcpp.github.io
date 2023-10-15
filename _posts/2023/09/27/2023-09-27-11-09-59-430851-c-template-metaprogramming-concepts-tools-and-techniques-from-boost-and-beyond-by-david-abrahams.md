@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond" by David Abrahams"
+title: "C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond by David Abrahams"
 description: " "
 date: 2023-09-27
 tags: [programming, templates]

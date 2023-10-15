@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Templates: The Complete Guide" by Doug Gregor, Nicolai M. Josuttis, and Martin Weiser"
+title: "C++ Templates: The Complete Guide by Doug Gregor, Nicolai M. Josuttis, and Martin Weiser"
 description: " "
 date: 2023-09-27
 tags: [Cplusplus, Templates]

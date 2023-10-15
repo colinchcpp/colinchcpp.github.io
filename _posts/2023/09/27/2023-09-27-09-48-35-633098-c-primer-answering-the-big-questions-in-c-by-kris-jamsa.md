@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Primer: Answering the Big Questions in C++" by Kris Jamsa"
+title: "C++ Primer: Answering the Big Questions in C++ by Kris Jamsa"
 description: " "
 date: 2023-09-27
 tags: [programming]

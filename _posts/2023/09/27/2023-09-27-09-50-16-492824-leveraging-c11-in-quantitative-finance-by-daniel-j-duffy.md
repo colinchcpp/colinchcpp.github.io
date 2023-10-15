@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Leveraging C++11 in Quantitative Finance" by Daniel J. Duffy"
+title: "Leveraging C++11 in Quantitative Finance by Daniel J. Duffy"
 description: " "
 date: 2023-09-27
 tags: [quantitativefinance]

@@ -22,20 +22,20 @@ Let's consider an example where we have a templated `printSize()` function that 
 // Recursive template for generic specialization
 template <typename T>
 void printSize() {
-    std::cout << "Size of T: " << sizeof(T) << " bytes" << std::endl;
+    std::cout << "Size of T: " << sizeof(T) <<  bytes" << std::endl;
 }
 
 // Recursive template specialization for arrays
 template <typename T, std::size_t N>
 void printSize() {
-    std::cout << "Size of T[" << N << "]: " << sizeof(T) * N << " bytes" << std::endl;
+    std::cout << "Size of T[" << N << "]: " << sizeof(T) * N <<  bytes" << std::endl;
     printSize<T>();
 }
 
 // Recursive template specialization for vectors
 template <typename T, typename Allocator>
 void printSize() {
-    std::cout << "Size of std::vector<" << typeid(T).name() << ">: " << sizeof(std::vector<T, Allocator>) << " bytes" << std::endl;
+    std::cout << "Size of std::vector<" << typeid(T).name() << ">: " << sizeof(std::vector<T, Allocator>) <<  bytes" << std::endl;
     printSize<T>();
 }
 ```

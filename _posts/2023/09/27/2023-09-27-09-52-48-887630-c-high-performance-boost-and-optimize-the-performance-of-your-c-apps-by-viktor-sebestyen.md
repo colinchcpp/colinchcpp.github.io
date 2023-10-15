@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ High Performance: Boost and optimize the performance of your C++ apps" by Viktor Sebestyen"
+title: "C++ High Performance: Boost and optimize the performance of your C++ apps by Viktor Sebestyen"
 description: " "
 date: 2023-09-27
 tags: [performance]

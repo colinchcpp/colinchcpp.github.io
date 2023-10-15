@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Mastering the C++17 STL" by Arthur O'Dwyer"
+title: "Mastering the C++17 STL by Arthur O'Dwyer"
 description: " "
 date: 2023-09-27
 tags: []

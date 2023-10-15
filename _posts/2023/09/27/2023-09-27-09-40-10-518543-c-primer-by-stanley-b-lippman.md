@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Primer" by Stanley B. Lippman"
+title: "C++ Primer by Stanley B. Lippman"
 description: " "
 date: 2023-09-27
 tags: [programming, cplusplus]
@@ -10,7 +10,7 @@ share: true
 
 ![C++ Primer Book](https://images-na.ssl-images-amazon.com/images/I/51TiXGS2XaL._SX394_BO1,204,203,200_.jpg)
 
-Are you looking to dive into the world of C++ programming? Look no further than the comprehensive and authoritative guide, "C++ Primer" by Stanley B. Lippman. This book is an excellent resource for both beginners and experienced programmers alike, providing a solid foundation in the C++ language from the ground up.
+Are you looking to dive into the world of C++ programming? Look no further than the comprehensive and authoritative guide, "C++ Primer by Stanley B. Lippman. This book is an excellent resource for both beginners and experienced programmers alike, providing a solid foundation in the C++ language from the ground up.
 
 ## Book Overview
 
@@ -48,6 +48,6 @@ The final part of the book covers more advanced topics like exception handling, 
 
 ## Final Thoughts
 
-"C++ Primer" by Stanley B. Lippman is an excellent choice for anyone wanting to learn or deepen their understanding of the C++ programming language. The book provides a solid foundation in C++ and covers a wide range of topics, making it suitable for both beginners and experienced programmers. While some topics may be challenging for absolute beginners, the clear explanations and abundance of examples make this an invaluable resource for anyone serious about C++ programming.
+"C++ Primer by Stanley B. Lippman is an excellent choice for anyone wanting to learn or deepen their understanding of the C++ programming language. The book provides a solid foundation in C++ and covers a wide range of topics, making it suitable for both beginners and experienced programmers. While some topics may be challenging for absolute beginners, the clear explanations and abundance of examples make this an invaluable resource for anyone serious about C++ programming.
 
 #programming  #cplusplus

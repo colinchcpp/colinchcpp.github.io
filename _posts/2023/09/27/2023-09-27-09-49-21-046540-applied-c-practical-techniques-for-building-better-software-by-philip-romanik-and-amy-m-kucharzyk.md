@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Applied C++: Practical Techniques for Building Better Software" by Philip Romanik and Amy M. Kucharzyk"
+title: "Applied C++: Practical Techniques for Building Better Software by Philip Romanik and Amy M. Kucharzyk"
 description: " "
 date: 2023-09-27
 tags: [bookreview]

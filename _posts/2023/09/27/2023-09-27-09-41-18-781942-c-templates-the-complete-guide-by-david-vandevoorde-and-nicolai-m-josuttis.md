@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Templates: The Complete Guide" by David Vandevoorde and Nicolai M. Josuttis"
+title: "C++ Templates: The Complete Guide by David Vandevoorde and Nicolai M. Josuttis"
 description: " "
 date: 2023-09-27
 tags: [hashtags, Templates]

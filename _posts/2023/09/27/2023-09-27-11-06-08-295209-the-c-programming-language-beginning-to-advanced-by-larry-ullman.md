@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The C++ Programming Language: Beginning to Advanced" by Larry Ullman"
+title: "The C++ Programming Language: Beginning to Advanced by Larry Ullman"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -10,7 +10,7 @@ share: true
 
 ## Introduction
 
-C++ is a powerful and versatile programming language that allows developers to write efficient and high-performance code. Whether you are a beginner or an experienced programmer, "The C++ Programming Language: Beginning to Advanced" by Larry Ullman is a comprehensive guide that will help you master C++ from the ground up. In this blog post, we will explore some of the key features of this book and why it is a valuable resource for anyone interested in learning C++.
+C++ is a powerful and versatile programming language that allows developers to write efficient and high-performance code. Whether you are a beginner or an experienced programmer, "The C++ Programming Language: Beginning to Advanced by Larry Ullman is a comprehensive guide that will help you master C++ from the ground up. In this blog post, we will explore some of the key features of this book and why it is a valuable resource for anyone interested in learning C++.
 
 ## 1. Beginner-Friendly Approach
 

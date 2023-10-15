@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Financial Instrument Pricing Using C++" by Daniel J. Duffy"
+title: "Financial Instrument Pricing Using C++ by Daniel J. Duffy"
 description: " "
 date: 2023-09-27
 tags: [programming, financialpricing]

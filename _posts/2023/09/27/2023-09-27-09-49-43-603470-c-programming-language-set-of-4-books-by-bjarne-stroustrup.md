@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Programming Language: Set of 4 Books" by Bjarne Stroustrup"
+title: "C++ Programming Language: Set of 4 Books by Bjarne Stroustrup"
 description: " "
 date: 2023-09-27
 tags: [ProgrammingLanguage, AdvancedProgramming]

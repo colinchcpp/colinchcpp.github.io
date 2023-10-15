@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Coding Standards: 101 Rules, Guidelines, and Best Practices" by Herb Sutter and Andrei Alexandrescu"
+title: "C++ Coding Standards: 101 Rules, Guidelines, and Best Practices by Herb Sutter and Andrei Alexandrescu"
 description: " "
 date: 2023-09-27
 tags: [codingstandards]
@@ -34,6 +34,6 @@ Efficient code execution is a key concern in performance-critical applications. 
 
 ## Conclusion
 
-The book "C++ Coding Standards: 101 Rules, Guidelines, and Best Practices" by Herb Sutter and Andrei Alexandrescu serves as an invaluable resource for any C++ developer aiming to enhance their code quality. By following the recommendations and best practices outlined in this book, programmers can write cleaner, more maintainable, and efficient C++ code.
+The book "C++ Coding Standards: 101 Rules, Guidelines, and Best Practices by Herb Sutter and Andrei Alexandrescu serves as an invaluable resource for any C++ developer aiming to enhance their code quality. By following the recommendations and best practices outlined in this book, programmers can write cleaner, more maintainable, and efficient C++ code.
 
 #codingstandards #c++

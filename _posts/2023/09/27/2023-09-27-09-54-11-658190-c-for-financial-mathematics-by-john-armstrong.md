@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Financial Mathematics" by John Armstrong"
+title: "C++ for Financial Mathematics by John Armstrong"
 description: " "
 date: 2023-09-27
 tags: [financialmath, programming]

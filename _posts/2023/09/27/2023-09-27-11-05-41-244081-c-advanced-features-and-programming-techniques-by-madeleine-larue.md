@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++: Advanced Features and Programming Techniques" by Madeleine LaRue"
+title: "C++: Advanced Features and Programming Techniques by Madeleine LaRue"
 description: " "
 date: 2023-09-27
 tags: [programming, cppadvancedfeatures]

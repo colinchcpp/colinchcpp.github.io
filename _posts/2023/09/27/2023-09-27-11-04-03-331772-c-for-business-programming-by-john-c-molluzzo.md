@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Business Programming" by John C. Molluzzo"
+title: "C++ for Business Programming by John C. Molluzzo"
 description: " "
 date: 2023-09-27
 tags: [businessprogramming, programming]

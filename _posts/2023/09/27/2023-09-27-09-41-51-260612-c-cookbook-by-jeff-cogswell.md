@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Cookbook" by Jeff Cogswell"
+title: "C++ Cookbook by Jeff Cogswell"
 description: " "
 date: 2023-09-27
 tags: [programming, bookreview]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-If you're an aspiring C++ programmer or looking to level up your skills, "C++ Cookbook" by Jeff Cogswell is the perfect guide for you. This comprehensive cookbook dives deep into the world of C++ programming, providing you with a wide range of recipes and techniques to help you tackle common programming challenges.
+If you're an aspiring C++ programmer or looking to level up your skills, "C++ Cookbook by Jeff Cogswell is the perfect guide for you. This comprehensive cookbook dives deep into the world of C++ programming, providing you with a wide range of recipes and techniques to help you tackle common programming challenges.
 
 ## Easy-to-Follow Recipes with Real-World Examples
 

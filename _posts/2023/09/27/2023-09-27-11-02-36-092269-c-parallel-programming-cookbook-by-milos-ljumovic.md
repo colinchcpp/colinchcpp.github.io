@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Parallel Programming Cookbook" by Milos Ljumovic"
+title: "C++ Parallel Programming Cookbook by Milos Ljumovic"
 description: " "
 date: 2023-09-27
 tags: [CPlusPlus, ParallelProgramming]
@@ -33,6 +33,6 @@ This cookbook stands out for its practical approach and comprehensive coverage o
 - **Real-world scenarios**: The author provides real-world scenarios where parallel programming can be applied, helping you see the practical applications of these techniques.
 
 ## Conclusion
-"C++ Parallel Programming Cookbook" by Milos Ljumovic is an excellent resource for anyone looking to enhance their parallel programming skills in C++. With its practical approach, comprehensive coverage, and hands-on examples, this book will equip you with the knowledge and techniques necessary to leverage the power of parallel computing efficiently.
+"C++ Parallel Programming Cookbook by Milos Ljumovic is an excellent resource for anyone looking to enhance their parallel programming skills in C++. With its practical approach, comprehensive coverage, and hands-on examples, this book will equip you with the knowledge and techniques necessary to leverage the power of parallel computing efficiently.
 
 ### #CPlusPlus #ParallelProgramming

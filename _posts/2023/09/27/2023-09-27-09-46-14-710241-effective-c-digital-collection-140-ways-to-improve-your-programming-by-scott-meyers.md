@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Effective C++ Digital Collection: 140 Ways to Improve Your Programming" by Scott Meyers"
+title: "Effective C++ Digital Collection: 140 Ways to Improve Your Programming by Scott Meyers"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -36,7 +36,7 @@ Here are some key features that make the "Effective C++ Digital Collection" inva
 
 ## Conclusion
 
-If you're serious about mastering C++ and improving your programming skills, the "Effective C++ Digital Collection" by Scott Meyers is a must-read. Whether you're a beginner or an experienced developer, the collection provides invaluable tips and guidance to help you write better code. So, grab your copy today and enhance your C++ programming skills!
+If you're serious about mastering C++ and improving your programming skills, the "Effective C++ Digital Collection by Scott Meyers is a must-read. Whether you're a beginner or an experienced developer, the collection provides invaluable tips and guidance to help you write better code. So, grab your copy today and enhance your C++ programming skills!
 
 ***
 

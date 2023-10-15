@@ -21,9 +21,9 @@ To help you master the use of `auto` in C++, here are some valuable learning res
 - **[The auto Keyword in C++](https://www.internalpointers.com/post/auto-keyword-cpp):** Internal Pointers is a blog that offers an in-depth article on the `auto` keyword. The article explains various scenarios and use cases where `auto` shines, along with real-world code examples to solidify your understanding.
 
 ## 3. Books
-- **"Effective Modern C++" by Scott Meyers:** This widely acclaimed book covers modern C++ features, including a detailed chapter on type deduction using `auto`. It provides insights, best practices, and caveats related to `auto` usage, helping you write more effective and efficient C++ code.
+- **"Effective Modern C++ by Scott Meyers:** This widely acclaimed book covers modern C++ features, including a detailed chapter on type deduction using `auto`. It provides insights, best practices, and caveats related to `auto` usage, helping you write more effective and efficient C++ code.
 
-- **"C++ Templates: The Complete Guide" by David Vandevoorde and Nicolai M. Josuttis:** While not solely focused on `auto`, this book explores the underlying concepts of type deduction, which is core to `auto`. It explains the principles of template metaprogramming and type inference, offering a deep understanding of `auto` and its related topics.
+- **"C++ Templates: The Complete Guide by David Vandevoorde and Nicolai M. Josuttis:** While not solely focused on `auto`, this book explores the underlying concepts of type deduction, which is core to `auto`. It explains the principles of template metaprogramming and type inference, offering a deep understanding of `auto` and its related topics.
 
 Remember, mastering `auto` involves practice and experimentation. Trying out different scenarios and gradually incorporating `auto` into your code will allow you to gain confidence and fluency with this powerful C++ feature.
 

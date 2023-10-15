@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ in Action: Industrial Strength Programming Techniques" by Bartosz Milewski"
+title: "C++ in Action: Industrial Strength Programming Techniques by Bartosz Milewski"
 description: " "
 date: 2023-09-27
 tags: [programming]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Neural Networks and Fuzzy Logic" by Valluru B. Rao"
+title: "C++ Neural Networks and Fuzzy Logic by Valluru B. Rao"
 description: " "
 date: 2023-09-27
 tags: [NeuralNetworks, FuzzyLogic]

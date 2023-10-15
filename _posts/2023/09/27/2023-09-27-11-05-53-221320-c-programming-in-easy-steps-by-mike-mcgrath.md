@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Programming in Easy Steps" by Mike McGrath"
+title: "C++ Programming in Easy Steps by Mike McGrath"
 description: " "
 date: 2023-09-27
 tags: [cppprogramming, learncpp]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you interested in learning the C++ programming language? Look no further! In this blog post, we will explore the book "C++ Programming in Easy Steps" by Mike McGrath. Whether you are a beginner or an experienced developer, this book has something for everyone.
+Are you interested in learning the C++ programming language? Look no further! In this blog post, we will explore the book "C++ Programming in Easy Steps by Mike McGrath. Whether you are a beginner or an experienced developer, this book has something for everyone.
 
 ## Overview
 

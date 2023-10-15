@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++: A Beginner's Guide" by Herbert Schildt"
+title: "C++: A Beginner's Guide by Herbert Schildt"
 description: " "
 date: 2023-09-27
 tags: [BeginnersGuide, CPlusPlus]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you interested in learning C++? Look no further! "C++: A Beginner's Guide" by Herbert Schildt is the perfect resource to get you started on your C++ journey. In this book, Schildt takes you step by step through the fundamentals of the C++ programming language.
+Are you interested in learning C++? Look no further! "C++: A Beginner's Guide by Herbert Schildt is the perfect resource to get you started on your C++ journey. In this book, Schildt takes you step by step through the fundamentals of the C++ programming language.
 
 ## Why choose "C++: A Beginner's Guide"?
 

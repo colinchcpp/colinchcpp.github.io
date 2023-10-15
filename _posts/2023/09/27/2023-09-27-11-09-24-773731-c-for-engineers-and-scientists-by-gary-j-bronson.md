@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Engineers and Scientists" by Gary J. Bronson"
+title: "C++ for Engineers and Scientists by Gary J. Bronson"
 description: " "
 date: 2023-09-27
 tags: [tech, programming]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++: Programming Basics for Absolute Beginners" by Nathan Clark"
+title: "C++: Programming Basics for Absolute Beginners by Nathan Clark"
 description: " "
 date: 2023-09-27
 tags: [BeginnersGuide]

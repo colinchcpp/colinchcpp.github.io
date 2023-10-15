@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Programming: Principles and Practice Using C++ (2nd Edition)" by Bjarne Stroustrup"
+title: "Programming: Principles and Practice Using C++ (2nd Edition) by Bjarne Stroustrup"
 description: " "
 date: 2023-09-27
 tags: [programming, Cplusplus]
@@ -10,7 +10,7 @@ share: true
 
 ![PPaP Book Cover](https://example.com/ppap_cover.jpg)
 
-If you are new to programming or looking to learn C++, "Programming: Principles and Practice Using C++" by Bjarne Stroustrup is an excellent resource to start with. This book, now in its 2nd Edition, provides a comprehensive introduction to programming concepts and practices using the C++ language.
+If you are new to programming or looking to learn C++, "Programming: Principles and Practice Using C++ by Bjarne Stroustrup is an excellent resource to start with. This book, now in its 2nd Edition, provides a comprehensive introduction to programming concepts and practices using the C++ language.
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ GUI Programming with Qt 4" by Jasmin Blanchette and Mark Summerfield"
+title: "C++ GUI Programming with Qt 4 by Jasmin Blanchette and Mark Summerfield"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-In the world of C++ development, graphical user interface (GUI) programming can be a daunting task. However, "C++ GUI Programming with Qt 4" by Jasmin Blanchette and Mark Summerfield presents a comprehensive guide to making GUI applications using the Qt framework.
+In the world of C++ development, graphical user interface (GUI) programming can be a daunting task. However, "C++ GUI Programming with Qt 4 by Jasmin Blanchette and Mark Summerfield presents a comprehensive guide to making GUI applications using the Qt framework.
 
 ## Overview
 

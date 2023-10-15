@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Object-Oriented Programming in C++" by Robert Lafore"
+title: "Object-Oriented Programming in C++ by Robert Lafore"
 description: " "
 date: 2023-09-27
 tags: []

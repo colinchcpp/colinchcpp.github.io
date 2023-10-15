@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for C Programmers" by Ira Pohl"
+title: "C++ for C Programmers by Ira Pohl"
 description: " "
 date: 2023-09-27
 tags: [Cplusplus, Cprogramming]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Without Fear: A Beginner's Guide That Makes You Feel Smart" by Brian Overland"
+title: "C++ Without Fear: A Beginner's Guide That Makes You Feel Smart by Brian Overland"
 description: " "
 date: 2023-09-27
 tags: [CPlusPlus, BeginnersGuide]

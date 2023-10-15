@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Beginners: Master C++ Programming Fast" by Richard Dorsey"
+title: "C++ for Beginners: Master C++ Programming Fast by Richard Dorsey"
 description: " "
 date: 2023-09-27
 tags: [programminglanguages, cplusplus]

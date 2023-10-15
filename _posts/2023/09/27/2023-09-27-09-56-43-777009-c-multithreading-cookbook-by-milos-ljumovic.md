@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Multithreading Cookbook" by Milos Ljumovic"
+title: "C++ Multithreading Cookbook by Milos Ljumovic"
 description: " "
 date: 2023-09-27
 tags: [Multithreading]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you looking to dive into the world of multithreading with C++? Look no further than "C++ Multithreading Cookbook" by Milos Ljumovic. This comprehensive book is packed with practical recipes and guidance to help you master the art of multithreading in C++.
+Are you looking to dive into the world of multithreading with C++? Look no further than "C++ Multithreading Cookbook by Milos Ljumovic. This comprehensive book is packed with practical recipes and guidance to help you master the art of multithreading in C++.
 
 ## Enhance Performance with Multithreading
 
@@ -36,4 +36,4 @@ To ensure a hands-on experience, "C++ Multithreading Cookbook" includes plenty o
 
 Whether you are a beginner or an experienced C++ developer, "C++ Multithreading Cookbook" has something valuable to offer. By mastering the techniques outlined in this book, you will be able to harness the power of multithreading and take your application's performance to new heights.
 
-So, if you're ready to take on the challenge of multithreading in C++, grab a copy of "C++ Multithreading Cookbook" by Milos Ljumovic today and unlock the potential of concurrent programming. #C++ #Multithreading
+So, if you're ready to take on the challenge of multithreading in C++, grab a copy of "C++ Multithreading Cookbook by Milos Ljumovic today and unlock the potential of concurrent programming. #C++ #Multithreading

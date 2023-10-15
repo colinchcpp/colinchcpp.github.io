@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Design Patterns and Derivatives Pricing" by Mark S. Joshi"
+title: "C++ Design Patterns and Derivatives Pricing by Mark S. Joshi"
 description: " "
 date: 2023-09-27
 tags: [DerivativesPricing]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you interested in learning about C++ design patterns and how they can be applied to derivatives pricing? Look no further than "C++ Design Patterns and Derivatives Pricing" by Mark S. Joshi. This comprehensive book covers the fundamentals of C++ design patterns and their specific application to pricing derivatives in the financial industry.
+Are you interested in learning about C++ design patterns and how they can be applied to derivatives pricing? Look no further than "C++ Design Patterns and Derivatives Pricing by Mark S. Joshi. This comprehensive book covers the fundamentals of C++ design patterns and their specific application to pricing derivatives in the financial industry.
 
 ## Understanding Design Patterns
 
@@ -29,6 +29,6 @@ With "C++ Design Patterns and Derivatives Pricing," you will learn how to implem
 
 ## Conclusion
 
-"C++ Design Patterns and Derivatives Pricing" by Mark S. Joshi is an invaluable resource for anyone interested in mastering design patterns in C++ and applying them to derivatives pricing. Whether you are a finance professional or a developer looking to enhance your skills, this book will provide you with the knowledge and practical examples you need to succeed.
+"C++ Design Patterns and Derivatives Pricing by Mark S. Joshi is an invaluable resource for anyone interested in mastering design patterns in C++ and applying them to derivatives pricing. Whether you are a finance professional or a developer looking to enhance your skills, this book will provide you with the knowledge and practical examples you need to succeed.
 
 #C++ #DerivativesPricing

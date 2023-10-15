@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++17 in Detail: Code Examples and More" by Bartlomiej Filipek"
+title: "C++17 in Detail: Code Examples and More by Bartlomiej Filipek"
 description: " "
 date: 2023-09-27
 tags: []

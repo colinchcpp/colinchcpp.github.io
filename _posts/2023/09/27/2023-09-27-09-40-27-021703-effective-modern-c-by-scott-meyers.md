@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Effective Modern C++" by Scott Meyers"
+title: "Effective Modern C++ by Scott Meyers"
 description: " "
 date: 2023-09-27
 tags: [BookReview]
@@ -12,7 +12,7 @@ share: true
 
 ## Overview
 
-"Effective Modern C++" by Scott Meyers is a comprehensive guide that explores modern features of the C++ programming language and presents effective techniques on how to use them correctly and efficiently. With the release of C++11 and C++14, there have been significant changes, and this book serves as an essential resource for understanding and utilizing these new features to write better and more robust code.
+"Effective Modern C++ by Scott Meyers is a comprehensive guide that explores modern features of the C++ programming language and presents effective techniques on how to use them correctly and efficiently. With the release of C++11 and C++14, there have been significant changes, and this book serves as an essential resource for understanding and utilizing these new features to write better and more robust code.
 
 ## Key Features
 

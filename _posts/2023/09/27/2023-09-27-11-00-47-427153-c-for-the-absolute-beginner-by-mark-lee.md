@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for the Absolute Beginner" by Mark Lee"
+title: "C++ for the Absolute Beginner by Mark Lee"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -10,7 +10,7 @@ share: true
 
 ![C++ Logo](https://example.com/c++-logo.png)
 
-Are you an absolute beginner looking to learn C++ programming? Look no further! "C++ for the Absolute Beginner" by Mark Lee is the ultimate guide to getting started with C++.
+Are you an absolute beginner looking to learn C++ programming? Look no further! "C++ for the Absolute Beginner by Mark Lee is the ultimate guide to getting started with C++.
 
 ## Why Learn C++?
 
@@ -46,7 +46,7 @@ This book is perfect for absolute beginners who have little or no programming ex
 
 ## Conclusion
 
-With "C++ for the Absolute Beginner" by Mark Lee, you'll have all the resources you need to start your journey into the world of C++ programming. Take the first step towards becoming a proficient C++ programmer and unlock a wide range of career opportunities.
+With "C++ for the Absolute Beginner by Mark Lee, you'll have all the resources you need to start your journey into the world of C++ programming. Take the first step towards becoming a proficient C++ programmer and unlock a wide range of career opportunities.
 
 Grab a copy of "C++ for the Absolute Beginner" today and embark on your coding adventure!
 

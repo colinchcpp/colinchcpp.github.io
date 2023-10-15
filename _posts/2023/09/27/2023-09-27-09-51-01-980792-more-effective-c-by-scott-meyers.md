@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""More Effective C++" by Scott Meyers"
+title: "More Effective C++ by Scott Meyers"
 description: " "
 date: 2023-09-27
 tags: [Programming]
@@ -28,6 +28,6 @@ Here are some key takeaways from "More Effective C++":
 4. **Concurrency and Multithreading** – With the increasing prevalence of multicore processors, writing concurrent and thread-safe programs is crucial. This book provides guidance on avoiding race conditions, deadlocks, and other common pitfalls related to multithreading in C++.
 
 ## Conclusion
-"More Effective C++" by Scott Meyers is an invaluable resource for anyone seeking to delve deeper into the complexities of C++ programming. With its practical guidelines, real-world examples, and comprehensive coverage of advanced C++ topics, this book is a must-read for both novice and experienced programmers. By following Meyers' advice, you can become a better C++ developer and write more efficient, maintainable, and robust code.
+"More Effective C++ by Scott Meyers is an invaluable resource for anyone seeking to delve deeper into the complexities of C++ programming. With its practical guidelines, real-world examples, and comprehensive coverage of advanced C++ topics, this book is a must-read for both novice and experienced programmers. By following Meyers' advice, you can become a better C++ developer and write more efficient, maintainable, and robust code.
 
 **#C++ #Programming**

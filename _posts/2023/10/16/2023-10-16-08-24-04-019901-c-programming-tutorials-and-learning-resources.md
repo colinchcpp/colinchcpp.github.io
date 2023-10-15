@@ -26,9 +26,9 @@ C++ is a powerful programming language widely used for system software, game dev
 - **CPlusPlus.com**: Offers a wide range of topics and tutorials, from beginner to advanced level. It covers language syntax, standard library, object-oriented programming, and more. [Explore CPlusPlus.com](https://www.cplusplus.com/)
 
 ## Books
-- **"C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo**: A highly recommended book for beginners and intermediate learners. It provides a thorough introduction to C++ and covers essential concepts in depth. [View on Amazon](https://www.amazon.com/C-Primer-Stanley-B-Lippman/dp/0321714113)
+- **"C++ Primer by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo**: A highly recommended book for beginners and intermediate learners. It provides a thorough introduction to C++ and covers essential concepts in depth. [View on Amazon](https://www.amazon.com/C-Primer-Stanley-B-Lippman/dp/0321714113)
 
-- **"Effective Modern C++" by Scott Meyers**: For experienced developers, this book dives into modern C++ features, best practices, and common pitfalls to write efficient and maintainable code. [View on Amazon](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
+- **"Effective Modern C++ by Scott Meyers**: For experienced developers, this book dives into modern C++ features, best practices, and common pitfalls to write efficient and maintainable code. [View on Amazon](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
 
 ## Video Courses
 - **"C++ Fundamentals" on Pluralsight**: Created by Kate Gregory, this course covers the basics of C++ programming, including variables, functions, data types, control structures, and more. [Access on Pluralsight](https://www.pluralsight.com/courses/cplusplus-fundamentals)

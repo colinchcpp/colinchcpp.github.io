@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Computer Science and Engineering" by Vic Broquard"
+title: "C++ for Computer Science and Engineering by Vic Broquard"
 description: " "
 date: 2023-09-27
 tags: [ComputerScience, Engineering]

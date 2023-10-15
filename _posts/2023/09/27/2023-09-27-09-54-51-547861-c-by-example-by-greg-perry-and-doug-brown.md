@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ by Example" by Greg Perry and Doug Brown"
+title: "C++ by Example by Greg Perry and Doug Brown"
 description: " "
 date: 2023-09-27
 tags: [programming, CPPByExample]
@@ -10,7 +10,7 @@ share: true
 
 ![C++ By Example](https://example.com/cpp-by-example.jpg)
 
-Are you looking to learn C++ in a practical and hands-on way? Look no further than "C++ by Example" by Greg Perry and Doug Brown. This comprehensive book takes a unique approach to teaching C++ by providing numerous real-world examples that illustrate key concepts and techniques.
+Are you looking to learn C++ in a practical and hands-on way? Look no further than "C++ by Example by Greg Perry and Doug Brown. This comprehensive book takes a unique approach to teaching C++ by providing numerous real-world examples that illustrate key concepts and techniques.
 
 ## Why Choose "C++ by Example"?
 
@@ -36,6 +36,6 @@ To enhance your learning experience, "C++ by Example" provides solutions to the 
 
 ## Don't Miss Out on "C++ by Example"
 
-If you're serious about learning C++ and want a book that provides practical and hands-on learning experiences, "C++ by Example" by Greg Perry and Doug Brown is a must-read. Get started with this book and unlock your full potential in mastering the C++ programming language.
+If you're serious about learning C++ and want a book that provides practical and hands-on learning experiences, "C++ by Example by Greg Perry and Doug Brown is a must-read. Get started with this book and unlock your full potential in mastering the C++ programming language.
 
 #programming #CPPByExample

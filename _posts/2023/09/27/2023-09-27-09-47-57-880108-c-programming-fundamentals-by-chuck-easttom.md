@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Programming Fundamentals" by Chuck Easttom"
+title: "C++ Programming Fundamentals by Chuck Easttom"
 description: " "
 date: 2023-09-27
 tags: [programming]

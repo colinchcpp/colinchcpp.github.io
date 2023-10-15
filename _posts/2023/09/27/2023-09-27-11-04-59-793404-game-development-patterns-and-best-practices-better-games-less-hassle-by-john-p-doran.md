@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Game Development Patterns and Best Practices: Better games, less hassle" by John P. Doran"
+title: "Game Development Patterns and Best Practices: Better games, less hassle by John P. Doran"
 description: " "
 date: 2023-09-27
 tags: [gamedevelopment, gamedevpatterns]

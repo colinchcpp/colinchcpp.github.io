@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ How to Program" by Harvey Deitel and Paul J. Deitel"
+title: "C++ How to Program by Harvey Deitel and Paul J. Deitel"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -10,7 +10,7 @@ share: true
 
 ![C++ How to Program](https://images-na.ssl-images-amazon.com/images/I/51qMvq24shL._SX396_BO1,204,203,200_.jpg)
 
-Are you interested in learning and mastering the C++ programming language? Look no further than "C++ How to Program" by Harvey Deitel and Paul J. Deitel. This comprehensive book provides a step-by-step approach to learning C++ and is suitable for beginners as well as experienced programmers.
+Are you interested in learning and mastering the C++ programming language? Look no further than "C++ How to Program by Harvey Deitel and Paul J. Deitel. This comprehensive book provides a step-by-step approach to learning C++ and is suitable for beginners as well as experienced programmers.
 
 ## Why Choose "C++ How to Program"?
 
@@ -28,6 +28,6 @@ There are several reasons why this book stands out among other C++ programming r
 
 ## Conclusion
 
-"C++ How to Program" by Harvey Deitel and Paul J. Deitel is an excellent resource for anyone seeking to learn and become proficient in the C++ programming language. With its structured approach, extensive examples, and comprehensive coverage, this book will set you on the path to mastering C++. So, grab a copy, dive into the world of C++, and unlock endless programming possibilities!
+"C++ How to Program by Harvey Deitel and Paul J. Deitel is an excellent resource for anyone seeking to learn and become proficient in the C++ programming language. With its structured approach, extensive examples, and comprehensive coverage, this book will set you on the path to mastering C++. So, grab a copy, dive into the world of C++, and unlock endless programming possibilities!
 
 #programming #C++

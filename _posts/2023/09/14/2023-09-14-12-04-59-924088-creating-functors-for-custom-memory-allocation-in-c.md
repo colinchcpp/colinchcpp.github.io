@@ -19,7 +19,7 @@ class CustomAllocator {
 public:
     void* operator()(size_t size) {
         void* memory = std::malloc(size);
-        std::cout << "CustomAllocator allocated " << size << " bytes of memory" << std::endl;
+        std::cout << "CustomAllocator allocated " << size <<  bytes of memory" << std::endl;
         return memory;
     }
 

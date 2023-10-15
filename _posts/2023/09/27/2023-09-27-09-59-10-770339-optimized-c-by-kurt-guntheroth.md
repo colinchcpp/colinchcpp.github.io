@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Optimized C++" by Kurt Guntheroth"
+title: "Optimized C++ by Kurt Guntheroth"
 description: " "
 date: 2023-09-27
 tags: [cplusplus, performance]

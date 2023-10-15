@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Data Structures and Problem Solving Using C++" by Mark A. Weiss"
+title: "Data Structures and Problem Solving Using C++ by Mark A. Weiss"
 description: " "
 date: 2023-09-27
 tags: [datastructures, cplusplus]
@@ -12,7 +12,7 @@ share: true
 
 ## Introduction
 
-In the world of computer science and programming, understanding data structures and knowing how to effectively solve problems are vital skills. "Data Structures and Problem Solving Using C++" by Mark A. Weiss is a widely acclaimed book that provides a comprehensive introduction to data structures and problem-solving techniques using the C++ programming language.
+In the world of computer science and programming, understanding data structures and knowing how to effectively solve problems are vital skills. "Data Structures and Problem Solving Using C++ by Mark A. Weiss is a widely acclaimed book that provides a comprehensive introduction to data structures and problem-solving techniques using the C++ programming language.
 
 ## Key Features and Benefits
 

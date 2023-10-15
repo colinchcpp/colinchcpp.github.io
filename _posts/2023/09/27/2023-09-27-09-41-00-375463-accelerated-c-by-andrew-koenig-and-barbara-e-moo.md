@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Accelerated C++" by Andrew Koenig and Barbara E. Moo"
+title: "Accelerated C++ by Andrew Koenig and Barbara E. Moo"
 description: " "
 date: 2023-09-27
 tags: [cplusplus, programming]
@@ -10,7 +10,7 @@ share: true
 
 ## Introduction
 
-If you're looking for a comprehensive guide to learning C++, then "Accelerated C++" by Andrew Koenig and Barbara E. Moo is an excellent choice. Whether you're a beginner or already have some programming experience, this book will help you grasp the fundamentals of C++ and accelerate your learning process.
+If you're looking for a comprehensive guide to learning C++, then "Accelerated C++ by Andrew Koenig and Barbara E. Moo is an excellent choice. Whether you're a beginner or already have some programming experience, this book will help you grasp the fundamentals of C++ and accelerate your learning process.
 
 ## The Book's Approach
 

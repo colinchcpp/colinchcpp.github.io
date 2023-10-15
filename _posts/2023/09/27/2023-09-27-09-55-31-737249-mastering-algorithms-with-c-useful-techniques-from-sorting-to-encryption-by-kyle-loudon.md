@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Mastering Algorithms with C++: Useful Techniques from Sorting to Encryption" by Kyle Loudon"
+title: "Mastering Algorithms with C++: Useful Techniques from Sorting to Encryption by Kyle Loudon"
 description: " "
 date: 2023-09-27
 tags: [cplusplus, algorithmsmastery_]

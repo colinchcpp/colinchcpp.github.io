@@ -3,7 +3,7 @@ layout: post
 title: "C++ continuous integration and deployment (CI/CD)"
 description: " "
 date: 2023-10-16
-tags: [#####tags]
+tags: [CICD]
 comments: true
 share: true
 ---

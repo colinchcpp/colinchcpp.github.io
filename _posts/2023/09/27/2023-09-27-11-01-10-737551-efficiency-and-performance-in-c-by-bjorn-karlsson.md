@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Efficiency and Performance in C++" by Bjorn Karlsson"
+title: "Efficiency and Performance in C++ by Bjorn Karlsson"
 description: " "
 date: 2023-09-27
 tags: [efficiency]

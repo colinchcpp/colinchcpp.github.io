@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Templates and Tools" by Bijan Parsia and Robert S. Engelmore"
+title: "C++ Templates and Tools by Bijan Parsia and Robert S. Engelmore"
 description: " "
 date: 2023-09-27
 tags: [programming, templates]

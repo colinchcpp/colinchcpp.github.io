@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++17 - The Complete Guide" by Nicolai M. Josuttis"
+title: "C++17 - The Complete Guide by Nicolai M. Josuttis"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -10,7 +10,7 @@ share: true
 
 ![C++17](https://example.com/c++17-book-cover.jpg)
 
-If you are a C++ developer, you would be thrilled to know that C++17 brings several new features and improvements to the language. To fully grasp these changes and take advantage of them in your code, "C++17 - The Complete Guide" by Nicolai M. Josuttis is an essential resource.
+If you are a C++ developer, you would be thrilled to know that C++17 brings several new features and improvements to the language. To fully grasp these changes and take advantage of them in your code, "C++17 - The Complete Guide by Nicolai M. Josuttis is an essential resource.
 
 ## Overview
 
@@ -49,7 +49,7 @@ int main() {
 
 ## Conclusion
 
-"C++17 - The Complete Guide" by Nicolai M. Josuttis is a must-have resource for any C++ developer who wants to stay up to date with the latest features and improvements in the language. Whether you are a beginner or an experienced programmer, this book will help you harness the power of C++17 and write more efficient and expressive code.
+"C++17 - The Complete Guide by Nicolai M. Josuttis is a must-have resource for any C++ developer who wants to stay up to date with the latest features and improvements in the language. Whether you are a beginner or an experienced programmer, this book will help you harness the power of C++17 and write more efficient and expressive code.
 
 Grab a copy of "C++17 - The Complete Guide" and unlock the full potential of C++17 today!
 

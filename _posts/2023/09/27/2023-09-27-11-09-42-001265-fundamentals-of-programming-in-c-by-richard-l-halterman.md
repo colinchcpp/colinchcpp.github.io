@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Fundamentals of Programming in C++" by Richard L. Halterman"
+title: "Fundamentals of Programming in C++ by Richard L. Halterman"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -28,6 +28,6 @@ Throughout the book, Halterman provides numerous programming exercises and proje
 
 ## Conclusion
 
-"Fundamentals of Programming in C++" by Richard L. Halterman is a comprehensive guide that helps readers master the foundational concepts of C++ programming. With its clear explanations, practical examples, and hands-on exercises, this book is a valuable resource for beginners and experienced programmers alike. Whether you're looking to start your journey in programming or enhance your existing skills, this book is a worthwhile investment.
+"Fundamentals of Programming in C++ by Richard L. Halterman is a comprehensive guide that helps readers master the foundational concepts of C++ programming. With its clear explanations, practical examples, and hands-on exercises, this book is a valuable resource for beginners and experienced programmers alike. Whether you're looking to start your journey in programming or enhance your existing skills, this book is a worthwhile investment.
 
 #programming #C++

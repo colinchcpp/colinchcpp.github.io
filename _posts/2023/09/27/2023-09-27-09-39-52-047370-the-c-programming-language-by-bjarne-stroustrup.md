@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The C++ Programming Language" by Bjarne Stroustrup"
+title: "The C++ Programming Language by Bjarne Stroustrup"
 description: " "
 date: 2023-09-27
 tags: [programming, bookreview]
@@ -10,7 +10,7 @@ share: true
 
 ![C++ Programming Language book cover](https://example.com/c++-book-cover.jpg)
 
-If you are looking to master C++ programming or dive deeper into its intricacies, then "The C++ Programming Language" by Bjarne Stroustrup is an indispensable resource. Bjarne Stroustrup, the creator of C++, provides comprehensive coverage of the language, from its fundamental concepts to advanced features.
+If you are looking to master C++ programming or dive deeper into its intricacies, then "The C++ Programming Language by Bjarne Stroustrup is an indispensable resource. Bjarne Stroustrup, the creator of C++, provides comprehensive coverage of the language, from its fundamental concepts to advanced features.
 
 ## Highlights of the Book
 

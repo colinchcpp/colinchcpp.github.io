@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ in 24 Hours, Sams Teach Yourself" by Rogers Cadenhead"
+title: "C++ in 24 Hours, Sams Teach Yourself by Rogers Cadenhead"
 description: " "
 date: 2023-09-27
 tags: [programming, cplusplus]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you a beginner looking to learn C++ programming? Look no further than "C++ in 24 Hours, Sams Teach Yourself" by Rogers Cadenhead! With this comprehensive guide, you can quickly grasp the fundamentals of C++ and start building your own applications.
+Are you a beginner looking to learn C++ programming? Look no further than "C++ in 24 Hours, Sams Teach Yourself by Rogers Cadenhead! With this comprehensive guide, you can quickly grasp the fundamentals of C++ and start building your own applications.
 
 ## What Makes This Book Special?
 

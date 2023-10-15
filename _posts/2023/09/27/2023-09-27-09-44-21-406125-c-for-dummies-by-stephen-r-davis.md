@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Dummies" by Stephen R. Davis"
+title: "C++ for Dummies by Stephen R. Davis"
 description: " "
 date: 2023-09-27
 tags: [programming]

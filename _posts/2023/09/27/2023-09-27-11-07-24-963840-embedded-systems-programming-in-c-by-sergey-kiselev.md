@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Embedded Systems Programming in C++" by Sergey Kiselev"
+title: "Embedded Systems Programming in C++ by Sergey Kiselev"
 description: " "
 date: 2023-09-27
 tags: [Programming, EmbeddedSystems]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Primer Plus" by Stephen Prata"
+title: "C++ Primer Plus by Stephen Prata"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -23,6 +23,6 @@ In this blog post, we will be reviewing the book "C++ Primer Plus" written by St
 5. **Updated Content**: The book has been regularly updated to keep up with the latest C++ standards. This ensures that readers are learning the most relevant and up-to-date information about the language.
 
 ## Conclusion
-"C++ Primer Plus" by Stephen Prata is an excellent resource for anyone wanting to learn or enhance their skills in C++. With its comprehensive coverage, clear explanations, practical examples, and hands-on exercises, this book provides a solid foundation for understanding and writing efficient C++ code. Whether you are a beginner or an experienced programmer, "C++ Primer Plus" is a valuable addition to your programming bookshelf.
+"C++ Primer Plus by Stephen Prata is an excellent resource for anyone wanting to learn or enhance their skills in C++. With its comprehensive coverage, clear explanations, practical examples, and hands-on exercises, this book provides a solid foundation for understanding and writing efficient C++ code. Whether you are a beginner or an experienced programmer, "C++ Primer Plus" is a valuable addition to your programming bookshelf.
 
 #programming #C++

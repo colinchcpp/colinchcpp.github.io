@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ in One Hour a Day" by Siddhartha Rao"
+title: "C++ in One Hour a Day by Siddhartha Rao"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -38,6 +38,6 @@ To effectively learn C++ using "C++ in One Hour a Day," here are a few tips:
 
 ## Conclusion
 
-"C++ in One Hour a Day" by Siddhartha Rao is a valuable resource for anyone who wants to learn C++ efficiently. The book's concise yet comprehensive approach, hands-on practice opportunities, and real-world examples make it a must-have for aspiring C++ programmers. So, grab a copy, dedicate an hour each day, and embark on your journey to master C++!
+"C++ in One Hour a Day by Siddhartha Rao is a valuable resource for anyone who wants to learn C++ efficiently. The book's concise yet comprehensive approach, hands-on practice opportunities, and real-world examples make it a must-have for aspiring C++ programmers. So, grab a copy, dedicate an hour each day, and embark on your journey to master C++!
 
 #programming #C++

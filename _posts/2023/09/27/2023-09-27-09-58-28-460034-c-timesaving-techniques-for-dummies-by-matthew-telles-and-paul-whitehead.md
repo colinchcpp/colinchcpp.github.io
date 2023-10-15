@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ Timesaving Techniques for Dummies" by Matthew Telles and Paul Whitehead"
+title: "C++ Timesaving Techniques for Dummies by Matthew Telles and Paul Whitehead"
 description: " "
 date: 2023-09-27
 tags: [CPlusPlus, TimesavingTechniques]

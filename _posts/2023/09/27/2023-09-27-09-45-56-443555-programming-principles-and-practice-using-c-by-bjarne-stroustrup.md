@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Programming: Principles and Practice Using C++" by Bjarne Stroustrup"
+title: "Programming: Principles and Practice Using C++ by Bjarne Stroustrup"
 description: " "
 date: 2023-09-27
 tags: [programming]

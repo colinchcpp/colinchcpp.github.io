@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ By Dissection" by Ira Pohl"
+title: "C++ By Dissection by Ira Pohl"
 description: " "
 date: 2023-09-27
 tags: [tech]
@@ -12,7 +12,7 @@ share: true
 
 ## Introduction
 
-If you are an aspiring programmer or looking to enhance your C++ skills, "C++ By Dissection" by Ira Pohl is a must-read book. This comprehensive guide provides a deep dive into the world of C++ programming, perfect for both beginners and experienced developers.
+If you are an aspiring programmer or looking to enhance your C++ skills, "C++ By Dissection by Ira Pohl is a must-read book. This comprehensive guide provides a deep dive into the world of C++ programming, perfect for both beginners and experienced developers.
 
 ## Overview of the Book
 
@@ -42,6 +42,6 @@ Whether you are a beginner starting your journey into programming or an experien
 
 ## Conclusion
 
-"C++ By Dissection" by Ira Pohl is a valuable resource for anyone interested in mastering the C++ programming language. With its hands-on approach, thorough explanations, and focus on problem-solving, this book provides a solid foundation for becoming a proficient C++ developer. Get your copy today and embark on an exciting learning journey in the world of C++ programming.
+"C++ By Dissection by Ira Pohl is a valuable resource for anyone interested in mastering the C++ programming language. With its hands-on approach, thorough explanations, and focus on problem-solving, this book provides a solid foundation for becoming a proficient C++ developer. Get your copy today and embark on an exciting learning journey in the world of C++ programming.
 
 #tech #C++

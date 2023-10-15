@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++: Learn C++ with Examples" by Tony Gaddis"
+title: "C++: Learn C++ with Examples by Tony Gaddis"
 description: " "
 date: 2023-09-27
 tags: [programming]

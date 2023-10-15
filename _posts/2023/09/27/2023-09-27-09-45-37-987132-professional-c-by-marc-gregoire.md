@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Professional C++" by Marc Gregoire"
+title: "Professional C++ by Marc Gregoire"
 description: " "
 date: 2023-09-27
 tags: [TechBookReviews]
@@ -26,6 +26,6 @@ In "Professional C++," Marc Gregoire delves deep into the inner workings of the 
 
 ## Conclusion
 
-In conclusion, "Professional C++" by Marc Gregoire is an invaluable resource for any developer looking to advance their skills in C++. The book's in-depth coverage, code examples, and practical tips make it a must-have guide for both intermediate and advanced C++ programmers. Take your C++ knowledge to the next level with this comprehensive and insightful book.
+In conclusion, "Professional C++ by Marc Gregoire is an invaluable resource for any developer looking to advance their skills in C++. The book's in-depth coverage, code examples, and practical tips make it a must-have guide for both intermediate and advanced C++ programmers. Take your C++ knowledge to the next level with this comprehensive and insightful book.
 
 #TechBookReviews #C++

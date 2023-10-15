@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ for Scientists, Engineers and Mathematicians" by R. J. LaRowe"
+title: "C++ for Scientists, Engineers and Mathematicians by R. J. LaRowe"
 description: " "
 date: 2023-09-27
 tags: [programming]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you a scientist, engineer or mathematician looking to expand your programming skills? Look no further than "C++ for Scientists, Engineers and Mathematicians" by R. J. LaRowe. This comprehensive guide is tailored specifically for individuals in technical fields who want to harness the power of C++ for their work.
+Are you a scientist, engineer or mathematician looking to expand your programming skills? Look no further than "C++ for Scientists, Engineers and Mathematicians by R. J. LaRowe. This comprehensive guide is tailored specifically for individuals in technical fields who want to harness the power of C++ for their work.
 
 ## Why C++?
 
@@ -30,6 +30,6 @@ Let's take a closer look at some of the key features of this book:
 
 ## Conclusion
 
-If you're a scientist, engineer, or mathematician looking to enhance your programming skills with C++, "C++ for Scientists, Engineers and Mathematicians" by R. J. LaRowe is the perfect resource for you. With its practical approach, comprehensive coverage, and focus on domain-specific applications, this book will help you harness the power of C++ to solve complex problems in your field.
+If you're a scientist, engineer, or mathematician looking to enhance your programming skills with C++, "C++ for Scientists, Engineers and Mathematicians by R. J. LaRowe is the perfect resource for you. With its practical approach, comprehensive coverage, and focus on domain-specific applications, this book will help you harness the power of C++ to solve complex problems in your field.
 
 #programming #C++

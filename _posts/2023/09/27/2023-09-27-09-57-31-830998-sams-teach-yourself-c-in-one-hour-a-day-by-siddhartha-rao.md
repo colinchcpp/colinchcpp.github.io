@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Sams Teach Yourself C++ in One Hour a Day" by Siddhartha Rao"
+title: "Sams Teach Yourself C++ in One Hour a Day by Siddhartha Rao"
 description: " "
 date: 2023-09-27
 tags: [BookReview]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Are you interested in learning the popular programming language C++? Look no further! In this blog post, we will review the highly acclaimed book, "Sams Teach Yourself C++ in One Hour a Day" by Siddhartha Rao. 
+Are you interested in learning the popular programming language C++? Look no further! In this blog post, we will review the highly acclaimed book, "Sams Teach Yourself C++ in One Hour a Day by Siddhartha Rao. 
 
 ## Overview of the Book
 

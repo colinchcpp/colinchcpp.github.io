@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""C++ GUI Programming with Qt 3" by Jasmin Blanchette and Mark Summerfield"
+title: "C++ GUI Programming with Qt 3 by Jasmin Blanchette and Mark Summerfield"
 description: " "
 date: 2023-09-27
 tags: [GUIProgramming]
@@ -10,7 +10,7 @@ share: true
 
 ![C++ GUI Programming with Qt 3 Book Cover](book_cover.jpg)
 
-If you're a C++ developer looking to build interactive graphical user interfaces (GUIs), then the book "C++ GUI Programming with Qt 3" by Jasmin Blanchette and Mark Summerfield is a must-read. This book provides a comprehensive guide to using the Qt 3 framework for GUI programming, helping you create robust and visually appealing applications.
+If you're a C++ developer looking to build interactive graphical user interfaces (GUIs), then the book "C++ GUI Programming with Qt 3 by Jasmin Blanchette and Mark Summerfield is a must-read. This book provides a comprehensive guide to using the Qt 3 framework for GUI programming, helping you create robust and visually appealing applications.
 
 ## Overview
 

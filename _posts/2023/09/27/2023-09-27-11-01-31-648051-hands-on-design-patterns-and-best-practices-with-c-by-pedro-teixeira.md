@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Hands-On Design Patterns and Best Practices with C++" by Pedro Teixeira"
+title: "Hands-On Design Patterns and Best Practices with C++ by Pedro Teixeira"
 description: " "
 date: 2023-09-27
 tags: [DesignPatterns]
