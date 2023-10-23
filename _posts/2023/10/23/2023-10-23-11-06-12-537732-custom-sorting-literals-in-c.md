@@ -31,9 +31,11 @@ In this example, the comparison function compares `Person` objects based on thei
 Now that we have our custom comparison function defined, we can use it with `std::sort` to sort our custom objects.
 
 ```cpp
+{% raw %}
 std::vector<Person> people = {{"John", 25}, {"Alice", 30}, {"Bob", 20}};
 
 std::sort(people.begin(), people.end(), compareByAge);
+{% endraw %}
 ```
 
 In this example, we have a vector of `Person` objects, and we pass the `compareByAge` comparison function as the third argument to `std::sort`. This tells `std::sort` to use our custom comparison function for sorting the `people` vector.

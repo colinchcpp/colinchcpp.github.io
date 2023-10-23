@@ -75,6 +75,7 @@ In this code, we define the sorting criteria directly within the `std::sort` fun
 In addition to sorting based on literals or attributes of built-in data types, you can also perform custom sorting on user-defined objects. This can be achieved by overloading the `<` operator in the object's class definition.
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -112,6 +113,7 @@ int main() {
     
     return 0;
 }
+{% endraw %}
 ```
 
 In the above code, we define a `Person` class with a custom `<` operator overload that compares people based on their age.

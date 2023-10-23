@@ -41,6 +41,7 @@ Now, when the `std::sort` function is called on a vector of `Person` objects, it
 Here is an example of how to use the custom sorting literal with `std::sort`:
 
 ```cpp
+{% raw %}
 std::vector<Person> persons = {{"John", 25}, {"Alice", 30}, {"Bob", 20}};
 std::sort(persons.begin(), persons.end());
 
@@ -48,6 +49,7 @@ std::sort(persons.begin(), persons.end());
 for (const auto& person : persons) {
     std::cout << person.name << " ";
 }
+{% endraw %}
 ```
 
 In the above code snippet, the `persons` vector is sorted using the custom sorting literal based on the age of the `Person` objects. The output is `Bob, John, Alice`, which is the expected sorting order based on their ages.

@@ -49,6 +49,7 @@ An alternative approach is to overload the less-than (`<`) operator for your typ
 Here's an example of sorting a vector of integers based on their absolute values:
 
 ```cpp
+{% raw %}
 #include <algorithm>
 #include <vector>
 #include <iostream>
@@ -74,6 +75,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 In this example, the `CustomInt` struct overloads the less-than operator (`<`), comparing the absolute values of the `value` member. Running this code will output: `-2 -5 7 -10`.

@@ -38,6 +38,7 @@ The `comparePersons` function compares two `Person` objects based on their age a
 Once we have the comparison function defined, we can use it with various C++ algorithms that support custom sorting, such as `std::sort` or `std::stable_sort`.
 
 ```cpp
+{% raw %}
 std::vector<Person> people = {{"John", 25}, {"Alice", 30}, {"Bob", 20}};
 
 std::sort(people.begin(), people.end(), comparePersons);
@@ -46,6 +47,7 @@ std::sort(people.begin(), people.end(), comparePersons);
 for (const auto& person : people) {
     std::cout << person.name << ", ";
 }
+{% endraw %}
 ```
 
 In the example above, we create a vector of `Person` objects and sort it using the `comparePersons` function as the sorting literal. The resulting order of elements will be "Bob, John, Alice" because Bob is the youngest, followed by John, and then Alice.

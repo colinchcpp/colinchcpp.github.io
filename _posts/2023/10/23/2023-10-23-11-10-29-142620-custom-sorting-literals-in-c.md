@@ -76,6 +76,7 @@ public:
 Now, let's use the `AgeSortingLiteral` class to sort a vector of `Person` objects:
 
 ```cpp
+{% raw %}
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -91,6 +92,7 @@ int main() {
     
     return 0;
 }
+{% endraw %}
 ```
 
 In this example, the `AgeSortingLiteral` class defines the custom sorting logic based on the age of the `Person` objects. The `std::sort` function uses this sorting literal to sort the `people` vector.

@@ -46,6 +46,7 @@ In the above code snippet, we have a vector of integers `numbers`, and we sort i
 Sometimes, the default sorting criteria may not be suitable for our needs. For example, suppose we have a collection of custom objects where we want to sort them based on a specific member variable rather than their natural ordering. In such cases, we can provide a custom sorting predicate to `std::sort` to define our own sorting logic.
 
 ```cpp
+{% raw %}
 #include <algorithm>
 #include <vector>
 
@@ -67,6 +68,7 @@ int main() {
     
     return 0;
 }
+{% endraw %}
 ```
 
 In the above code snippet, we define a custom sorting predicate `sortByAge` that compares `Person` objects based on their `age` member variable. We pass this predicate as the third argument to `std::sort` to perform sorting using our custom criteria.

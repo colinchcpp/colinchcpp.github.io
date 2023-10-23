@@ -50,6 +50,7 @@ By passing the `customComparison` function as the third argument to `std::sort`,
 Let's consider an example where we have a custom class `Person` with `name` and `age` attributes. We want to sort a vector of `Person` objects based on their age in descending order.
 
 ```cpp
+{% raw %}
 class Person {
 public:
     std::string name;
@@ -72,6 +73,7 @@ int main() {
 
     return 0;
 }
+{% endraw %}
 ```
 
 The `ageDescending` function implements the custom sorting logic based on the age attribute of `Person` objects. By passing `ageDescending` as the third argument to `std::sort`, the `people` vector will be sorted based on age in descending order.

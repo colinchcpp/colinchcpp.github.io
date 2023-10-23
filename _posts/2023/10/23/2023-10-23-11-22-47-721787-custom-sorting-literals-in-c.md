@@ -37,6 +37,7 @@ In this example, the `sortByAge` function takes two `Person` objects as argument
 To use the custom sorting literal in the sorting algorithm, you need to pass it as the third argument to the `std::sort` function or any other sorting function that accepts a custom comparison function.
 
 ```cpp
+{% raw %}
 std::vector<Person> people = {{"Alice", 25}, {"Bob", 30}, {"Charlie", 20}};
 std::sort(people.begin(), people.end(), sortByAge);
 ```
@@ -49,6 +50,7 @@ After sorting, the `people` vector will be rearranged in ascending order of age.
 Charlie, 20
 Alice, 25
 Bob, 30
+{% endraw %}
 ```
 
 ## Custom Sorting Literals with Lambda Functions
