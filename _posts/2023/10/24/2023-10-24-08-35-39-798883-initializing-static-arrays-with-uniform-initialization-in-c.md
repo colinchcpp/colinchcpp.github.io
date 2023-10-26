@@ -35,12 +35,14 @@ In the above code, we declare and initialize a static array `numbers` of type `i
 Uniform initialization works well with aggregate types, such as struct or class. You can initialize an array of structures or classes using braces. For example:
 
 ```cpp
+{% raw %}
 struct Point {
     int x;
     int y;
 };
 
 Point points[] = {{1, 2}, {3, 4}, {5, 6}};
+{% endraw %}
 ```
 
 In the above code, we define a structure `Point` with two integer members `x` and `y`. Then, we declare and initialize a static array `points` of type `Point` with three elements.

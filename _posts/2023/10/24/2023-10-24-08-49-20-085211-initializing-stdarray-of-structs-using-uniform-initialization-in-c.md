@@ -20,15 +20,17 @@ struct Person {
 We can initialize a `std::array` of `Person` structs using uniform initialization as follows:
 
 ```cpp
+{% raw %}
 std::array<Person, 3> people = {{
     {"Alice", 25},
     {"Bob", 30},
     {"Charlie", 35}
 }};
+{% endraw %}
 ```
-
+{% raw %}
 In the above code example, we define a `std::array` called `people` that can store three `Person` objects. Each object is initialized using a brace-enclosed list. The double braces `{{ }}` are used to indicate initialization of the array, while the inner braces `{ }` are used for initializing each individual `Person` struct.
-
+{% endraw %}
 You can add or modify the number of elements in the `std::array` as needed, and provide the corresponding initializations for each struct.
 
 Uniform initialization not only works with `std::array`, but it is also supported for other container types and custom classes. This syntax provides a consistent and intuitive way to initialize objects in C++.
@@ -57,11 +59,13 @@ struct Person {
 We can initialize a `std::array` of `Person` structs using uniform initialization as follows:
 
 ```cpp
+{% raw %}
 std::array<Person, 3> people = {{
     {"Alice", 25},
     {"Bob", 30},
     {"Charlie", 35}
 }};
+{% endraw %}
 ```
 
 In the above code example, we define a `std::array` called `people` that can store three `Person` objects. Each object is initialized using a brace-enclosed list. The double braces `{{ }}` are used to indicate initialization of the array, while the inner braces `{ }` are used for initializing each individual `Person` struct.
