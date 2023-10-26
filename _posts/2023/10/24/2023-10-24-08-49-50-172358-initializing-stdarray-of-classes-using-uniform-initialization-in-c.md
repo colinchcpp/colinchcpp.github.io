@@ -30,9 +30,9 @@ public:
 std::array<MyClass, 3> myArray{ {1}, {2}, {3} };
 ```
 In this example, we are initializing a std::array called `myArray` of size 3. Each element of the array is of type MyClass. We are using uniform initialization syntax to initialize the objects of MyClass with different values.
-
+{% raw %}
 Note the use of double braces `{{ }}` when initializing the elements of the std::array. This is required because the elements of the array are themselves objects of the class MyClass.
-
+{% endraw %}
 Now you can access the elements of the std::array and their members using the usual array indexing syntax:
 ```cpp
 int secondValue = myArray[1].value;

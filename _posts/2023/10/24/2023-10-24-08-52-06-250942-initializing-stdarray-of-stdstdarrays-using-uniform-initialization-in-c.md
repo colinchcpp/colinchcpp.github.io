@@ -23,9 +23,9 @@ std::array<std::array<int, 2>, 2> myArray = { { {1, 2}, {3, 4} } };
 ```
 
 In this example, `myArray` is an array of arrays. Each element of `myArray` is an `std::array<int, 2>`, representing a row in the multidimensional array.
-
+{% raw %}
 We use double braces `{{ ... }}` to initialize `myArray`. The outer braces represent the outermost array, and the inner braces represent each inner array (row).
-
+{% endraw %}
 Finally, we provide the values to initialize the multidimensional array. In the above example, we initialize it with the values `{1, 2}` and `{3, 4}`.
 
 You can access and manipulate individual elements of the multidimensional array using the usual notation, for example:

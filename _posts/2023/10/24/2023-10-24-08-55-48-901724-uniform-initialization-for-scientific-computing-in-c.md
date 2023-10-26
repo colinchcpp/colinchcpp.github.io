@@ -57,8 +57,10 @@ In the above code snippet, we initialize variables `num_iterations` as an intege
 ### Initializing Arrays:
 
 ```cpp
+{% raw %}
 int prime_numbers[]{2, 3, 5, 7, 11};
 double matrix[3][3]{{1.0, 0.0, 0.0}, {0.0, 1.0, 0.0}, {0.0, 0.0, 1.0}};
+{% endraw %}
 ```
 
 Uniform initialization can also be used to initialize arrays by providing the elements inside curly braces. This syntax simplifies the initialization of arrays by avoiding the need to specify their size explicitly.
@@ -83,6 +85,7 @@ Uniform initialization can be used to initialize class objects as well. In the a
 Uniform initialization is especially handy when initializing containers such as vectors, lists, or maps. Consider the following example:
 
 ```cpp
+{% raw %}
 #include <vector>
 #include <list>
 #include <map>
@@ -90,6 +93,7 @@ Uniform initialization is especially handy when initializing containers such as 
 std::vector<int> primes{2, 3, 5, 7, 11};
 std::list<double> temperature{-3.2, -1.1, 2.0, 5.5};
 std::map<std::string, int> fruit_basket{{"apple", 5}, {"banana", 3}, {"orange", 7}};
+{% endraw %}
 ```
 
 In this example, we use uniform initialization to initialize a `std::vector`, `std::list`, and `std::map` with their initial values. Using curly braces not only simplifies the code but also improves its readability.
@@ -99,8 +103,10 @@ In this example, we use uniform initialization to initialize a `std::vector`, `s
 In scientific computing, it is common to work with complex data structures such as matrices, vectors, and tensors. Uniform initialization allows you to capture these expressive data structures with ease:
 
 ```cpp
+{% raw %}
 std::vector<std::vector<double>> matrix{{1.0, 0.0, 0.0}, {0.0, 1.0, 0.0}, {0.0, 0.0, 1.0}};
 std::vector<Vector3D> positions{{1.0, 2.0, 3.0}, {4.0, 5.0, 6.0}, {7.0, 8.0, 9.0}};
+{% endraw %}
 ```
 
 The above code demonstrates how uniform initialization can be used to initialize a matrix and a vector of `Vector3D` objects efficiently. This allows you to represent data structures with complex hierarchies in a clear and concise manner.

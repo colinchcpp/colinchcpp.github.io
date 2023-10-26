@@ -21,16 +21,19 @@ In this example, we declared an outer std::array with a size of 2, and each elem
 
 3. Initialize the std::array of std::arrays using uniform initialization syntax:
 ```cpp
+{% raw %}
 std::array<std::array<int, 3>, 2> myArray = {{
     {1, 2, 3},
     {4, 5, 6}
 }};
+{% endraw %}
 ```
 In this example, we initialize the outer std::array using two inner std::array elements, each containing three integers.
 
 Here's a complete example:
 
 ```cpp
+{% raw %}
 #include <iostream>
 #include <array>
 
@@ -50,6 +53,7 @@ int main() {
     
     return 0;
 }
+{% endraw %}
 ```
 
 This code initializes a 2-dimensional std::array with 2 rows and 3 columns using uniform initialization. The values are then printed using nested loops.

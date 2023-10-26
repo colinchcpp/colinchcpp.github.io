@@ -43,6 +43,7 @@ Charlie
 Uniform initialization also works for more complex classes. Consider the following example where we have an `std::array` of a custom `Person` class:
 
 ```cpp
+{% raw %}
 #include <array>
 #include <string>
 
@@ -67,6 +68,7 @@ int main() {
     }
     return 0;
 }
+{% endraw %}
 ```
 
 In the above code, we define a `Person` class with a name and age as member variables. The `Person` class has a constructor to initialize these variables. We then create an `std::array` named `people` of type `Person`, and initialize its elements using uniform initialization syntax.
